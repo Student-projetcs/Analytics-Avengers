@@ -1,4 +1,4 @@
-# Analytic Python App
+# Health Analytic App
 
 # Scope
 
