@@ -43,7 +43,6 @@ fig1 = px.scatter_geo(df_adult, locations=df_geo_2000.index,
                      size=df_geo_2000.values,labels = True,
                      color_continuous_scale='bluered'
                     )
-fig1.update_layout(title = 'Geographic Analysis on Adult Morality(2000)')
 
 #figure 2
 
@@ -55,9 +54,9 @@ app = Dash(__name__)
 
 # App layout
 app.layout = html.Div([
-    html.H1("Dashboard title", className="Dasboard-title"),
+    html.H1("Understanding Global Health and Mortality", className="Dasboard-title"),
     html.Div([
-        html.H1("Figure 1"),
+        html.H1("Overall Adult Mortality in 2020"),
         dcc.Graph(figure=fig1)
         ],className="section1"),
     html.Div([
