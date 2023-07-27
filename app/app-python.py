@@ -61,7 +61,7 @@ fig_geo.update_geos(fitbounds="locations",
                 )
 
 fig_geo.update_layout(
-    title='Fig.2. Geographic Analysis on World Adult Morality 2000 vs 2016',
+    title='Fig.1. Geographic Analysis on World Adult Morality 2000 vs 2016',
     title_x=0.5
 #     geo=dict(
 #         projection_type='natural earth',   # Choose the map projection
