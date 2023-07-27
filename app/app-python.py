@@ -6,8 +6,9 @@ from dash import Dash, html, dcc
 
 #Dataset importation 1
 #Importing Child Mortality file
-df = pd. read_csv('C:/Users/SonyY/Documents/Portfolio Project/Infant Mortality Rate.csv')
-
+df_latest_btsx = pd. read_csv('https://github.com/Student-projetcs/Analytics-Avengers/blob/main/datasets/map_graph_df_latest_btsx.csv')
+df_years_sex_region = pd. read_csv('https://github.com/Student-projetcs/Analytics-Avengers/blob/main/datasets/line_graph_df_years_sex_region.csv')
+df_avg_mortality =  pd. read_csv('https://github.com/Student-projetcs/Analytics-Avengers/blob/main/datasets/bar_graph_df_avg_mortality.csv')
 
 #Dataset importation 2
 
