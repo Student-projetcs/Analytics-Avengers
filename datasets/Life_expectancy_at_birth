@@ -1,1 +1,1099 @@
-[{"index":0,"Continent":"Africa","Location":"Lesotho","Period":2019,"Sex":"Male","Age":"47.66"},{"index":1,"Continent":"Africa","Location":"Central African Republic","Period":2019,"Sex":"Male","Age":"50.21"},{"index":2,"Continent":"Africa","Location":"Lesotho","Period":2019,"Sex":"Both sexes","Age":"50.75"},{"index":3,"Continent":"Africa","Location":"Central African Republic","Period":2019,"Sex":"Both sexes","Age":"53.1"},{"index":4,"Continent":"Africa","Location":"Eswatini","Period":2019,"Sex":"Male","Age":"53.36"},{"index":5,"Continent":"Eastern Mediterranean","Location":"Somalia","Period":2019,"Sex":"Male","Age":"54.01"},{"index":6,"Continent":"Africa","Location":"Lesotho","Period":2019,"Sex":"Female","Age":"54.24"},{"index":7,"Continent":"Africa","Location":"Mozambique","Period":2019,"Sex":"Male","Age":"54.46"},{"index":8,"Continent":"Western Pacific","Location":"Kiribati","Period":2019,"Sex":"Male","Age":"56.14"},{"index":9,"Continent":"Africa","Location":"Central African Republic","Period":2019,"Sex":"Female","Age":"56.26"},{"index":10,"Continent":"Eastern Mediterranean","Location":"Somalia","Period":2019,"Sex":"Both sexes","Age":"56.47"},{"index":11,"Continent":"Africa","Location":"Guinea-Bissau","Period":2019,"Sex":"Male","Age":"57.36"},{"index":12,"Continent":"Africa","Location":"Zimbabwe","Period":2019,"Sex":"Male","Age":"57.51"},{"index":13,"Continent":"Africa","Location":"Eswatini","Period":2019,"Sex":"Both sexes","Age":"57.73"},{"index":14,"Continent":"Africa","Location":"Chad","Period":2019,"Sex":"Male","Age":"57.95"},{"index":15,"Continent":"Africa","Location":"Mozambique","Period":2019,"Sex":"Both sexes","Age":"58.14"},{"index":16,"Continent":"Africa","Location":"Botswana","Period":2019,"Sex":"Male","Age":"58.95"},{"index":17,"Continent":"Eastern Mediterranean","Location":"Somalia","Period":2019,"Sex":"Female","Age":"59.22"},{"index":18,"Continent":"Western Pacific","Location":"Kiribati","Period":2019,"Sex":"Both sexes","Age":"59.42"},{"index":19,"Continent":"Africa","Location":"Guinea","Period":2019,"Sex":"Male","Age":"59.48"},{"index":20,"Continent":"Africa","Location":"Zambia","Period":2019,"Sex":"Male","Age":"59.54"},{"index":21,"Continent":"Africa","Location":"Sierra Leone","Period":2019,"Sex":"Male","Age":"59.6"},{"index":22,"Continent":"Africa","Location":"Chad","Period":2019,"Sex":"Both sexes","Age":"59.63"},{"index":23,"Continent":"Africa","Location":"Democratic Republic of the Congo","Period":2019,"Sex":"Male","Age":"60.0"},{"index":24,"Continent":"Africa","Location":"Burkina Faso","Period":2019,"Sex":"Male","Age":"60.06"},{"index":25,"Continent":"Africa","Location":"Guinea-Bissau","Period":2019,"Sex":"Both sexes","Age":"60.22"},{"index":26,"Continent":"Africa","Location":"Cameroon","Period":2019,"Sex":"Male","Age":"60.29"},{"index":27,"Continent":"Western Pacific","Location":"Micronesia (Federated States of)","Period":2019,"Sex":"Male","Age":"60.35"},{"index":28,"Continent":"Africa","Location":"Côte d’Ivoire","Period":2019,"Sex":"Male","Age":"60.53"},{"index":29,"Continent":"Africa","Location":"Namibia","Period":2019,"Sex":"Male","Age":"60.58"},{"index":30,"Continent":"Africa","Location":"Zimbabwe","Period":2019,"Sex":"Both sexes","Age":"60.68"},{"index":31,"Continent":"Africa","Location":"Angola","Period":2019,"Sex":"Male","Age":"60.7"},{"index":32,"Continent":"Africa","Location":"Sierra Leone","Period":2019,"Sex":"Both sexes","Age":"60.77"},{"index":33,"Continent":"Africa","Location":"South Sudan","Period":2019,"Sex":"Male","Age":"60.83"},{"index":34,"Continent":"Africa","Location":"Equatorial Guinea","Period":2019,"Sex":"Male","Age":"60.87"},{"index":35,"Continent":"Africa","Location":"Guinea","Period":2019,"Sex":"Both sexes","Age":"61.01"},{"index":36,"Continent":"Africa","Location":"Benin","Period":2019,"Sex":"Male","Age":"61.19"},{"index":37,"Continent":"Africa","Location":"Nigeria","Period":2019,"Sex":"Male","Age":"61.2"},{"index":38,"Continent":"Africa","Location":"Eritrea","Period":2019,"Sex":"Male","Age":"61.3"},{"index":39,"Continent":"Africa","Location":"Chad","Period":2019,"Sex":"Female","Age":"61.34"},{"index":40,"Continent":"Africa","Location":"Togo","Period":2019,"Sex":"Male","Age":"61.52"},{"index":41,"Continent":"Africa","Location":"Burundi","Period":2019,"Sex":"Male","Age":"61.55"},{"index":42,"Continent":"Africa","Location":"Mozambique","Period":2019,"Sex":"Female","Age":"61.73"},{"index":43,"Continent":"Africa","Location":"Sierra Leone","Period":2019,"Sex":"Female","Age":"61.9"},{"index":44,"Continent":"Africa","Location":"Niger","Period":2019,"Sex":"Male","Age":"62.06"},{"index":45,"Continent":"Africa","Location":"Equatorial Guinea","Period":2019,"Sex":"Both sexes","Age":"62.19"},{"index":46,"Continent":"Africa","Location":"Mali","Period":2019,"Sex":"Male","Age":"62.2"},{"index":47,"Continent":"Africa","Location":"South Africa","Period":2019,"Sex":"Male","Age":"62.2"},{"index":48,"Continent":"Africa","Location":"Botswana","Period":2019,"Sex":"Both sexes","Age":"62.25"},{"index":49,"Continent":"Africa","Location":"Guinea","Period":2019,"Sex":"Female","Age":"62.25"},{"index":50,"Continent":"Africa","Location":"Malawi","Period":2019,"Sex":"Male","Age":"62.31"},{"index":51,"Continent":"Africa","Location":"Democratic Republic of the Congo","Period":2019,"Sex":"Both sexes","Age":"62.35"},{"index":52,"Continent":"Africa","Location":"Cameroon","Period":2019,"Sex":"Both sexes","Age":"62.36"},{"index":53,"Continent":"Americas","Location":"Guyana","Period":2019,"Sex":"Male","Age":"62.45"},{"index":54,"Continent":"Africa","Location":"Zambia","Period":2019,"Sex":"Both sexes","Age":"62.45"},{"index":55,"Continent":"Africa","Location":"Nigeria","Period":2019,"Sex":"Both sexes","Age":"62.62"},{"index":56,"Continent":"Western Pacific","Location":"Vanuatu","Period":2019,"Sex":"Male","Age":"62.66"},{"index":57,"Continent":"Africa","Location":"Burkina Faso","Period":2019,"Sex":"Both sexes","Age":"62.7"},{"index":58,"Continent":"Africa","Location":"South Sudan","Period":2019,"Sex":"Both sexes","Age":"62.79"},{"index":59,"Continent":"Western Pacific","Location":"Kiribati","Period":2019,"Sex":"Female","Age":"62.8"},{"index":60,"Continent":"Africa","Location":"Mali","Period":2019,"Sex":"Both sexes","Age":"62.8"},{"index":61,"Continent":"Western Pacific","Location":"Solomon Islands","Period":2019,"Sex":"Male","Age":"62.87"},{"index":62,"Continent":"Africa","Location":"Côte d’Ivoire","Period":2019,"Sex":"Both sexes","Age":"62.92"},{"index":63,"Continent":"Africa","Location":"Guinea-Bissau","Period":2019,"Sex":"Female","Age":"62.98"},{"index":64,"Continent":"Western Pacific","Location":"Micronesia (Federated States of)","Period":2019,"Sex":"Both sexes","Age":"63.03"},{"index":65,"Continent":"Africa","Location":"Angola","Period":2019,"Sex":"Both sexes","Age":"63.06"},{"index":66,"Continent":"Africa","Location":"Liberia","Period":2019,"Sex":"Male","Age":"63.15"},{"index":67,"Continent":"Eastern Mediterranean","Location":"Afghanistan","Period":2019,"Sex":"Female","Age":"63.16"},{"index":68,"Continent":"Africa","Location":"Eswatini","Period":2019,"Sex":"Female","Age":"63.18"},{"index":69,"Continent":"Eastern Mediterranean","Location":"Afghanistan","Period":2019,"Sex":"Both sexes","Age":"63.21"},{"index":70,"Continent":"Africa","Location":"Uganda","Period":2019,"Sex":"Male","Age":"63.24"},{"index":71,"Continent":"Eastern Mediterranean","Location":"Afghanistan","Period":2019,"Sex":"Male","Age":"63.29"},{"index":72,"Continent":"Africa","Location":"Niger","Period":2019,"Sex":"Both sexes","Age":"63.29"},{"index":73,"Continent":"Americas","Location":"Haiti","Period":2019,"Sex":"Male","Age":"63.34"},{"index":74,"Continent":"Africa","Location":"Mali","Period":2019,"Sex":"Female","Age":"63.4"},{"index":75,"Continent":"Western Pacific","Location":"Papua New Guinea","Period":2019,"Sex":"Male","Age":"63.4"},{"index":76,"Continent":"Africa","Location":"Gambia","Period":2019,"Sex":"Male","Age":"63.42"},{"index":77,"Continent":"Africa","Location":"Benin","Period":2019,"Sex":"Both sexes","Age":"63.43"},{"index":78,"Continent":"Africa","Location":"Equatorial Guinea","Period":2019,"Sex":"Female","Age":"63.58"},{"index":79,"Continent":"Africa","Location":"Gabon","Period":2019,"Sex":"Male","Age":"63.59"},{"index":80,"Continent":"Africa","Location":"Zimbabwe","Period":2019,"Sex":"Female","Age":"63.61"},{"index":81,"Continent":"Africa","Location":"Ghana","Period":2019,"Sex":"Male","Age":"63.66"},{"index":82,"Continent":"Africa","Location":"Kenya","Period":2019,"Sex":"Male","Age":"63.7"},{"index":83,"Continent":"Africa","Location":"Congo","Period":2019,"Sex":"Male","Age":"63.81"},{"index":84,"Continent":"Western Pacific","Location":"Mongolia","Period":2019,"Sex":"Male","Age":"63.82"},{"index":85,"Continent":"Africa","Location":"Burundi","Period":2019,"Sex":"Both sexes","Age":"63.84"},{"index":86,"Continent":"Americas","Location":"Haiti","Period":2019,"Sex":"Both sexes","Age":"64.05"},{"index":87,"Continent":"Africa","Location":"Eritrea","Period":2019,"Sex":"Both sexes","Age":"64.08"},{"index":88,"Continent":"Africa","Location":"Liberia","Period":2019,"Sex":"Both sexes","Age":"64.08"},{"index":89,"Continent":"Eastern Mediterranean","Location":"Djibouti","Period":2019,"Sex":"Male","Age":"64.1"},{"index":90,"Continent":"Africa","Location":"Madagascar","Period":2019,"Sex":"Male","Age":"64.1"},{"index":91,"Continent":"Africa","Location":"Nigeria","Period":2019,"Sex":"Female","Age":"64.1"},{"index":92,"Continent":"Africa","Location":"Togo","Period":2019,"Sex":"Both sexes","Age":"64.27"},{"index":93,"Continent":"Eastern Mediterranean","Location":"Yemen","Period":2019,"Sex":"Male","Age":"64.41"},{"index":94,"Continent":"Africa","Location":"Cameroon","Period":2019,"Sex":"Female","Age":"64.5"},{"index":95,"Continent":"Africa","Location":"Niger","Period":2019,"Sex":"Female","Age":"64.56"},{"index":96,"Continent":"Africa","Location":"Namibia","Period":2019,"Sex":"Both sexes","Age":"64.58"},{"index":97,"Continent":"Eastern Mediterranean","Location":"Pakistan","Period":2019,"Sex":"Male","Age":"64.59"},{"index":98,"Continent":"Africa","Location":"Congo","Period":2019,"Sex":"Both sexes","Age":"64.74"},{"index":99,"Continent":"Americas","Location":"Haiti","Period":2019,"Sex":"Female","Age":"64.76"},{"index":100,"Continent":"Africa","Location":"Democratic Republic of the Congo","Period":2019,"Sex":"Female","Age":"64.82"},{"index":101,"Continent":"Africa","Location":"South Sudan","Period":2019,"Sex":"Female","Age":"64.84"},{"index":102,"Continent":"Africa","Location":"Liberia","Period":2019,"Sex":"Female","Age":"65.0"},{"index":103,"Continent":"Africa","Location":"Burkina Faso","Period":2019,"Sex":"Female","Age":"65.23"},{"index":104,"Continent":"Western Pacific","Location":"Solomon Islands","Period":2019,"Sex":"Both sexes","Age":"65.25"},{"index":105,"Continent":"Africa","Location":"South Africa","Period":2019,"Sex":"Both sexes","Age":"65.25"},{"index":106,"Continent":"Western Pacific","Location":"Papua New Guinea","Period":2019,"Sex":"Both sexes","Age":"65.3"},{"index":107,"Continent":"Western Pacific","Location":"Vanuatu","Period":2019,"Sex":"Both sexes","Age":"65.31"},{"index":108,"Continent":"Africa","Location":"Madagascar","Period":2019,"Sex":"Both sexes","Age":"65.35"},{"index":109,"Continent":"Africa","Location":"United Republic of Tanzania","Period":2019,"Sex":"Male","Age":"65.37"},{"index":110,"Continent":"Africa","Location":"Zambia","Period":2019,"Sex":"Female","Age":"65.37"},{"index":111,"Continent":"Africa","Location":"Botswana","Period":2019,"Sex":"Female","Age":"65.46"},{"index":112,"Continent":"Africa","Location":"Gambia","Period":2019,"Sex":"Both sexes","Age":"65.47"},{"index":113,"Continent":"Africa","Location":"Angola","Period":2019,"Sex":"Female","Age":"65.52"},{"index":114,"Continent":"Africa","Location":"Congo","Period":2019,"Sex":"Female","Age":"65.61"},{"index":115,"Continent":"Eastern Mediterranean","Location":"Pakistan","Period":2019,"Sex":"Both sexes","Age":"65.61"},{"index":116,"Continent":"Africa","Location":"Malawi","Period":2019,"Sex":"Both sexes","Age":"65.62"},{"index":117,"Continent":"Africa","Location":"Benin","Period":2019,"Sex":"Female","Age":"65.66"},{"index":118,"Continent":"Americas","Location":"Guyana","Period":2019,"Sex":"Both sexes","Age":"65.69"},{"index":119,"Continent":"Africa","Location":"Côte d’Ivoire","Period":2019,"Sex":"Female","Age":"65.81"},{"index":120,"Continent":"Eastern Mediterranean","Location":"Djibouti","Period":2019,"Sex":"Both sexes","Age":"65.81"},{"index":121,"Continent":"South-East Asia","Location":"Myanmar","Period":2019,"Sex":"Male","Age":"65.91"},{"index":122,"Continent":"Africa","Location":"Comoros","Period":2019,"Sex":"Male","Age":"65.92"},{"index":123,"Continent":"Western Pacific","Location":"Fiji","Period":2019,"Sex":"Male","Age":"65.93"},{"index":124,"Continent":"Western Pacific","Location":"Micronesia (Federated States of)","Period":2019,"Sex":"Female","Age":"66.05"},{"index":125,"Continent":"Africa","Location":"Kenya","Period":2019,"Sex":"Both sexes","Age":"66.09"},{"index":126,"Continent":"Africa","Location":"Burundi","Period":2019,"Sex":"Female","Age":"66.14"},{"index":127,"Continent":"Western Pacific","Location":"Lao People's Democratic Republic","Period":2019,"Sex":"Male","Age":"66.19"},{"index":128,"Continent":"Africa","Location":"Ghana","Period":2019,"Sex":"Both sexes","Age":"66.28"},{"index":129,"Continent":"Africa","Location":"Gabon","Period":2019,"Sex":"Both sexes","Age":"66.47"},{"index":130,"Continent":"Europe","Location":"Turkmenistan","Period":2019,"Sex":"Male","Age":"66.48"},{"index":131,"Continent":"Africa","Location":"Madagascar","Period":2019,"Sex":"Female","Age":"66.6"},{"index":132,"Continent":"Eastern Mediterranean","Location":"Yemen","Period":2019,"Sex":"Both sexes","Age":"66.63"},{"index":133,"Continent":"Africa","Location":"Uganda","Period":2019,"Sex":"Both sexes","Age":"66.69"},{"index":134,"Continent":"Eastern Mediterranean","Location":"Pakistan","Period":2019,"Sex":"Female","Age":"66.72"},{"index":135,"Continent":"Africa","Location":"Senegal","Period":2019,"Sex":"Male","Age":"66.82"},{"index":136,"Continent":"Africa","Location":"Rwanda","Period":2019,"Sex":"Male","Age":"66.88"},{"index":137,"Continent":"Africa","Location":"Ethiopia","Period":2019,"Sex":"Male","Age":"66.9"},{"index":138,"Continent":"Africa","Location":"Eritrea","Period":2019,"Sex":"Female","Age":"67.07"},{"index":139,"Continent":"Western Pacific","Location":"Cambodia","Period":2019,"Sex":"Male","Age":"67.23"},{"index":140,"Continent":"Africa","Location":"Togo","Period":2019,"Sex":"Female","Age":"67.23"},{"index":141,"Continent":"Africa","Location":"United Republic of Tanzania","Period":2019,"Sex":"Both sexes","Age":"67.34"},{"index":142,"Continent":"Western Pacific","Location":"Papua New Guinea","Period":2019,"Sex":"Female","Age":"67.36"},{"index":143,"Continent":"Africa","Location":"Comoros","Period":2019,"Sex":"Both sexes","Age":"67.39"},{"index":144,"Continent":"Western Pacific","Location":"Philippines","Period":2019,"Sex":"Male","Age":"67.4"},{"index":145,"Continent":"Eastern Mediterranean","Location":"Sudan","Period":2019,"Sex":"Male","Age":"67.55"},{"index":146,"Continent":"Europe","Location":"Tajikistan","Period":2019,"Sex":"Male","Age":"67.58"},{"index":147,"Continent":"Africa","Location":"Gambia","Period":2019,"Sex":"Female","Age":"67.65"},{"index":148,"Continent":"Eastern Mediterranean","Location":"Djibouti","Period":2019,"Sex":"Female","Age":"67.78"},{"index":149,"Continent":"Western Pacific","Location":"Solomon Islands","Period":2019,"Sex":"Female","Age":"67.87"},{"index":150,"Continent":"South-East Asia","Location":"Timor-Leste","Period":2019,"Sex":"Male","Age":"67.93"},{"index":151,"Continent":"Europe","Location":"Ukraine","Period":2019,"Sex":"Male","Age":"68.0"},{"index":152,"Continent":"Western Pacific","Location":"Fiji","Period":2019,"Sex":"Both sexes","Age":"68.01"},{"index":153,"Continent":"Africa","Location":"Mauritania","Period":2019,"Sex":"Male","Age":"68.08"},{"index":154,"Continent":"Western Pacific","Location":"Mongolia","Period":2019,"Sex":"Both sexes","Age":"68.1"},{"index":155,"Continent":"Europe","Location":"Russian Federation","Period":2019,"Sex":"Male","Age":"68.18"},{"index":156,"Continent":"Africa","Location":"South Africa","Period":2019,"Sex":"Female","Age":"68.29"},{"index":157,"Continent":"Western Pacific","Location":"Vanuatu","Period":2019,"Sex":"Female","Age":"68.32"},{"index":158,"Continent":"Africa","Location":"Mauritania","Period":2019,"Sex":"Both sexes","Age":"68.38"},{"index":159,"Continent":"Africa","Location":"Kenya","Period":2019,"Sex":"Female","Age":"68.44"},{"index":160,"Continent":"Africa","Location":"Namibia","Period":2019,"Sex":"Female","Age":"68.45"},{"index":161,"Continent":"Americas","Location":"Suriname","Period":2019,"Sex":"Male","Age":"68.5"},{"index":162,"Continent":"Western Pacific","Location":"Lao People's Democratic Republic","Period":2019,"Sex":"Both sexes","Age":"68.51"},{"index":163,"Continent":"Africa","Location":"Senegal","Period":2019,"Sex":"Both sexes","Age":"68.58"},{"index":164,"Continent":"Africa","Location":"Ethiopia","Period":2019,"Sex":"Both sexes","Age":"68.7"},{"index":165,"Continent":"Africa","Location":"Mauritania","Period":2019,"Sex":"Female","Age":"68.73"},{"index":166,"Continent":"Europe","Location":"Azerbaijan","Period":2019,"Sex":"Male","Age":"68.78"},{"index":167,"Continent":"Europe","Location":"Georgia","Period":2019,"Sex":"Male","Age":"68.79"},{"index":168,"Continent":"Africa","Location":"Sao Tome and Principe","Period":2019,"Sex":"Male","Age":"68.79"},{"index":169,"Continent":"Africa","Location":"Comoros","Period":2019,"Sex":"Female","Age":"68.88"},{"index":170,"Continent":"South-East Asia","Location":"Nepal","Period":2019,"Sex":"Male","Age":"68.88"},{"index":171,"Continent":"Eastern Mediterranean","Location":"Yemen","Period":2019,"Sex":"Female","Age":"68.92"},{"index":172,"Continent":"Africa","Location":"Malawi","Period":2019,"Sex":"Female","Age":"68.93"},{"index":173,"Continent":"Americas","Location":"Guatemala","Period":2019,"Sex":"Male","Age":"68.95"},{"index":174,"Continent":"Africa","Location":"Rwanda","Period":2019,"Sex":"Both sexes","Age":"69.1"},{"index":175,"Continent":"South-East Asia","Location":"Myanmar","Period":2019,"Sex":"Both sexes","Age":"69.13"},{"index":176,"Continent":"Eastern Mediterranean","Location":"Sudan","Period":2019,"Sex":"Both sexes","Age":"69.15"},{"index":177,"Continent":"Africa","Location":"Ghana","Period":2019,"Sex":"Female","Age":"69.16"},{"index":178,"Continent":"Western Pacific","Location":"Samoa","Period":2019,"Sex":"Male","Age":"69.16"},{"index":179,"Continent":"Europe","Location":"Republic of Moldova","Period":2019,"Sex":"Male","Age":"69.26"},{"index":180,"Continent":"Africa","Location":"United Republic of Tanzania","Period":2019,"Sex":"Female","Age":"69.26"},{"index":181,"Continent":"South-East Asia","Location":"Democratic People's Republic of Korea","Period":2019,"Sex":"Male","Age":"69.29"},{"index":182,"Continent":"Americas","Location":"Guyana","Period":2019,"Sex":"Female","Age":"69.39"},{"index":183,"Continent":"South-East Asia","Location":"Indonesia","Period":2019,"Sex":"Male","Age":"69.4"},{"index":184,"Continent":"Europe","Location":"Tajikistan","Period":2019,"Sex":"Both sexes","Age":"69.5"},{"index":185,"Continent":"South-East Asia","Location":"India","Period":2019,"Sex":"Male","Age":"69.52"},{"index":186,"Continent":"Western Pacific","Location":"Viet Nam","Period":2019,"Sex":"Male","Age":"69.56"},{"index":187,"Continent":"Eastern Mediterranean","Location":"Egypt","Period":2019,"Sex":"Male","Age":"69.59"},{"index":188,"Continent":"South-East Asia","Location":"Timor-Leste","Period":2019,"Sex":"Both sexes","Age":"69.62"},{"index":189,"Continent":"Europe","Location":"Belarus","Period":2019,"Sex":"Male","Age":"69.65"},{"index":190,"Continent":"Africa","Location":"Gabon","Period":2019,"Sex":"Female","Age":"69.73"},{"index":191,"Continent":"Europe","Location":"Turkmenistan","Period":2019,"Sex":"Both sexes","Age":"69.75"},{"index":192,"Continent":"Americas","Location":"Dominican Republic","Period":2019,"Sex":"Male","Age":"69.76"},{"index":193,"Continent":"Western Pacific","Location":"Tonga","Period":2019,"Sex":"Male","Age":"69.81"},{"index":194,"Continent":"Americas","Location":"Bahamas","Period":2019,"Sex":"Male","Age":"69.85"},{"index":195,"Continent":"Africa","Location":"Cabo Verde","Period":2019,"Sex":"Male","Age":"69.9"},{"index":196,"Continent":"Americas","Location":"Venezuela (Bolivarian Republic of)","Period":2019,"Sex":"Male","Age":"69.91"},{"index":197,"Continent":"Eastern Mediterranean","Location":"Iraq","Period":2019,"Sex":"Male","Age":"69.93"},{"index":198,"Continent":"Europe","Location":"Kazakhstan","Period":2019,"Sex":"Male","Age":"69.98"},{"index":199,"Continent":"Africa","Location":"Seychelles","Period":2019,"Sex":"Male","Age":"69.98"},{"index":200,"Continent":"Africa","Location":"Uganda","Period":2019,"Sex":"Female","Age":"70.1"},{"index":201,"Continent":"Western Pacific","Location":"Cambodia","Period":2019,"Sex":"Both sexes","Age":"70.12"},{"index":202,"Continent":"Africa","Location":"Senegal","Period":2019,"Sex":"Female","Age":"70.14"},{"index":203,"Continent":"Western Pacific","Location":"Fiji","Period":2019,"Sex":"Female","Age":"70.28"},{"index":204,"Continent":"Africa","Location":"Sao Tome and Principe","Period":2019,"Sex":"Both sexes","Age":"70.42"},{"index":205,"Continent":"Western Pacific","Location":"Philippines","Period":2019,"Sex":"Both sexes","Age":"70.43"},{"index":206,"Continent":"Western Pacific","Location":"Samoa","Period":2019,"Sex":"Both sexes","Age":"70.45"},{"index":207,"Continent":"Africa","Location":"Ethiopia","Period":2019,"Sex":"Female","Age":"70.52"},{"index":208,"Continent":"Americas","Location":"El Salvador","Period":2019,"Sex":"Male","Age":"70.58"},{"index":209,"Continent":"Europe","Location":"Latvia","Period":2019,"Sex":"Male","Age":"70.58"},{"index":210,"Continent":"Americas","Location":"Grenada","Period":2019,"Sex":"Male","Age":"70.63"},{"index":211,"Continent":"Americas","Location":"Honduras","Period":2019,"Sex":"Male","Age":"70.67"},{"index":212,"Continent":"Europe","Location":"Kyrgyzstan","Period":2019,"Sex":"Male","Age":"70.75"},{"index":213,"Continent":"Eastern Mediterranean","Location":"Sudan","Period":2019,"Sex":"Female","Age":"70.76"},{"index":214,"Continent":"Europe","Location":"Uzbekistan","Period":2019,"Sex":"Male","Age":"70.76"},{"index":215,"Continent":"South-East Asia","Location":"India","Period":2019,"Sex":"Both sexes","Age":"70.79"},{"index":216,"Continent":"South-East Asia","Location":"Nepal","Period":2019,"Sex":"Both sexes","Age":"70.88"},{"index":217,"Continent":"Western Pacific","Location":"Lao People's Democratic Republic","Period":2019,"Sex":"Female","Age":"70.95"},{"index":218,"Continent":"Africa","Location":"Mauritius","Period":2019,"Sex":"Male","Age":"70.95"},{"index":219,"Continent":"Americas","Location":"Bolivia (Plurinational State of)","Period":2019,"Sex":"Male","Age":"71.15"},{"index":220,"Continent":"Eastern Mediterranean","Location":"Syrian Arab Republic","Period":2019,"Sex":"Male","Age":"71.18"},{"index":221,"Continent":"Europe","Location":"Lithuania","Period":2019,"Sex":"Male","Age":"71.23"},{"index":222,"Continent":"Africa","Location":"Rwanda","Period":2019,"Sex":"Female","Age":"71.24"},{"index":223,"Continent":"Americas","Location":"Saint Lucia","Period":2019,"Sex":"Male","Age":"71.3"},{"index":224,"Continent":"South-East Asia","Location":"Indonesia","Period":2019,"Sex":"Both sexes","Age":"71.31"},{"index":225,"Continent":"Americas","Location":"Saint Vincent and the Grenadines","Period":2019,"Sex":"Male","Age":"71.32"},{"index":226,"Continent":"Americas","Location":"Belize","Period":2019,"Sex":"Male","Age":"71.36"},{"index":227,"Continent":"South-East Asia","Location":"Timor-Leste","Period":2019,"Sex":"Female","Age":"71.41"},{"index":228,"Continent":"Europe","Location":"Azerbaijan","Period":2019,"Sex":"Both sexes","Age":"71.43"},{"index":229,"Continent":"Americas","Location":"Suriname","Period":2019,"Sex":"Both sexes","Age":"71.48"},{"index":230,"Continent":"Europe","Location":"Tajikistan","Period":2019,"Sex":"Female","Age":"71.55"},{"index":231,"Continent":"Europe","Location":"Bulgaria","Period":2019,"Sex":"Male","Age":"71.65"},{"index":232,"Continent":"Eastern Mediterranean","Location":"Morocco","Period":2019,"Sex":"Male","Age":"71.68"},{"index":233,"Continent":"Eastern Mediterranean","Location":"Egypt","Period":2019,"Sex":"Both sexes","Age":"71.82"},{"index":234,"Continent":"Western Pacific","Location":"Samoa","Period":2019,"Sex":"Female","Age":"71.85"},{"index":235,"Continent":"Americas","Location":"Honduras","Period":2019,"Sex":"Both sexes","Age":"71.94"},{"index":236,"Continent":"Europe","Location":"Romania","Period":2019,"Sex":"Male","Age":"71.95"},{"index":237,"Continent":"Africa","Location":"Sao Tome and Principe","Period":2019,"Sex":"Female","Age":"71.99"},{"index":238,"Continent":"Americas","Location":"Guatemala","Period":2019,"Sex":"Both sexes","Age":"72.02"},{"index":239,"Continent":"South-East Asia","Location":"Bhutan","Period":2019,"Sex":"Male","Age":"72.03"},{"index":240,"Continent":"Americas","Location":"Nicaragua","Period":2019,"Sex":"Male","Age":"72.07"},{"index":241,"Continent":"Americas","Location":"Bolivia (Plurinational State of)","Period":2019,"Sex":"Both sexes","Age":"72.14"},{"index":242,"Continent":"South-East Asia","Location":"India","Period":2019,"Sex":"Female","Age":"72.17"},{"index":243,"Continent":"South-East Asia","Location":"Myanmar","Period":2019,"Sex":"Female","Age":"72.2"},{"index":244,"Continent":"Eastern Mediterranean","Location":"Iraq","Period":2019,"Sex":"Both sexes","Age":"72.42"},{"index":245,"Continent":"Americas","Location":"Brazil","Period":2019,"Sex":"Male","Age":"72.45"},{"index":246,"Continent":"Europe","Location":"Armenia","Period":2019,"Sex":"Male","Age":"72.49"},{"index":247,"Continent":"Americas","Location":"Trinidad and Tobago","Period":2019,"Sex":"Male","Age":"72.54"},{"index":248,"Continent":"Western Pacific","Location":"Tonga","Period":2019,"Sex":"Both sexes","Age":"72.57"},{"index":249,"Continent":"Western Pacific","Location":"Malaysia","Period":2019,"Sex":"Male","Age":"72.61"},{"index":250,"Continent":"South-East Asia","Location":"Democratic People's Republic of Korea","Period":2019,"Sex":"Both sexes","Age":"72.63"},{"index":251,"Continent":"Eastern Mediterranean","Location":"Syrian Arab Republic","Period":2019,"Sex":"Both sexes","Age":"72.67"},{"index":252,"Continent":"Western Pacific","Location":"Cambodia","Period":2019,"Sex":"Female","Age":"72.75"},{"index":253,"Continent":"South-East Asia","Location":"Nepal","Period":2019,"Sex":"Female","Age":"72.75"},{"index":254,"Continent":"Western Pacific","Location":"Mongolia","Period":2019,"Sex":"Female","Age":"72.76"},{"index":255,"Continent":"Americas","Location":"Dominican Republic","Period":2019,"Sex":"Both sexes","Age":"72.84"},{"index":256,"Continent":"Europe","Location":"The former Yugoslav Republic of Macedonia","Period":2019,"Sex":"Male","Age":"72.84"},{"index":257,"Continent":"Americas","Location":"Grenada","Period":2019,"Sex":"Both sexes","Age":"72.88"},{"index":258,"Continent":"Eastern Mediterranean","Location":"Oman","Period":2019,"Sex":"Male","Age":"72.97"},{"index":259,"Continent":"Europe","Location":"Turkmenistan","Period":2019,"Sex":"Female","Age":"72.97"},{"index":260,"Continent":"South-East Asia","Location":"Bangladesh","Period":2019,"Sex":"Male","Age":"72.99"},{"index":261,"Continent":"Eastern Mediterranean","Location":"Morocco","Period":2019,"Sex":"Both sexes","Age":"72.99"},{"index":262,"Continent":"Europe","Location":"Uzbekistan","Period":2019,"Sex":"Both sexes","Age":"73.01"},{"index":263,"Continent":"Europe","Location":"Ukraine","Period":2019,"Sex":"Both sexes","Age":"73.02"},{"index":264,"Continent":"Americas","Location":"Paraguay","Period":2019,"Sex":"Male","Age":"73.08"},{"index":265,"Continent":"Europe","Location":"Hungary","Period":2019,"Sex":"Male","Age":"73.09"},{"index":266,"Continent":"South-East Asia","Location":"Bhutan","Period":2019,"Sex":"Both sexes","Age":"73.11"},{"index":267,"Continent":"Eastern Mediterranean","Location":"Saudi Arabia","Period":2019,"Sex":"Male","Age":"73.11"},{"index":268,"Continent":"Americas","Location":"Bolivia (Plurinational State of)","Period":2019,"Sex":"Female","Age":"73.13"},{"index":269,"Continent":"Americas","Location":"Mexico","Period":2019,"Sex":"Male","Age":"73.13"},{"index":270,"Continent":"Europe","Location":"Montenegro","Period":2019,"Sex":"Male","Age":"73.15"},{"index":271,"Continent":"Americas","Location":"Honduras","Period":2019,"Sex":"Female","Age":"73.16"},{"index":272,"Continent":"Americas","Location":"Bahamas","Period":2019,"Sex":"Both sexes","Age":"73.21"},{"index":273,"Continent":"Americas","Location":"Saint Vincent and the Grenadines","Period":2019,"Sex":"Both sexes","Age":"73.22"},{"index":274,"Continent":"Europe","Location":"Russian Federation","Period":2019,"Sex":"Both sexes","Age":"73.23"},{"index":275,"Continent":"Europe","Location":"Republic of Moldova","Period":2019,"Sex":"Both sexes","Age":"73.26"},{"index":276,"Continent":"Europe","Location":"Georgia","Period":2019,"Sex":"Both sexes","Age":"73.28"},{"index":277,"Continent":"South-East Asia","Location":"Indonesia","Period":2019,"Sex":"Female","Age":"73.3"},{"index":278,"Continent":"Africa","Location":"Seychelles","Period":2019,"Sex":"Both sexes","Age":"73.34"},{"index":279,"Continent":"Western Pacific","Location":"Brunei Darussalam","Period":2019,"Sex":"Male","Age":"73.39"},{"index":280,"Continent":"Europe","Location":"Serbia","Period":2019,"Sex":"Male","Age":"73.46"},{"index":281,"Continent":"Americas","Location":"Uruguay","Period":2019,"Sex":"Male","Age":"73.48"},{"index":282,"Continent":"Americas","Location":"Argentina","Period":2019,"Sex":"Male","Age":"73.51"},{"index":283,"Continent":"Western Pacific","Location":"Philippines","Period":2019,"Sex":"Female","Age":"73.6"},{"index":284,"Continent":"Western Pacific","Location":"Viet Nam","Period":2019,"Sex":"Both sexes","Age":"73.74"},{"index":285,"Continent":"South-East Asia","Location":"Sri Lanka","Period":2019,"Sex":"Male","Age":"73.8"},{"index":286,"Continent":"Eastern Mediterranean","Location":"Oman","Period":2019,"Sex":"Both sexes","Age":"73.9"},{"index":287,"Continent":"Europe","Location":"Kazakhstan","Period":2019,"Sex":"Both sexes","Age":"73.95"},{"index":288,"Continent":"Americas","Location":"Venezuela (Bolivarian Republic of)","Period":2019,"Sex":"Both sexes","Age":"73.95"},{"index":289,"Continent":"Africa","Location":"Cabo Verde","Period":2019,"Sex":"Both sexes","Age":"74.03"},{"index":290,"Continent":"Eastern Mediterranean","Location":"Lebanon","Period":2019,"Sex":"Male","Age":"74.03"},{"index":291,"Continent":"Africa","Location":"Mauritius","Period":2019,"Sex":"Both sexes","Age":"74.07"},{"index":292,"Continent":"Europe","Location":"Azerbaijan","Period":2019,"Sex":"Female","Age":"74.09"},{"index":293,"Continent":"Eastern Mediterranean","Location":"Egypt","Period":2019,"Sex":"Female","Age":"74.14"},{"index":294,"Continent":"Europe","Location":"Kyrgyzstan","Period":2019,"Sex":"Both sexes","Age":"74.18"},{"index":295,"Continent":"Eastern Mediterranean","Location":"Libya","Period":2019,"Sex":"Male","Age":"74.21"},{"index":296,"Continent":"South-East Asia","Location":"Bangladesh","Period":2019,"Sex":"Both sexes","Age":"74.25"},{"index":297,"Continent":"Eastern Mediterranean","Location":"Syrian Arab Republic","Period":2019,"Sex":"Female","Age":"74.26"},{"index":298,"Continent":"Eastern Mediterranean","Location":"Morocco","Period":2019,"Sex":"Female","Age":"74.31"},{"index":299,"Continent":"Eastern Mediterranean","Location":"Saudi Arabia","Period":2019,"Sex":"Both sexes","Age":"74.31"},{"index":300,"Continent":"Americas","Location":"Barbados","Period":2019,"Sex":"Male","Age":"74.32"},{"index":301,"Continent":"Western Pacific","Location":"Brunei Darussalam","Period":2019,"Sex":"Both sexes","Age":"74.32"},{"index":302,"Continent":"Americas","Location":"Saint Lucia","Period":2019,"Sex":"Both sexes","Age":"74.33"},{"index":303,"Continent":"Americas","Location":"Jamaica","Period":2019,"Sex":"Male","Age":"74.36"},{"index":304,"Continent":"South-East Asia","Location":"Thailand","Period":2019,"Sex":"Male","Age":"74.36"},{"index":305,"Continent":"Europe","Location":"Bosnia and Herzegovina","Period":2019,"Sex":"Male","Age":"74.38"},{"index":306,"Continent":"South-East Asia","Location":"Bhutan","Period":2019,"Sex":"Female","Age":"74.39"},{"index":307,"Continent":"Americas","Location":"Belize","Period":2019,"Sex":"Both sexes","Age":"74.41"},{"index":308,"Continent":"Europe","Location":"Poland","Period":2019,"Sex":"Male","Age":"74.53"},{"index":309,"Continent":"Americas","Location":"Suriname","Period":2019,"Sex":"Female","Age":"74.63"},{"index":310,"Continent":"Europe","Location":"Estonia","Period":2019,"Sex":"Male","Age":"74.7"},{"index":311,"Continent":"Western Pacific","Location":"Malaysia","Period":2019,"Sex":"Both sexes","Age":"74.72"},{"index":312,"Continent":"Western Pacific","Location":"China","Period":2019,"Sex":"Male","Age":"74.73"},{"index":313,"Continent":"Europe","Location":"Belarus","Period":2019,"Sex":"Both sexes","Age":"74.81"},{"index":314,"Continent":"Europe","Location":"The former Yugoslav Republic of Macedonia","Period":2019,"Sex":"Both sexes","Age":"74.82"},{"index":315,"Continent":"Europe","Location":"Slovakia","Period":2019,"Sex":"Male","Age":"74.84"},{"index":316,"Continent":"Americas","Location":"Antigua and Barbuda","Period":2019,"Sex":"Male","Age":"74.88"},{"index":317,"Continent":"Eastern Mediterranean","Location":"Tunisia","Period":2019,"Sex":"Male","Age":"74.88"},{"index":318,"Continent":"Eastern Mediterranean","Location":"Iraq","Period":2019,"Sex":"Female","Age":"74.97"},{"index":319,"Continent":"Americas","Location":"El Salvador","Period":2019,"Sex":"Both sexes","Age":"75.03"},{"index":320,"Continent":"Eastern Mediterranean","Location":"Bahrain","Period":2019,"Sex":"Male","Age":"75.04"},{"index":321,"Continent":"Americas","Location":"Guatemala","Period":2019,"Sex":"Female","Age":"75.04"},{"index":322,"Continent":"Americas","Location":"Nicaragua","Period":2019,"Sex":"Both sexes","Age":"75.04"},{"index":323,"Continent":"Europe","Location":"Bulgaria","Period":2019,"Sex":"Both sexes","Age":"75.07"},{"index":324,"Continent":"Eastern Mediterranean","Location":"United Arab Emirates","Period":2019,"Sex":"Male","Age":"75.1"},{"index":325,"Continent":"Europe","Location":"Uzbekistan","Period":2019,"Sex":"Female","Age":"75.21"},{"index":326,"Continent":"Eastern Mediterranean","Location":"Oman","Period":2019,"Sex":"Female","Age":"75.26"},{"index":327,"Continent":"Americas","Location":"Saint Vincent and the Grenadines","Period":2019,"Sex":"Female","Age":"75.32"},{"index":328,"Continent":"Americas","Location":"Grenada","Period":2019,"Sex":"Female","Age":"75.33"},{"index":329,"Continent":"Western Pacific","Location":"Brunei Darussalam","Period":2019,"Sex":"Female","Age":"75.36"},{"index":330,"Continent":"Americas","Location":"Cuba","Period":2019,"Sex":"Male","Age":"75.37"},{"index":331,"Continent":"Europe","Location":"Latvia","Period":2019,"Sex":"Both sexes","Age":"75.38"},{"index":332,"Continent":"Europe","Location":"Croatia","Period":2019,"Sex":"Male","Age":"75.54"},{"index":333,"Continent":"Europe","Location":"Romania","Period":2019,"Sex":"Both sexes","Age":"75.57"},{"index":334,"Continent":"Western Pacific","Location":"Tonga","Period":2019,"Sex":"Female","Age":"75.61"},{"index":335,"Continent":"South-East Asia","Location":"Bangladesh","Period":2019,"Sex":"Female","Age":"75.64"},{"index":336,"Continent":"South-East Asia","Location":"Democratic People's Republic of Korea","Period":2019,"Sex":"Female","Age":"75.69"},{"index":337,"Continent":"Eastern Mediterranean","Location":"Iran (Islamic Republic of)","Period":2019,"Sex":"Male","Age":"75.69"},{"index":338,"Continent":"Eastern Mediterranean","Location":"Libya","Period":2019,"Sex":"Both sexes","Age":"75.78"},{"index":339,"Continent":"Eastern Mediterranean","Location":"Bahrain","Period":2019,"Sex":"Both sexes","Age":"75.81"},{"index":340,"Continent":"Americas","Location":"Paraguay","Period":2019,"Sex":"Both sexes","Age":"75.81"},{"index":341,"Continent":"Europe","Location":"Serbia","Period":2019,"Sex":"Both sexes","Age":"75.87"},{"index":342,"Continent":"Europe","Location":"Montenegro","Period":2019,"Sex":"Both sexes","Age":"75.88"},{"index":343,"Continent":"Americas","Location":"Brazil","Period":2019,"Sex":"Both sexes","Age":"75.9"},{"index":344,"Continent":"Americas","Location":"Jamaica","Period":2019,"Sex":"Both sexes","Age":"75.98"},{"index":345,"Continent":"Europe","Location":"Lithuania","Period":2019,"Sex":"Both sexes","Age":"75.99"},{"index":346,"Continent":"Americas","Location":"Mexico","Period":2019,"Sex":"Both sexes","Age":"76.01"},{"index":347,"Continent":"Europe","Location":"Armenia","Period":2019,"Sex":"Both sexes","Age":"76.03"},{"index":348,"Continent":"Americas","Location":"Barbados","Period":2019,"Sex":"Both sexes","Age":"76.03"},{"index":349,"Continent":"Eastern Mediterranean","Location":"United Arab Emirates","Period":2019,"Sex":"Both sexes","Age":"76.08"},{"index":350,"Continent":"Americas","Location":"Trinidad and Tobago","Period":2019,"Sex":"Both sexes","Age":"76.13"},{"index":351,"Continent":"Eastern Mediterranean","Location":"Saudi Arabia","Period":2019,"Sex":"Female","Age":"76.15"},{"index":352,"Continent":"Americas","Location":"Dominican Republic","Period":2019,"Sex":"Female","Age":"76.19"},{"index":353,"Continent":"Africa","Location":"Algeria","Period":2019,"Sex":"Male","Age":"76.23"},{"index":354,"Continent":"Europe","Location":"Albania","Period":2019,"Sex":"Male","Age":"76.25"},{"index":355,"Continent":"Americas","Location":"United States of America","Period":2019,"Sex":"Male","Age":"76.28"},{"index":356,"Continent":"Europe","Location":"Czechia","Period":2019,"Sex":"Male","Age":"76.3"},{"index":357,"Continent":"Americas","Location":"Ecuador","Period":2019,"Sex":"Male","Age":"76.41"},{"index":358,"Continent":"Europe","Location":"Hungary","Period":2019,"Sex":"Both sexes","Age":"76.44"},{"index":359,"Continent":"Eastern Mediterranean","Location":"Lebanon","Period":2019,"Sex":"Both sexes","Age":"76.44"},{"index":360,"Continent":"Europe","Location":"Türkiye","Period":2019,"Sex":"Male","Age":"76.44"},{"index":361,"Continent":"Americas","Location":"Antigua and Barbuda","Period":2019,"Sex":"Both sexes","Age":"76.45"},{"index":362,"Continent":"Americas","Location":"Argentina","Period":2019,"Sex":"Both sexes","Age":"76.58"},{"index":363,"Continent":"Americas","Location":"Bahamas","Period":2019,"Sex":"Female","Age":"76.59"},{"index":364,"Continent":"Eastern Mediterranean","Location":"Qatar","Period":2019,"Sex":"Female","Age":"76.63"},{"index":365,"Continent":"Americas","Location":"Panama","Period":2019,"Sex":"Male","Age":"76.65"},{"index":366,"Continent":"Americas","Location":"Colombia","Period":2019,"Sex":"Male","Age":"76.69"},{"index":367,"Continent":"Europe","Location":"Bosnia and Herzegovina","Period":2019,"Sex":"Both sexes","Age":"76.75"},{"index":368,"Continent":"Europe","Location":"The former Yugoslav Republic of Macedonia","Period":2019,"Sex":"Female","Age":"76.87"},{"index":369,"Continent":"South-East Asia","Location":"Sri Lanka","Period":2019,"Sex":"Both sexes","Age":"76.87"},{"index":370,"Continent":"Eastern Mediterranean","Location":"Bahrain","Period":2019,"Sex":"Female","Age":"77.02"},{"index":371,"Continent":"Eastern Mediterranean","Location":"Jordan","Period":2019,"Sex":"Male","Age":"77.02"},{"index":372,"Continent":"Eastern Mediterranean","Location":"Tunisia","Period":2019,"Sex":"Both sexes","Age":"77.04"},{"index":373,"Continent":"Western Pacific","Location":"Malaysia","Period":2019,"Sex":"Female","Age":"77.08"},{"index":374,"Continent":"Americas","Location":"Uruguay","Period":2019,"Sex":"Both sexes","Age":"77.1"},{"index":375,"Continent":"Europe","Location":"Republic of Moldova","Period":2019,"Sex":"Female","Age":"77.12"},{"index":376,"Continent":"Africa","Location":"Algeria","Period":2019,"Sex":"Both sexes","Age":"77.13"},{"index":377,"Continent":"Africa","Location":"Seychelles","Period":2019,"Sex":"Female","Age":"77.15"},{"index":378,"Continent":"Eastern Mediterranean","Location":"Qatar","Period":2019,"Sex":"Both sexes","Age":"77.17"},{"index":379,"Continent":"Europe","Location":"Kyrgyzstan","Period":2019,"Sex":"Female","Age":"77.31"},{"index":380,"Continent":"Africa","Location":"Mauritius","Period":2019,"Sex":"Female","Age":"77.32"},{"index":381,"Continent":"Eastern Mediterranean","Location":"Libya","Period":2019,"Sex":"Female","Age":"77.34"},{"index":382,"Continent":"Eastern Mediterranean","Location":"Iran (Islamic Republic of)","Period":2019,"Sex":"Both sexes","Age":"77.35"},{"index":383,"Continent":"Western Pacific","Location":"China","Period":2019,"Sex":"Both sexes","Age":"77.43"},{"index":384,"Continent":"Europe","Location":"Kazakhstan","Period":2019,"Sex":"Female","Age":"77.61"},{"index":385,"Continent":"Americas","Location":"Barbados","Period":2019,"Sex":"Female","Age":"77.66"},{"index":386,"Continent":"Americas","Location":"Jamaica","Period":2019,"Sex":"Female","Age":"77.68"},{"index":387,"Continent":"South-East Asia","Location":"Thailand","Period":2019,"Sex":"Both sexes","Age":"77.7"},{"index":388,"Continent":"Americas","Location":"Saint Lucia","Period":2019,"Sex":"Female","Age":"77.71"},{"index":389,"Continent":"Americas","Location":"Cuba","Period":2019,"Sex":"Both sexes","Age":"77.76"},{"index":390,"Continent":"Europe","Location":"Georgia","Period":2019,"Sex":"Female","Age":"77.76"},{"index":391,"Continent":"Americas","Location":"Belize","Period":2019,"Sex":"Female","Age":"77.77"},{"index":392,"Continent":"Europe","Location":"Ukraine","Period":2019,"Sex":"Female","Age":"77.81"},{"index":393,"Continent":"Eastern Mediterranean","Location":"Jordan","Period":2019,"Sex":"Both sexes","Age":"77.87"},{"index":394,"Continent":"Americas","Location":"Nicaragua","Period":2019,"Sex":"Female","Age":"77.93"},{"index":395,"Continent":"Africa","Location":"Cabo Verde","Period":2019,"Sex":"Female","Age":"77.94"},{"index":396,"Continent":"Americas","Location":"Antigua and Barbuda","Period":2019,"Sex":"Female","Age":"77.96"},{"index":397,"Continent":"Europe","Location":"Albania","Period":2019,"Sex":"Both sexes","Age":"78.0"},{"index":398,"Continent":"Europe","Location":"Russian Federation","Period":2019,"Sex":"Female","Age":"78.0"},{"index":399,"Continent":"Eastern Mediterranean","Location":"Qatar","Period":2019,"Sex":"Male","Age":"78.03"},{"index":400,"Continent":"Americas","Location":"Chile","Period":2019,"Sex":"Male","Age":"78.09"},{"index":401,"Continent":"Western Pacific","Location":"Viet Nam","Period":2019,"Sex":"Female","Age":"78.11"},{"index":402,"Continent":"Africa","Location":"Algeria","Period":2019,"Sex":"Female","Age":"78.12"},{"index":403,"Continent":"Americas","Location":"Venezuela (Bolivarian Republic of)","Period":2019,"Sex":"Female","Age":"78.17"},{"index":404,"Continent":"Europe","Location":"Slovakia","Period":2019,"Sex":"Both sexes","Age":"78.23"},{"index":405,"Continent":"Europe","Location":"Poland","Period":2019,"Sex":"Both sexes","Age":"78.27"},{"index":406,"Continent":"Europe","Location":"Serbia","Period":2019,"Sex":"Female","Age":"78.28"},{"index":407,"Continent":"Americas","Location":"Costa Rica","Period":2019,"Sex":"Male","Age":"78.31"},{"index":408,"Continent":"Eastern Mediterranean","Location":"United Arab Emirates","Period":2019,"Sex":"Female","Age":"78.42"},{"index":409,"Continent":"Americas","Location":"Ecuador","Period":2019,"Sex":"Both sexes","Age":"78.45"},{"index":410,"Continent":"Americas","Location":"Peru","Period":2019,"Sex":"Male","Age":"78.46"},{"index":411,"Continent":"Americas","Location":"United States of America","Period":2019,"Sex":"Both sexes","Age":"78.5"},{"index":412,"Continent":"Europe","Location":"Portugal","Period":2019,"Sex":"Male","Age":"78.56"},{"index":413,"Continent":"Europe","Location":"Slovenia","Period":2019,"Sex":"Male","Age":"78.59"},{"index":414,"Continent":"Europe","Location":"Bulgaria","Period":2019,"Sex":"Female","Age":"78.6"},{"index":415,"Continent":"Europe","Location":"Türkiye","Period":2019,"Sex":"Both sexes","Age":"78.62"},{"index":416,"Continent":"South-East Asia","Location":"Maldives","Period":2019,"Sex":"Male","Age":"78.63"},{"index":417,"Continent":"Europe","Location":"Croatia","Period":2019,"Sex":"Both sexes","Age":"78.64"},{"index":418,"Continent":"Europe","Location":"Greece","Period":2019,"Sex":"Male","Age":"78.64"},{"index":419,"Continent":"Europe","Location":"Montenegro","Period":2019,"Sex":"Female","Age":"78.65"},{"index":420,"Continent":"Europe","Location":"Germany","Period":2019,"Sex":"Male","Age":"78.72"},{"index":421,"Continent":"Eastern Mediterranean","Location":"Jordan","Period":2019,"Sex":"Female","Age":"78.78"},{"index":422,"Continent":"Americas","Location":"Paraguay","Period":2019,"Sex":"Female","Age":"78.85"},{"index":423,"Continent":"Americas","Location":"Mexico","Period":2019,"Sex":"Female","Age":"78.86"},{"index":424,"Continent":"Europe","Location":"Estonia","Period":2019,"Sex":"Both sexes","Age":"78.88"},{"index":425,"Continent":"Europe","Location":"Bosnia and Herzegovina","Period":2019,"Sex":"Female","Age":"79.09"},{"index":426,"Continent":"Eastern Mediterranean","Location":"Iran (Islamic Republic of)","Period":2019,"Sex":"Female","Age":"79.09"},{"index":427,"Continent":"Europe","Location":"Czechia","Period":2019,"Sex":"Both sexes","Age":"79.13"},{"index":428,"Continent":"Americas","Location":"El Salvador","Period":2019,"Sex":"Female","Age":"79.13"},{"index":429,"Continent":"Eastern Mediterranean","Location":"Lebanon","Period":2019,"Sex":"Female","Age":"79.15"},{"index":430,"Continent":"Europe","Location":"Armenia","Period":2019,"Sex":"Female","Age":"79.16"},{"index":431,"Continent":"Europe","Location":"Finland","Period":2019,"Sex":"Male","Age":"79.16"},{"index":432,"Continent":"Eastern Mediterranean","Location":"Tunisia","Period":2019,"Sex":"Female","Age":"79.19"},{"index":433,"Continent":"Eastern Mediterranean","Location":"Kuwait","Period":2019,"Sex":"Male","Age":"79.25"},{"index":434,"Continent":"Europe","Location":"Romania","Period":2019,"Sex":"Female","Age":"79.26"},{"index":435,"Continent":"Europe","Location":"Belgium","Period":2019,"Sex":"Male","Age":"79.29"},{"index":436,"Continent":"Americas","Location":"Panama","Period":2019,"Sex":"Both sexes","Age":"79.29"},{"index":437,"Continent":"Americas","Location":"Colombia","Period":2019,"Sex":"Both sexes","Age":"79.31"},{"index":438,"Continent":"Americas","Location":"Brazil","Period":2019,"Sex":"Female","Age":"79.39"},{"index":439,"Continent":"Europe","Location":"Austria","Period":2019,"Sex":"Male","Age":"79.44"},{"index":440,"Continent":"Americas","Location":"Argentina","Period":2019,"Sex":"Female","Age":"79.5"},{"index":441,"Continent":"Europe","Location":"Denmark","Period":2019,"Sex":"Male","Age":"79.59"},{"index":442,"Continent":"Europe","Location":"Hungary","Period":2019,"Sex":"Female","Age":"79.59"},{"index":443,"Continent":"South-East Asia","Location":"Maldives","Period":2019,"Sex":"Both sexes","Age":"79.59"},{"index":444,"Continent":"Europe","Location":"Belarus","Period":2019,"Sex":"Female","Age":"79.62"},{"index":445,"Continent":"Europe","Location":"France","Period":2019,"Sex":"Male","Age":"79.76"},{"index":446,"Continent":"Europe","Location":"United Kingdom of Great Britain and Northern Ireland","Period":2019,"Sex":"Male","Age":"79.79"},{"index":447,"Continent":"South-East Asia","Location":"Sri Lanka","Period":2019,"Sex":"Female","Age":"79.81"},{"index":448,"Continent":"Europe","Location":"Latvia","Period":2019,"Sex":"Female","Age":"79.84"},{"index":449,"Continent":"Americas","Location":"Peru","Period":2019,"Sex":"Both sexes","Age":"79.9"},{"index":450,"Continent":"Europe","Location":"Albania","Period":2019,"Sex":"Female","Age":"79.91"},{"index":451,"Continent":"Americas","Location":"Trinidad and Tobago","Period":2019,"Sex":"Female","Age":"79.92"},{"index":452,"Continent":"Europe","Location":"Malta","Period":2019,"Sex":"Male","Age":"79.94"},{"index":453,"Continent":"Europe","Location":"Ireland","Period":2019,"Sex":"Male","Age":"80.2"},{"index":454,"Continent":"Americas","Location":"Cuba","Period":2019,"Sex":"Female","Age":"80.25"},{"index":455,"Continent":"Western Pacific","Location":"Republic of Korea","Period":2019,"Sex":"Male","Age":"80.32"},{"index":456,"Continent":"Western Pacific","Location":"New Zealand","Period":2019,"Sex":"Male","Age":"80.36"},{"index":457,"Continent":"Americas","Location":"Canada","Period":2019,"Sex":"Male","Age":"80.4"},{"index":458,"Continent":"Europe","Location":"Netherlands","Period":2019,"Sex":"Male","Age":"80.4"},{"index":459,"Continent":"Europe","Location":"Lithuania","Period":2019,"Sex":"Female","Age":"80.43"},{"index":460,"Continent":"Western Pacific","Location":"China","Period":2019,"Sex":"Female","Age":"80.49"},{"index":461,"Continent":"Americas","Location":"Ecuador","Period":2019,"Sex":"Female","Age":"80.5"},{"index":462,"Continent":"Americas","Location":"Uruguay","Period":2019,"Sex":"Female","Age":"80.56"},{"index":463,"Continent":"Europe","Location":"Luxembourg","Period":2019,"Sex":"Male","Age":"80.62"},{"index":464,"Continent":"Europe","Location":"Türkiye","Period":2019,"Sex":"Female","Age":"80.67"},{"index":465,"Continent":"Europe","Location":"Spain","Period":2019,"Sex":"Male","Age":"80.68"},{"index":466,"Continent":"Americas","Location":"United States of America","Period":2019,"Sex":"Female","Age":"80.73"},{"index":467,"Continent":"Americas","Location":"Chile","Period":2019,"Sex":"Both sexes","Age":"80.74"},{"index":468,"Continent":"South-East Asia","Location":"Maldives","Period":2019,"Sex":"Female","Age":"80.76"},{"index":469,"Continent":"Europe","Location":"Israel","Period":2019,"Sex":"Male","Age":"80.79"},{"index":470,"Continent":"Europe","Location":"Iceland","Period":2019,"Sex":"Male","Age":"80.81"},{"index":471,"Continent":"Europe","Location":"Sweden","Period":2019,"Sex":"Male","Age":"80.83"},{"index":472,"Continent":"Americas","Location":"Costa Rica","Period":2019,"Sex":"Both sexes","Age":"80.85"},{"index":473,"Continent":"Europe","Location":"Italy","Period":2019,"Sex":"Male","Age":"80.91"},{"index":474,"Continent":"Eastern Mediterranean","Location":"Kuwait","Period":2019,"Sex":"Both sexes","Age":"80.97"},{"index":475,"Continent":"South-East Asia","Location":"Thailand","Period":2019,"Sex":"Female","Age":"81.04"},{"index":476,"Continent":"Western Pacific","Location":"Singapore","Period":2019,"Sex":"Male","Age":"81.05"},{"index":477,"Continent":"Europe","Location":"Norway","Period":2019,"Sex":"Male","Age":"81.08"},{"index":478,"Continent":"Europe","Location":"Greece","Period":2019,"Sex":"Both sexes","Age":"81.1"},{"index":479,"Continent":"Europe","Location":"Cyprus","Period":2019,"Sex":"Male","Age":"81.12"},{"index":480,"Continent":"Western Pacific","Location":"Australia","Period":2019,"Sex":"Male","Age":"81.25"},{"index":481,"Continent":"Europe","Location":"Slovenia","Period":2019,"Sex":"Both sexes","Age":"81.31"},{"index":482,"Continent":"Europe","Location":"Denmark","Period":2019,"Sex":"Both sexes","Age":"81.32"},{"index":483,"Continent":"Americas","Location":"Peru","Period":2019,"Sex":"Female","Age":"81.34"},{"index":484,"Continent":"Europe","Location":"United Kingdom of Great Britain and Northern Ireland","Period":2019,"Sex":"Both sexes","Age":"81.4"},{"index":485,"Continent":"Europe","Location":"Belgium","Period":2019,"Sex":"Both sexes","Age":"81.42"},{"index":486,"Continent":"Europe","Location":"Slovakia","Period":2019,"Sex":"Female","Age":"81.44"},{"index":487,"Continent":"Western Pacific","Location":"Japan","Period":2019,"Sex":"Male","Age":"81.49"},{"index":488,"Continent":"Europe","Location":"Portugal","Period":2019,"Sex":"Both sexes","Age":"81.57"},{"index":489,"Continent":"Europe","Location":"Croatia","Period":2019,"Sex":"Female","Age":"81.6"},{"index":490,"Continent":"Europe","Location":"Finland","Period":2019,"Sex":"Both sexes","Age":"81.61"},{"index":491,"Continent":"Europe","Location":"Austria","Period":2019,"Sex":"Both sexes","Age":"81.65"},{"index":492,"Continent":"Europe","Location":"Germany","Period":2019,"Sex":"Both sexes","Age":"81.72"},{"index":493,"Continent":"Europe","Location":"Switzerland","Period":2019,"Sex":"Male","Age":"81.75"},{"index":494,"Continent":"Europe","Location":"Netherlands","Period":2019,"Sex":"Both sexes","Age":"81.79"},{"index":495,"Continent":"Europe","Location":"Ireland","Period":2019,"Sex":"Both sexes","Age":"81.84"},{"index":496,"Continent":"Americas","Location":"Colombia","Period":2019,"Sex":"Female","Age":"81.87"},{"index":497,"Continent":"Europe","Location":"Malta","Period":2019,"Sex":"Both sexes","Age":"81.89"},{"index":498,"Continent":"Europe","Location":"Czechia","Period":2019,"Sex":"Female","Age":"81.93"},{"index":499,"Continent":"Europe","Location":"Poland","Period":2019,"Sex":"Female","Age":"81.93"},{"index":500,"Continent":"Western Pacific","Location":"New Zealand","Period":2019,"Sex":"Both sexes","Age":"81.96"},{"index":501,"Continent":"Americas","Location":"Panama","Period":2019,"Sex":"Female","Age":"82.06"},{"index":502,"Continent":"Americas","Location":"Canada","Period":2019,"Sex":"Both sexes","Age":"82.24"},{"index":503,"Continent":"Europe","Location":"Iceland","Period":2019,"Sex":"Both sexes","Age":"82.33"},{"index":504,"Continent":"Europe","Location":"Sweden","Period":2019,"Sex":"Both sexes","Age":"82.4"},{"index":505,"Continent":"Europe","Location":"Luxembourg","Period":2019,"Sex":"Both sexes","Age":"82.41"},{"index":506,"Continent":"Europe","Location":"France","Period":2019,"Sex":"Both sexes","Age":"82.48"},{"index":507,"Continent":"Europe","Location":"Estonia","Period":2019,"Sex":"Female","Age":"82.6"},{"index":508,"Continent":"Europe","Location":"Israel","Period":2019,"Sex":"Both sexes","Age":"82.62"},{"index":509,"Continent":"Europe","Location":"Norway","Period":2019,"Sex":"Both sexes","Age":"82.62"},{"index":510,"Continent":"Europe","Location":"Italy","Period":2019,"Sex":"Both sexes","Age":"82.97"},{"index":511,"Continent":"Europe","Location":"United Kingdom of Great Britain and Northern Ireland","Period":2019,"Sex":"Female","Age":"82.99"},{"index":512,"Continent":"Europe","Location":"Denmark","Period":2019,"Sex":"Female","Age":"83.02"},{"index":513,"Continent":"Western Pacific","Location":"Australia","Period":2019,"Sex":"Both sexes","Age":"83.04"},{"index":514,"Continent":"Europe","Location":"Cyprus","Period":2019,"Sex":"Both sexes","Age":"83.14"},{"index":515,"Continent":"Europe","Location":"Netherlands","Period":2019,"Sex":"Female","Age":"83.15"},{"index":516,"Continent":"Western Pacific","Location":"Singapore","Period":2019,"Sex":"Both sexes","Age":"83.22"},{"index":517,"Continent":"Europe","Location":"Spain","Period":2019,"Sex":"Both sexes","Age":"83.22"},{"index":518,"Continent":"Americas","Location":"Chile","Period":2019,"Sex":"Female","Age":"83.25"},{"index":519,"Continent":"Western Pacific","Location":"Republic of Korea","Period":2019,"Sex":"Both sexes","Age":"83.3"},{"index":520,"Continent":"Americas","Location":"Costa Rica","Period":2019,"Sex":"Female","Age":"83.44"},{"index":521,"Continent":"Europe","Location":"Switzerland","Period":2019,"Sex":"Both sexes","Age":"83.45"},{"index":522,"Continent":"Europe","Location":"Ireland","Period":2019,"Sex":"Female","Age":"83.48"},{"index":523,"Continent":"Europe","Location":"Belgium","Period":2019,"Sex":"Female","Age":"83.51"},{"index":524,"Continent":"Western Pacific","Location":"New Zealand","Period":2019,"Sex":"Female","Age":"83.52"},{"index":525,"Continent":"Europe","Location":"Greece","Period":2019,"Sex":"Female","Age":"83.57"},{"index":526,"Continent":"Europe","Location":"Austria","Period":2019,"Sex":"Female","Age":"83.78"},{"index":527,"Continent":"Europe","Location":"Malta","Period":2019,"Sex":"Female","Age":"83.8"},{"index":528,"Continent":"Europe","Location":"Iceland","Period":2019,"Sex":"Female","Age":"83.87"},{"index":529,"Continent":"Eastern Mediterranean","Location":"Kuwait","Period":2019,"Sex":"Female","Age":"83.95"},{"index":530,"Continent":"Europe","Location":"Sweden","Period":2019,"Sex":"Female","Age":"83.97"},{"index":531,"Continent":"Europe","Location":"Finland","Period":2019,"Sex":"Female","Age":"84.04"},{"index":532,"Continent":"Americas","Location":"Canada","Period":2019,"Sex":"Female","Age":"84.05"},{"index":533,"Continent":"Europe","Location":"Slovenia","Period":2019,"Sex":"Female","Age":"84.06"},{"index":534,"Continent":"Europe","Location":"Norway","Period":2019,"Sex":"Female","Age":"84.13"},{"index":535,"Continent":"Europe","Location":"Luxembourg","Period":2019,"Sex":"Female","Age":"84.2"},{"index":536,"Continent":"Western Pacific","Location":"Japan","Period":2019,"Sex":"Both sexes","Age":"84.26"},{"index":537,"Continent":"Europe","Location":"Israel","Period":2019,"Sex":"Female","Age":"84.36"},{"index":538,"Continent":"Europe","Location":"Portugal","Period":2019,"Sex":"Female","Age":"84.4"},{"index":539,"Continent":"Europe","Location":"Germany","Period":2019,"Sex":"Female","Age":"84.77"},{"index":540,"Continent":"Western Pacific","Location":"Australia","Period":2019,"Sex":"Female","Age":"84.84"},{"index":541,"Continent":"Europe","Location":"Italy","Period":2019,"Sex":"Female","Age":"84.9"},{"index":542,"Continent":"Europe","Location":"Switzerland","Period":2019,"Sex":"Female","Age":"85.08"},{"index":543,"Continent":"Europe","Location":"France","Period":2019,"Sex":"Female","Age":"85.09"},{"index":544,"Continent":"Europe","Location":"Cyprus","Period":2019,"Sex":"Female","Age":"85.12"},{"index":545,"Continent":"Western Pacific","Location":"Singapore","Period":2019,"Sex":"Female","Age":"85.45"},{"index":546,"Continent":"Europe","Location":"Spain","Period":2019,"Sex":"Female","Age":"85.68"},{"index":547,"Continent":"Western Pacific","Location":"Republic of Korea","Period":2019,"Sex":"Female","Age":"86.09"},{"index":548,"Continent":"Western Pacific","Location":"Japan","Period":2019,"Sex":"Female","Age":"86.94"},{"index":549,"Continent":"Africa","Location":"Lesotho","Period":2019,"Sex":"Male","Age":"11.22"},{"index":550,"Continent":"Africa","Location":"Central African Republic","Period":2019,"Sex":"Male","Age":"11.31"},{"index":551,"Continent":"Africa","Location":"Eswatini","Period":2019,"Sex":"Male","Age":"12.41"},{"index":552,"Continent":"Western Pacific","Location":"Kiribati","Period":2019,"Sex":"Male","Age":"12.5"},{"index":553,"Continent":"Africa","Location":"Central African Republic","Period":2019,"Sex":"Both sexes","Age":"13.17"},{"index":554,"Continent":"Eastern Mediterranean","Location":"Somalia","Period":2019,"Sex":"Male","Age":"13.22"},{"index":555,"Continent":"Africa","Location":"Mozambique","Period":2019,"Sex":"Male","Age":"13.34"},{"index":556,"Continent":"Africa","Location":"Lesotho","Period":2019,"Sex":"Both sexes","Age":"13.43"},{"index":557,"Continent":"Africa","Location":"Zimbabwe","Period":2019,"Sex":"Male","Age":"13.59"},{"index":558,"Continent":"Western Pacific","Location":"Kiribati","Period":2019,"Sex":"Both sexes","Age":"13.69"},{"index":559,"Continent":"Western Pacific","Location":"Micronesia (Federated States of)","Period":2019,"Sex":"Male","Age":"13.82"},{"index":560,"Continent":"Africa","Location":"Guinea-Bissau","Period":2019,"Sex":"Male","Age":"13.92"},{"index":561,"Continent":"Africa","Location":"Eritrea","Period":2019,"Sex":"Male","Age":"14.13"},{"index":562,"Continent":"Africa","Location":"Botswana","Period":2019,"Sex":"Male","Age":"14.16"},{"index":563,"Continent":"Western Pacific","Location":"Mongolia","Period":2019,"Sex":"Male","Age":"14.16"},{"index":564,"Continent":"Eastern Mediterranean","Location":"Somalia","Period":2019,"Sex":"Both sexes","Age":"14.54"},{"index":565,"Continent":"Western Pacific","Location":"Kiribati","Period":2019,"Sex":"Female","Age":"14.64"},{"index":566,"Continent":"Africa","Location":"Namibia","Period":2019,"Sex":"Male","Age":"14.68"},{"index":567,"Continent":"Africa","Location":"Zambia","Period":2019,"Sex":"Male","Age":"14.68"},{"index":568,"Continent":"Western Pacific","Location":"Micronesia (Federated States of)","Period":2019,"Sex":"Both sexes","Age":"14.7"},{"index":569,"Continent":"Western Pacific","Location":"Solomon Islands","Period":2019,"Sex":"Male","Age":"14.71"},{"index":570,"Continent":"Western Pacific","Location":"Vanuatu","Period":2019,"Sex":"Male","Age":"14.83"},{"index":571,"Continent":"Africa","Location":"Central African Republic","Period":2019,"Sex":"Female","Age":"14.85"},{"index":572,"Continent":"Western Pacific","Location":"Fiji","Period":2019,"Sex":"Male","Age":"14.88"},{"index":573,"Continent":"Eastern Mediterranean","Location":"Afghanistan","Period":2019,"Sex":"Female","Age":"15.06"},{"index":574,"Continent":"Africa","Location":"Eswatini","Period":2019,"Sex":"Both sexes","Age":"15.1"},{"index":575,"Continent":"Americas","Location":"Guyana","Period":2019,"Sex":"Male","Age":"15.1"},{"index":576,"Continent":"Europe","Location":"Tajikistan","Period":2019,"Sex":"Male","Age":"15.1"},{"index":577,"Continent":"Africa","Location":"Malawi","Period":2019,"Sex":"Male","Age":"15.13"},{"index":578,"Continent":"Africa","Location":"Gabon","Period":2019,"Sex":"Male","Age":"15.15"},{"index":579,"Continent":"Eastern Mediterranean","Location":"Afghanistan","Period":2019,"Sex":"Both sexes","Age":"15.21"},{"index":580,"Continent":"Africa","Location":"Burundi","Period":2019,"Sex":"Male","Age":"15.22"},{"index":581,"Continent":"Africa","Location":"Burkina Faso","Period":2019,"Sex":"Male","Age":"15.23"},{"index":582,"Continent":"Africa","Location":"Lesotho","Period":2019,"Sex":"Female","Age":"15.24"},{"index":583,"Continent":"Africa","Location":"Democratic Republic of the Congo","Period":2019,"Sex":"Male","Age":"15.35"},{"index":584,"Continent":"Western Pacific","Location":"Papua New Guinea","Period":2019,"Sex":"Male","Age":"15.37"},{"index":585,"Continent":"Africa","Location":"Angola","Period":2019,"Sex":"Male","Age":"15.38"},{"index":586,"Continent":"Eastern Mediterranean","Location":"Afghanistan","Period":2019,"Sex":"Male","Age":"15.39"},{"index":587,"Continent":"Africa","Location":"Togo","Period":2019,"Sex":"Male","Age":"15.44"},{"index":588,"Continent":"Western Pacific","Location":"Solomon Islands","Period":2019,"Sex":"Both sexes","Age":"15.47"},{"index":589,"Continent":"Africa","Location":"Eritrea","Period":2019,"Sex":"Both sexes","Age":"15.5"},{"index":590,"Continent":"Africa","Location":"Guinea-Bissau","Period":2019,"Sex":"Both sexes","Age":"15.5"},{"index":591,"Continent":"Africa","Location":"Zimbabwe","Period":2019,"Sex":"Both sexes","Age":"15.55"},{"index":592,"Continent":"Western Pacific","Location":"Micronesia (Federated States of)","Period":2019,"Sex":"Female","Age":"15.58"},{"index":593,"Continent":"Africa","Location":"Guinea","Period":2019,"Sex":"Male","Age":"15.62"},{"index":594,"Continent":"Europe","Location":"Azerbaijan","Period":2019,"Sex":"Male","Age":"15.65"},{"index":595,"Continent":"Africa","Location":"Ghana","Period":2019,"Sex":"Male","Age":"15.66"},{"index":596,"Continent":"Africa","Location":"Uganda","Period":2019,"Sex":"Male","Age":"15.67"},{"index":597,"Continent":"Africa","Location":"Chad","Period":2019,"Sex":"Male","Age":"15.68"},{"index":598,"Continent":"Western Pacific","Location":"Vanuatu","Period":2019,"Sex":"Both sexes","Age":"15.68"},{"index":599,"Continent":"Africa","Location":"Congo","Period":2019,"Sex":"Male","Age":"15.71"},{"index":600,"Continent":"Africa","Location":"Cameroon","Period":2019,"Sex":"Male","Age":"15.77"},{"index":601,"Continent":"Africa","Location":"Gambia","Period":2019,"Sex":"Male","Age":"15.77"},{"index":602,"Continent":"Africa","Location":"Mozambique","Period":2019,"Sex":"Both sexes","Age":"15.8"},{"index":603,"Continent":"Africa","Location":"Côte d’Ivoire","Period":2019,"Sex":"Male","Age":"15.84"},{"index":604,"Continent":"Western Pacific","Location":"Philippines","Period":2019,"Sex":"Male","Age":"15.84"},{"index":605,"Continent":"Western Pacific","Location":"Cambodia","Period":2019,"Sex":"Male","Age":"15.93"},{"index":606,"Continent":"Africa","Location":"Kenya","Period":2019,"Sex":"Male","Age":"15.99"},{"index":607,"Continent":"Eastern Mediterranean","Location":"Somalia","Period":2019,"Sex":"Female","Age":"16.01"},{"index":608,"Continent":"Europe","Location":"Belarus","Period":2019,"Sex":"Male","Age":"16.04"},{"index":609,"Continent":"Europe","Location":"Georgia","Period":2019,"Sex":"Male","Age":"16.05"},{"index":610,"Continent":"Europe","Location":"Tajikistan","Period":2019,"Sex":"Both sexes","Age":"16.12"},{"index":611,"Continent":"Africa","Location":"Benin","Period":2019,"Sex":"Male","Age":"16.13"},{"index":612,"Continent":"Africa","Location":"Madagascar","Period":2019,"Sex":"Male","Age":"16.15"},{"index":613,"Continent":"South-East Asia","Location":"Myanmar","Period":2019,"Sex":"Male","Age":"16.17"},{"index":614,"Continent":"Western Pacific","Location":"Fiji","Period":2019,"Sex":"Both sexes","Age":"16.18"},{"index":615,"Continent":"Africa","Location":"Botswana","Period":2019,"Sex":"Both sexes","Age":"16.25"},{"index":616,"Continent":"Western Pacific","Location":"Solomon Islands","Period":2019,"Sex":"Female","Age":"16.28"},{"index":617,"Continent":"Western Pacific","Location":"Lao People's Democratic Republic","Period":2019,"Sex":"Male","Age":"16.35"},{"index":618,"Continent":"Americas","Location":"Suriname","Period":2019,"Sex":"Male","Age":"16.37"},{"index":619,"Continent":"Western Pacific","Location":"Mongolia","Period":2019,"Sex":"Both sexes","Age":"16.41"},{"index":620,"Continent":"Africa","Location":"Sierra Leone","Period":2019,"Sex":"Male","Age":"16.43"},{"index":621,"Continent":"Europe","Location":"Ukraine","Period":2019,"Sex":"Male","Age":"16.43"},{"index":622,"Continent":"Africa","Location":"Congo","Period":2019,"Sex":"Both sexes","Age":"16.45"},{"index":623,"Continent":"Africa","Location":"Burundi","Period":2019,"Sex":"Both sexes","Age":"16.47"},{"index":624,"Continent":"Western Pacific","Location":"Papua New Guinea","Period":2019,"Sex":"Both sexes","Age":"16.48"},{"index":625,"Continent":"Eastern Mediterranean","Location":"Egypt","Period":2019,"Sex":"Male","Age":"16.49"},{"index":626,"Continent":"Americas","Location":"Haiti","Period":2019,"Sex":"Male","Age":"16.5"},{"index":627,"Continent":"Africa","Location":"Zambia","Period":2019,"Sex":"Both sexes","Age":"16.53"},{"index":628,"Continent":"Africa","Location":"Chad","Period":2019,"Sex":"Both sexes","Age":"16.54"},{"index":629,"Continent":"Africa","Location":"Equatorial Guinea","Period":2019,"Sex":"Male","Age":"16.54"},{"index":630,"Continent":"Africa","Location":"Guinea","Period":2019,"Sex":"Both sexes","Age":"16.54"},{"index":631,"Continent":"Americas","Location":"Guyana","Period":2019,"Sex":"Both sexes","Age":"16.55"},{"index":632,"Continent":"Africa","Location":"Niger","Period":2019,"Sex":"Male","Age":"16.59"},{"index":633,"Continent":"Africa","Location":"South Sudan","Period":2019,"Sex":"Male","Age":"16.61"},{"index":634,"Continent":"Africa","Location":"Democratic Republic of the Congo","Period":2019,"Sex":"Both sexes","Age":"16.63"},{"index":635,"Continent":"Eastern Mediterranean","Location":"Djibouti","Period":2019,"Sex":"Male","Age":"16.63"},{"index":636,"Continent":"Europe","Location":"Republic of Moldova","Period":2019,"Sex":"Male","Age":"16.63"},{"index":637,"Continent":"Africa","Location":"Rwanda","Period":2019,"Sex":"Male","Age":"16.65"},{"index":638,"Continent":"Western Pacific","Location":"Vanuatu","Period":2019,"Sex":"Female","Age":"16.67"},{"index":639,"Continent":"Africa","Location":"Guinea-Bissau","Period":2019,"Sex":"Female","Age":"16.72"},{"index":640,"Continent":"Africa","Location":"Sao Tome and Principe","Period":2019,"Sex":"Male","Age":"16.72"},{"index":641,"Continent":"South-East Asia","Location":"Indonesia","Period":2019,"Sex":"Male","Age":"16.73"},{"index":642,"Continent":"Africa","Location":"Madagascar","Period":2019,"Sex":"Both sexes","Age":"16.76"},{"index":643,"Continent":"Americas","Location":"Haiti","Period":2019,"Sex":"Both sexes","Age":"16.77"},{"index":644,"Continent":"Eastern Mediterranean","Location":"Yemen","Period":2019,"Sex":"Male","Age":"16.77"},{"index":645,"Continent":"South-East Asia","Location":"Democratic People's Republic of Korea","Period":2019,"Sex":"Male","Age":"16.8"},{"index":646,"Continent":"South-East Asia","Location":"Nepal","Period":2019,"Sex":"Male","Age":"16.8"},{"index":647,"Continent":"Eastern Mediterranean","Location":"Pakistan","Period":2019,"Sex":"Male","Age":"16.8"},{"index":648,"Continent":"Europe","Location":"Russian Federation","Period":2019,"Sex":"Male","Age":"16.8"},{"index":649,"Continent":"Africa","Location":"Burkina Faso","Period":2019,"Sex":"Both sexes","Age":"16.82"},{"index":650,"Continent":"Africa","Location":"Cabo Verde","Period":2019,"Sex":"Male","Age":"16.82"},{"index":651,"Continent":"Africa","Location":"Eritrea","Period":2019,"Sex":"Female","Age":"16.82"},{"index":652,"Continent":"Europe","Location":"Kazakhstan","Period":2019,"Sex":"Male","Age":"16.84"},{"index":653,"Continent":"Africa","Location":"Gambia","Period":2019,"Sex":"Both sexes","Age":"16.85"},{"index":654,"Continent":"Western Pacific","Location":"Viet Nam","Period":2019,"Sex":"Male","Age":"16.88"},{"index":655,"Continent":"South-East Asia","Location":"Timor-Leste","Period":2019,"Sex":"Male","Age":"16.92"},{"index":656,"Continent":"Europe","Location":"The former Yugoslav Republic of Macedonia","Period":2019,"Sex":"Male","Age":"16.97"},{"index":657,"Continent":"Africa","Location":"Angola","Period":2019,"Sex":"Both sexes","Age":"16.98"},{"index":658,"Continent":"Africa","Location":"Sierra Leone","Period":2019,"Sex":"Both sexes","Age":"16.99"},{"index":659,"Continent":"Africa","Location":"Zimbabwe","Period":2019,"Sex":"Female","Age":"16.99"},{"index":660,"Continent":"Americas","Location":"Haiti","Period":2019,"Sex":"Female","Age":"17.01"},{"index":661,"Continent":"Africa","Location":"Togo","Period":2019,"Sex":"Both sexes","Age":"17.03"},{"index":662,"Continent":"Western Pacific","Location":"Tonga","Period":2019,"Sex":"Male","Age":"17.04"},{"index":663,"Continent":"Europe","Location":"Azerbaijan","Period":2019,"Sex":"Both sexes","Age":"17.06"},{"index":664,"Continent":"Africa","Location":"United Republic of Tanzania","Period":2019,"Sex":"Male","Age":"17.06"},{"index":665,"Continent":"Africa","Location":"Congo","Period":2019,"Sex":"Female","Age":"17.07"},{"index":666,"Continent":"Europe","Location":"Turkmenistan","Period":2019,"Sex":"Male","Age":"17.07"},{"index":667,"Continent":"Africa","Location":"Côte d’Ivoire","Period":2019,"Sex":"Both sexes","Age":"17.08"},{"index":668,"Continent":"Africa","Location":"Cameroon","Period":2019,"Sex":"Both sexes","Age":"17.09"},{"index":669,"Continent":"Americas","Location":"Grenada","Period":2019,"Sex":"Male","Age":"17.16"},{"index":670,"Continent":"Africa","Location":"Guinea","Period":2019,"Sex":"Female","Age":"17.16"},{"index":671,"Continent":"Africa","Location":"Gabon","Period":2019,"Sex":"Both sexes","Age":"17.17"},{"index":672,"Continent":"Africa","Location":"Senegal","Period":2019,"Sex":"Male","Age":"17.18"},{"index":673,"Continent":"Africa","Location":"Niger","Period":2019,"Sex":"Both sexes","Age":"17.19"},{"index":674,"Continent":"Europe","Location":"Tajikistan","Period":2019,"Sex":"Female","Age":"17.19"},{"index":675,"Continent":"Eastern Mediterranean","Location":"Oman","Period":2019,"Sex":"Male","Age":"17.23"},{"index":676,"Continent":"Africa","Location":"Malawi","Period":2019,"Sex":"Both sexes","Age":"17.24"},{"index":677,"Continent":"Africa","Location":"Namibia","Period":2019,"Sex":"Both sexes","Age":"17.24"},{"index":678,"Continent":"Africa","Location":"Ghana","Period":2019,"Sex":"Both sexes","Age":"17.25"},{"index":679,"Continent":"Europe","Location":"Latvia","Period":2019,"Sex":"Male","Age":"17.25"},{"index":680,"Continent":"Eastern Mediterranean","Location":"Pakistan","Period":2019,"Sex":"Both sexes","Age":"17.26"},{"index":681,"Continent":"Africa","Location":"Madagascar","Period":2019,"Sex":"Female","Age":"17.33"},{"index":682,"Continent":"Europe","Location":"Uzbekistan","Period":2019,"Sex":"Male","Age":"17.33"},{"index":683,"Continent":"Africa","Location":"Chad","Period":2019,"Sex":"Female","Age":"17.34"},{"index":684,"Continent":"Africa","Location":"South Africa","Period":2019,"Sex":"Male","Age":"17.34"},{"index":685,"Continent":"Africa","Location":"Mali","Period":2019,"Sex":"Male","Age":"17.35"},{"index":686,"Continent":"Western Pacific","Location":"Samoa","Period":2019,"Sex":"Male","Age":"17.35"},{"index":687,"Continent":"Africa","Location":"Benin","Period":2019,"Sex":"Both sexes","Age":"17.4"},{"index":688,"Continent":"Europe","Location":"Bulgaria","Period":2019,"Sex":"Male","Age":"17.41"},{"index":689,"Continent":"Africa","Location":"Liberia","Period":2019,"Sex":"Male","Age":"17.43"},{"index":690,"Continent":"Africa","Location":"Comoros","Period":2019,"Sex":"Male","Age":"17.44"},{"index":691,"Continent":"Africa","Location":"Ethiopia","Period":2019,"Sex":"Male","Age":"17.44"},{"index":692,"Continent":"Europe","Location":"Montenegro","Period":2019,"Sex":"Male","Age":"17.44"},{"index":693,"Continent":"Africa","Location":"Sierra Leone","Period":2019,"Sex":"Female","Age":"17.44"},{"index":694,"Continent":"Africa","Location":"Mali","Period":2019,"Sex":"Both sexes","Age":"17.46"},{"index":695,"Continent":"Africa","Location":"Seychelles","Period":2019,"Sex":"Male","Age":"17.47"},{"index":696,"Continent":"Western Pacific","Location":"Fiji","Period":2019,"Sex":"Female","Age":"17.49"},{"index":697,"Continent":"Americas","Location":"Honduras","Period":2019,"Sex":"Male","Age":"17.54"},{"index":698,"Continent":"Africa","Location":"Mali","Period":2019,"Sex":"Female","Age":"17.56"},{"index":699,"Continent":"Europe","Location":"Lithuania","Period":2019,"Sex":"Male","Age":"17.58"},{"index":700,"Continent":"Africa","Location":"Nigeria","Period":2019,"Sex":"Male","Age":"17.59"},{"index":701,"Continent":"Western Pacific","Location":"Papua New Guinea","Period":2019,"Sex":"Female","Age":"17.59"},{"index":702,"Continent":"Eastern Mediterranean","Location":"Iraq","Period":2019,"Sex":"Male","Age":"17.62"},{"index":703,"Continent":"Africa","Location":"Burundi","Period":2019,"Sex":"Female","Age":"17.63"},{"index":704,"Continent":"Africa","Location":"Equatorial Guinea","Period":2019,"Sex":"Both sexes","Age":"17.64"},{"index":705,"Continent":"Africa","Location":"Kenya","Period":2019,"Sex":"Both sexes","Age":"17.64"},{"index":706,"Continent":"Western Pacific","Location":"Lao People's Democratic Republic","Period":2019,"Sex":"Both sexes","Age":"17.65"},{"index":707,"Continent":"Africa","Location":"Uganda","Period":2019,"Sex":"Both sexes","Age":"17.7"},{"index":708,"Continent":"Africa","Location":"Eswatini","Period":2019,"Sex":"Female","Age":"17.71"},{"index":709,"Continent":"Europe","Location":"Hungary","Period":2019,"Sex":"Male","Age":"17.72"},{"index":710,"Continent":"Africa","Location":"Sao Tome and Principe","Period":2019,"Sex":"Both sexes","Age":"17.73"},{"index":711,"Continent":"Western Pacific","Location":"Cambodia","Period":2019,"Sex":"Both sexes","Age":"17.74"},{"index":712,"Continent":"Eastern Mediterranean","Location":"Morocco","Period":2019,"Sex":"Male","Age":"17.74"},{"index":713,"Continent":"Africa","Location":"Liberia","Period":2019,"Sex":"Both sexes","Age":"17.75"},{"index":714,"Continent":"Eastern Mediterranean","Location":"Djibouti","Period":2019,"Sex":"Both sexes","Age":"17.76"},{"index":715,"Continent":"Eastern Mediterranean","Location":"Pakistan","Period":2019,"Sex":"Female","Age":"17.76"},{"index":716,"Continent":"Western Pacific","Location":"Philippines","Period":2019,"Sex":"Both sexes","Age":"17.77"},{"index":717,"Continent":"Eastern Mediterranean","Location":"Yemen","Period":2019,"Sex":"Both sexes","Age":"17.77"},{"index":718,"Continent":"Europe","Location":"Kyrgyzstan","Period":2019,"Sex":"Male","Age":"17.78"},{"index":719,"Continent":"Africa","Location":"Niger","Period":2019,"Sex":"Female","Age":"17.79"},{"index":720,"Continent":"Africa","Location":"South Sudan","Period":2019,"Sex":"Both sexes","Age":"17.79"},{"index":721,"Continent":"Eastern Mediterranean","Location":"Oman","Period":2019,"Sex":"Both sexes","Age":"17.8"},{"index":722,"Continent":"Europe","Location":"Romania","Period":2019,"Sex":"Male","Age":"17.81"},{"index":723,"Continent":"Eastern Mediterranean","Location":"Egypt","Period":2019,"Sex":"Both sexes","Age":"17.83"},{"index":724,"Continent":"Africa","Location":"Mozambique","Period":2019,"Sex":"Female","Age":"17.83"},{"index":725,"Continent":"Eastern Mediterranean","Location":"Sudan","Period":2019,"Sex":"Male","Age":"17.83"},{"index":726,"Continent":"Western Pacific","Location":"Samoa","Period":2019,"Sex":"Both sexes","Age":"17.86"},{"index":727,"Continent":"Africa","Location":"Democratic Republic of the Congo","Period":2019,"Sex":"Female","Age":"17.88"},{"index":728,"Continent":"South-East Asia","Location":"Timor-Leste","Period":2019,"Sex":"Both sexes","Age":"17.9"},{"index":729,"Continent":"Europe","Location":"Serbia","Period":2019,"Sex":"Male","Age":"17.93"},{"index":730,"Continent":"South-East Asia","Location":"Indonesia","Period":2019,"Sex":"Both sexes","Age":"17.94"},{"index":731,"Continent":"Africa","Location":"Botswana","Period":2019,"Sex":"Female","Age":"17.97"},{"index":732,"Continent":"South-East Asia","Location":"Nepal","Period":2019,"Sex":"Both sexes","Age":"18.01"},{"index":733,"Continent":"Africa","Location":"Liberia","Period":2019,"Sex":"Female","Age":"18.02"},{"index":734,"Continent":"Africa","Location":"Rwanda","Period":2019,"Sex":"Both sexes","Age":"18.02"},{"index":735,"Continent":"Americas","Location":"Bolivia (Plurinational State of)","Period":2019,"Sex":"Male","Age":"18.04"},{"index":736,"Continent":"Africa","Location":"Gambia","Period":2019,"Sex":"Female","Age":"18.04"},{"index":737,"Continent":"Americas","Location":"Nicaragua","Period":2019,"Sex":"Male","Age":"18.04"},{"index":738,"Continent":"Africa","Location":"Zambia","Period":2019,"Sex":"Female","Age":"18.05"},{"index":739,"Continent":"Africa","Location":"Burkina Faso","Period":2019,"Sex":"Female","Age":"18.06"},{"index":740,"Continent":"South-East Asia","Location":"Myanmar","Period":2019,"Sex":"Both sexes","Age":"18.06"},{"index":741,"Continent":"Americas","Location":"Guyana","Period":2019,"Sex":"Female","Age":"18.1"},{"index":742,"Continent":"South-East Asia","Location":"India","Period":2019,"Sex":"Male","Age":"18.11"},{"index":743,"Continent":"Africa","Location":"Comoros","Period":2019,"Sex":"Both sexes","Age":"18.13"},{"index":744,"Continent":"Africa","Location":"Senegal","Period":2019,"Sex":"Both sexes","Age":"18.15"},{"index":745,"Continent":"Africa","Location":"United Republic of Tanzania","Period":2019,"Sex":"Both sexes","Age":"18.16"},{"index":746,"Continent":"Eastern Mediterranean","Location":"Syrian Arab Republic","Period":2019,"Sex":"Male","Age":"18.22"},{"index":747,"Continent":"Europe","Location":"Armenia","Period":2019,"Sex":"Male","Age":"18.24"},{"index":748,"Continent":"Africa","Location":"Nigeria","Period":2019,"Sex":"Both sexes","Age":"18.24"},{"index":749,"Continent":"Europe","Location":"Azerbaijan","Period":2019,"Sex":"Female","Age":"18.32"},{"index":750,"Continent":"Western Pacific","Location":"Samoa","Period":2019,"Sex":"Female","Age":"18.32"},{"index":751,"Continent":"Europe","Location":"The former Yugoslav Republic of Macedonia","Period":2019,"Sex":"Both sexes","Age":"18.33"},{"index":752,"Continent":"Africa","Location":"Cameroon","Period":2019,"Sex":"Female","Age":"18.35"},{"index":753,"Continent":"Americas","Location":"Honduras","Period":2019,"Sex":"Both sexes","Age":"18.35"},{"index":754,"Continent":"Eastern Mediterranean","Location":"Qatar","Period":2019,"Sex":"Female","Age":"18.38"},{"index":755,"Continent":"Africa","Location":"Ethiopia","Period":2019,"Sex":"Both sexes","Age":"18.45"},{"index":756,"Continent":"Africa","Location":"Mauritius","Period":2019,"Sex":"Male","Age":"18.45"},{"index":757,"Continent":"Americas","Location":"Suriname","Period":2019,"Sex":"Both sexes","Age":"18.46"},{"index":758,"Continent":"Eastern Mediterranean","Location":"Oman","Period":2019,"Sex":"Female","Age":"18.48"},{"index":759,"Continent":"Western Pacific","Location":"Malaysia","Period":2019,"Sex":"Male","Age":"18.49"},{"index":760,"Continent":"Western Pacific","Location":"Mongolia","Period":2019,"Sex":"Female","Age":"18.51"},{"index":761,"Continent":"Africa","Location":"Benin","Period":2019,"Sex":"Female","Age":"18.52"},{"index":762,"Continent":"Africa","Location":"Angola","Period":2019,"Sex":"Female","Age":"18.55"},{"index":763,"Continent":"Americas","Location":"Bolivia (Plurinational State of)","Period":2019,"Sex":"Both sexes","Age":"18.56"},{"index":764,"Continent":"Europe","Location":"Bosnia and Herzegovina","Period":2019,"Sex":"Male","Age":"18.59"},{"index":765,"Continent":"Africa","Location":"Sao Tome and Principe","Period":2019,"Sex":"Female","Age":"18.63"},{"index":766,"Continent":"South-East Asia","Location":"Sri Lanka","Period":2019,"Sex":"Male","Age":"18.64"},{"index":767,"Continent":"Eastern Mediterranean","Location":"Sudan","Period":2019,"Sex":"Both sexes","Age":"18.64"},{"index":768,"Continent":"Europe","Location":"Uzbekistan","Period":2019,"Sex":"Both sexes","Age":"18.64"},{"index":769,"Continent":"Africa","Location":"Togo","Period":2019,"Sex":"Female","Age":"18.65"},{"index":770,"Continent":"Eastern Mediterranean","Location":"Morocco","Period":2019,"Sex":"Both sexes","Age":"18.67"},{"index":771,"Continent":"Africa","Location":"Côte d’Ivoire","Period":2019,"Sex":"Female","Age":"18.69"},{"index":772,"Continent":"Eastern Mediterranean","Location":"Yemen","Period":2019,"Sex":"Female","Age":"18.71"},{"index":773,"Continent":"Eastern Mediterranean","Location":"Bahrain","Period":2019,"Sex":"Male","Age":"18.72"},{"index":774,"Continent":"Eastern Mediterranean","Location":"Syrian Arab Republic","Period":2019,"Sex":"Both sexes","Age":"18.72"},{"index":775,"Continent":"Americas","Location":"Grenada","Period":2019,"Sex":"Both sexes","Age":"18.73"},{"index":776,"Continent":"Europe","Location":"Turkmenistan","Period":2019,"Sex":"Both sexes","Age":"18.74"},{"index":777,"Continent":"Africa","Location":"Comoros","Period":2019,"Sex":"Female","Age":"18.75"},{"index":778,"Continent":"Europe","Location":"Georgia","Period":2019,"Sex":"Both sexes","Age":"18.76"},{"index":779,"Continent":"Eastern Mediterranean","Location":"Lebanon","Period":2019,"Sex":"Male","Age":"18.76"},{"index":780,"Continent":"Africa","Location":"Equatorial Guinea","Period":2019,"Sex":"Female","Age":"18.81"},{"index":781,"Continent":"South-East Asia","Location":"India","Period":2019,"Sex":"Both sexes","Age":"18.82"},{"index":782,"Continent":"Americas","Location":"Argentina","Period":2019,"Sex":"Male","Age":"18.84"},{"index":783,"Continent":"Africa","Location":"Nigeria","Period":2019,"Sex":"Female","Age":"18.86"},{"index":784,"Continent":"Africa","Location":"Mauritania","Period":2019,"Sex":"Female","Age":"18.87"},{"index":785,"Continent":"South-East Asia","Location":"Timor-Leste","Period":2019,"Sex":"Female","Age":"18.87"},{"index":786,"Continent":"South-East Asia","Location":"Bhutan","Period":2019,"Sex":"Male","Age":"18.89"},{"index":787,"Continent":"Africa","Location":"Ghana","Period":2019,"Sex":"Female","Age":"18.89"},{"index":788,"Continent":"Western Pacific","Location":"Lao People's Democratic Republic","Period":2019,"Sex":"Female","Age":"18.89"},{"index":789,"Continent":"Africa","Location":"Senegal","Period":2019,"Sex":"Female","Age":"18.92"},{"index":790,"Continent":"Africa","Location":"South Sudan","Period":2019,"Sex":"Female","Age":"18.93"},{"index":791,"Continent":"Eastern Mediterranean","Location":"Djibouti","Period":2019,"Sex":"Female","Age":"18.96"},{"index":792,"Continent":"Western Pacific","Location":"Brunei Darussalam","Period":2019,"Sex":"Male","Age":"18.97"},{"index":793,"Continent":"Africa","Location":"Mauritania","Period":2019,"Sex":"Both sexes","Age":"18.98"},{"index":794,"Continent":"Americas","Location":"Uruguay","Period":2019,"Sex":"Male","Age":"18.98"},{"index":795,"Continent":"Americas","Location":"Dominican Republic","Period":2019,"Sex":"Male","Age":"18.99"},{"index":796,"Continent":"Eastern Mediterranean","Location":"Bahrain","Period":2019,"Sex":"Both sexes","Age":"19.01"},{"index":797,"Continent":"Europe","Location":"Republic of Moldova","Period":2019,"Sex":"Both sexes","Age":"19.02"},{"index":798,"Continent":"Africa","Location":"Malawi","Period":2019,"Sex":"Female","Age":"19.03"},{"index":799,"Continent":"Western Pacific","Location":"Tonga","Period":2019,"Sex":"Both sexes","Age":"19.03"},{"index":800,"Continent":"Americas","Location":"Bolivia (Plurinational State of)","Period":2019,"Sex":"Female","Age":"19.06"},{"index":801,"Continent":"Africa","Location":"United Republic of Tanzania","Period":2019,"Sex":"Female","Age":"19.06"},{"index":802,"Continent":"Americas","Location":"Honduras","Period":2019,"Sex":"Female","Age":"19.08"},{"index":803,"Continent":"Africa","Location":"Kenya","Period":2019,"Sex":"Female","Age":"19.09"},{"index":804,"Continent":"South-East Asia","Location":"Democratic People's Republic of Korea","Period":2019,"Sex":"Both sexes","Age":"19.1"},{"index":805,"Continent":"Western Pacific","Location":"Cambodia","Period":2019,"Sex":"Female","Age":"19.11"},{"index":806,"Continent":"Eastern Mediterranean","Location":"Egypt","Period":2019,"Sex":"Female","Age":"19.11"},{"index":807,"Continent":"Americas","Location":"Bahamas","Period":2019,"Sex":"Male","Age":"19.12"},{"index":808,"Continent":"Africa","Location":"Mauritania","Period":2019,"Sex":"Male","Age":"19.12"},{"index":809,"Continent":"Africa","Location":"South Africa","Period":2019,"Sex":"Both sexes","Age":"19.12"},{"index":810,"Continent":"South-East Asia","Location":"Indonesia","Period":2019,"Sex":"Female","Age":"19.13"},{"index":811,"Continent":"South-East Asia","Location":"Nepal","Period":2019,"Sex":"Female","Age":"19.15"},{"index":812,"Continent":"Africa","Location":"Rwanda","Period":2019,"Sex":"Female","Age":"19.16"},{"index":813,"Continent":"Americas","Location":"Saint Lucia","Period":2019,"Sex":"Male","Age":"19.16"},{"index":814,"Continent":"Western Pacific","Location":"Brunei Darussalam","Period":2019,"Sex":"Both sexes","Age":"19.17"},{"index":815,"Continent":"Eastern Mediterranean","Location":"Iraq","Period":2019,"Sex":"Both sexes","Age":"19.18"},{"index":816,"Continent":"Eastern Mediterranean","Location":"United Arab Emirates","Period":2019,"Sex":"Male","Age":"19.18"},{"index":817,"Continent":"Western Pacific","Location":"China","Period":2019,"Sex":"Male","Age":"19.19"},{"index":818,"Continent":"Africa","Location":"Gabon","Period":2019,"Sex":"Female","Age":"19.25"},{"index":819,"Continent":"Africa","Location":"Namibia","Period":2019,"Sex":"Female","Age":"19.25"},{"index":820,"Continent":"Eastern Mediterranean","Location":"Saudi Arabia","Period":2019,"Sex":"Male","Age":"19.25"},{"index":821,"Continent":"Europe","Location":"Estonia","Period":2019,"Sex":"Male","Age":"19.26"},{"index":822,"Continent":"Europe","Location":"Slovakia","Period":2019,"Sex":"Male","Age":"19.27"},{"index":823,"Continent":"Eastern Mediterranean","Location":"Syrian Arab Republic","Period":2019,"Sex":"Female","Age":"19.28"},{"index":824,"Continent":"Eastern Mediterranean","Location":"Bahrain","Period":2019,"Sex":"Female","Age":"19.36"},{"index":825,"Continent":"South-East Asia","Location":"Bhutan","Period":2019,"Sex":"Both sexes","Age":"19.36"},{"index":826,"Continent":"Western Pacific","Location":"Brunei Darussalam","Period":2019,"Sex":"Female","Age":"19.38"},{"index":827,"Continent":"Africa","Location":"Uganda","Period":2019,"Sex":"Female","Age":"19.38"},{"index":828,"Continent":"Africa","Location":"Ethiopia","Period":2019,"Sex":"Female","Age":"19.4"},{"index":829,"Continent":"Americas","Location":"Guatemala","Period":2019,"Sex":"Male","Age":"19.4"},{"index":830,"Continent":"Eastern Mediterranean","Location":"Sudan","Period":2019,"Sex":"Female","Age":"19.41"},{"index":831,"Continent":"Europe","Location":"Croatia","Period":2019,"Sex":"Male","Age":"19.44"},{"index":832,"Continent":"Europe","Location":"Montenegro","Period":2019,"Sex":"Both sexes","Age":"19.44"},{"index":833,"Continent":"Europe","Location":"Kazakhstan","Period":2019,"Sex":"Both sexes","Age":"19.46"},{"index":834,"Continent":"Europe","Location":"Ukraine","Period":2019,"Sex":"Both sexes","Age":"19.49"},{"index":835,"Continent":"Western Pacific","Location":"Malaysia","Period":2019,"Sex":"Both sexes","Age":"19.5"},{"index":836,"Continent":"Eastern Mediterranean","Location":"Qatar","Period":2019,"Sex":"Both sexes","Age":"19.5"},{"index":837,"Continent":"Africa","Location":"Seychelles","Period":2019,"Sex":"Both sexes","Age":"19.5"},{"index":838,"Continent":"Europe","Location":"Poland","Period":2019,"Sex":"Male","Age":"19.52"},{"index":839,"Continent":"South-East Asia","Location":"India","Period":2019,"Sex":"Female","Age":"19.54"},{"index":840,"Continent":"Western Pacific","Location":"Philippines","Period":2019,"Sex":"Female","Age":"19.57"},{"index":841,"Continent":"Europe","Location":"Serbia","Period":2019,"Sex":"Both sexes","Age":"19.58"},{"index":842,"Continent":"Eastern Mediterranean","Location":"Morocco","Period":2019,"Sex":"Female","Age":"19.59"},{"index":843,"Continent":"Western Pacific","Location":"Viet Nam","Period":2019,"Sex":"Both sexes","Age":"19.6"},{"index":844,"Continent":"South-East Asia","Location":"Myanmar","Period":2019,"Sex":"Female","Age":"19.62"},{"index":845,"Continent":"Europe","Location":"The former Yugoslav Republic of Macedonia","Period":2019,"Sex":"Female","Age":"19.64"},{"index":846,"Continent":"Africa","Location":"Cabo Verde","Period":2019,"Sex":"Both sexes","Age":"19.66"},{"index":847,"Continent":"Americas","Location":"Venezuela (Bolivarian Republic of)","Period":2019,"Sex":"Male","Age":"19.67"},{"index":848,"Continent":"Europe","Location":"Belarus","Period":2019,"Sex":"Both sexes","Age":"19.72"},{"index":849,"Continent":"Americas","Location":"Antigua and Barbuda","Period":2019,"Sex":"Male","Age":"19.81"},{"index":850,"Continent":"Europe","Location":"Uzbekistan","Period":2019,"Sex":"Female","Age":"19.81"},{"index":851,"Continent":"Europe","Location":"Bulgaria","Period":2019,"Sex":"Both sexes","Age":"19.82"},{"index":852,"Continent":"Eastern Mediterranean","Location":"Saudi Arabia","Period":2019,"Sex":"Both sexes","Age":"19.9"},{"index":853,"Continent":"Eastern Mediterranean","Location":"United Arab Emirates","Period":2019,"Sex":"Both sexes","Age":"19.92"},{"index":854,"Continent":"Europe","Location":"Czechia","Period":2019,"Sex":"Male","Age":"19.93"},{"index":855,"Continent":"Europe","Location":"Russian Federation","Period":2019,"Sex":"Both sexes","Age":"19.93"},{"index":856,"Continent":"Americas","Location":"Barbados","Period":2019,"Sex":"Male","Age":"19.94"},{"index":857,"Continent":"South-East Asia","Location":"Bhutan","Period":2019,"Sex":"Female","Age":"19.95"},{"index":858,"Continent":"Americas","Location":"Cuba","Period":2019,"Sex":"Male","Age":"19.98"},{"index":859,"Continent":"Europe","Location":"Kyrgyzstan","Period":2019,"Sex":"Both sexes","Age":"20.01"},{"index":860,"Continent":"Americas","Location":"Nicaragua","Period":2019,"Sex":"Both sexes","Age":"20.03"},{"index":861,"Continent":"Americas","Location":"Jamaica","Period":2019,"Sex":"Male","Age":"20.07"},{"index":862,"Continent":"Americas","Location":"Brazil","Period":2019,"Sex":"Male","Age":"20.09"},{"index":863,"Continent":"Europe","Location":"Turkmenistan","Period":2019,"Sex":"Female","Age":"20.11"},{"index":864,"Continent":"Americas","Location":"Paraguay","Period":2019,"Sex":"Male","Age":"20.15"},{"index":865,"Continent":"Europe","Location":"Bosnia and Herzegovina","Period":2019,"Sex":"Both sexes","Age":"20.16"},{"index":866,"Continent":"Americas","Location":"Saint Vincent and the Grenadines","Period":2019,"Sex":"Male","Age":"20.16"},{"index":867,"Continent":"Eastern Mediterranean","Location":"Tunisia","Period":2019,"Sex":"Male","Age":"20.16"},{"index":868,"Continent":"Europe","Location":"Albania","Period":2019,"Sex":"Male","Age":"20.22"},{"index":869,"Continent":"Europe","Location":"Hungary","Period":2019,"Sex":"Both sexes","Age":"20.22"},{"index":870,"Continent":"Europe","Location":"Romania","Period":2019,"Sex":"Both sexes","Age":"20.25"},{"index":871,"Continent":"South-East Asia","Location":"Bangladesh","Period":2019,"Sex":"Male","Age":"20.26"},{"index":872,"Continent":"Africa","Location":"Mauritius","Period":2019,"Sex":"Both sexes","Age":"20.29"},{"index":873,"Continent":"Americas","Location":"Belize","Period":2019,"Sex":"Male","Age":"20.32"},{"index":874,"Continent":"Americas","Location":"Grenada","Period":2019,"Sex":"Female","Age":"20.34"},{"index":875,"Continent":"Europe","Location":"Armenia","Period":2019,"Sex":"Both sexes","Age":"20.41"},{"index":876,"Continent":"Americas","Location":"Trinidad and Tobago","Period":2019,"Sex":"Male","Age":"20.41"},{"index":877,"Continent":"Americas","Location":"El Salvador","Period":2019,"Sex":"Male","Age":"20.42"},{"index":878,"Continent":"Americas","Location":"Suriname","Period":2019,"Sex":"Female","Age":"20.45"},{"index":879,"Continent":"Americas","Location":"Guatemala","Period":2019,"Sex":"Both sexes","Age":"20.47"},{"index":880,"Continent":"Americas","Location":"Mexico","Period":2019,"Sex":"Male","Age":"20.5"},{"index":881,"Continent":"Africa","Location":"South Africa","Period":2019,"Sex":"Female","Age":"20.52"},{"index":882,"Continent":"Europe","Location":"Latvia","Period":2019,"Sex":"Both sexes","Age":"20.53"},{"index":883,"Continent":"Eastern Mediterranean","Location":"Lebanon","Period":2019,"Sex":"Both sexes","Age":"20.53"},{"index":884,"Continent":"Eastern Mediterranean","Location":"Libya","Period":2019,"Sex":"Male","Age":"20.55"},{"index":885,"Continent":"Western Pacific","Location":"Malaysia","Period":2019,"Sex":"Female","Age":"20.56"},{"index":886,"Continent":"Americas","Location":"Antigua and Barbuda","Period":2019,"Sex":"Both sexes","Age":"20.59"},{"index":887,"Continent":"Europe","Location":"Türkiye","Period":2019,"Sex":"Male","Age":"20.61"},{"index":888,"Continent":"Eastern Mediterranean","Location":"Qatar","Period":2019,"Sex":"Male","Age":"20.64"},{"index":889,"Continent":"Americas","Location":"Dominican Republic","Period":2019,"Sex":"Both sexes","Age":"20.65"},{"index":890,"Continent":"Eastern Mediterranean","Location":"Iraq","Period":2019,"Sex":"Female","Age":"20.66"},{"index":891,"Continent":"South-East Asia","Location":"Sri Lanka","Period":2019,"Sex":"Both sexes","Age":"20.76"},{"index":892,"Continent":"South-East Asia","Location":"Democratic People's Republic of Korea","Period":2019,"Sex":"Female","Age":"20.77"},{"index":893,"Continent":"Eastern Mediterranean","Location":"Saudi Arabia","Period":2019,"Sex":"Female","Age":"20.77"},{"index":894,"Continent":"Americas","Location":"Bahamas","Period":2019,"Sex":"Both sexes","Age":"20.84"},{"index":895,"Continent":"South-East Asia","Location":"Bangladesh","Period":2019,"Sex":"Both sexes","Age":"20.86"},{"index":896,"Continent":"Americas","Location":"Saint Vincent and the Grenadines","Period":2019,"Sex":"Both sexes","Age":"20.87"},{"index":897,"Continent":"Americas","Location":"Saint Lucia","Period":2019,"Sex":"Both sexes","Age":"20.91"},{"index":898,"Continent":"Americas","Location":"Barbados","Period":2019,"Sex":"Both sexes","Age":"20.92"},{"index":899,"Continent":"Europe","Location":"Republic of Moldova","Period":2019,"Sex":"Female","Age":"20.92"},{"index":900,"Continent":"Europe","Location":"Lithuania","Period":2019,"Sex":"Both sexes","Age":"20.93"},{"index":901,"Continent":"Europe","Location":"Georgia","Period":2019,"Sex":"Female","Age":"21.02"},{"index":902,"Continent":"Europe","Location":"Albania","Period":2019,"Sex":"Both sexes","Age":"21.03"},{"index":903,"Continent":"Western Pacific","Location":"China","Period":2019,"Sex":"Both sexes","Age":"21.06"},{"index":904,"Continent":"Europe","Location":"Serbia","Period":2019,"Sex":"Female","Age":"21.1"},{"index":905,"Continent":"Americas","Location":"Argentina","Period":2019,"Sex":"Both sexes","Age":"21.11"},{"index":906,"Continent":"Western Pacific","Location":"Tonga","Period":2019,"Sex":"Female","Age":"21.16"},{"index":907,"Continent":"Eastern Mediterranean","Location":"Iran (Islamic Republic of)","Period":2019,"Sex":"Male","Age":"21.18"},{"index":908,"Continent":"Eastern Mediterranean","Location":"Libya","Period":2019,"Sex":"Both sexes","Age":"21.26"},{"index":909,"Continent":"Americas","Location":"Antigua and Barbuda","Period":2019,"Sex":"Female","Age":"21.31"},{"index":910,"Continent":"Americas","Location":"Jamaica","Period":2019,"Sex":"Both sexes","Age":"21.32"},{"index":911,"Continent":"Europe","Location":"Montenegro","Period":2019,"Sex":"Female","Age":"21.32"},{"index":912,"Continent":"South-East Asia","Location":"Maldives","Period":2019,"Sex":"Male","Age":"21.39"},{"index":913,"Continent":"Americas","Location":"Guatemala","Period":2019,"Sex":"Female","Age":"21.43"},{"index":914,"Continent":"Europe","Location":"Kazakhstan","Period":2019,"Sex":"Female","Age":"21.44"},{"index":915,"Continent":"Africa","Location":"Seychelles","Period":2019,"Sex":"Female","Age":"21.51"},{"index":916,"Continent":"Africa","Location":"Algeria","Period":2019,"Sex":"Male","Age":"21.53"},{"index":917,"Continent":"South-East Asia","Location":"Bangladesh","Period":2019,"Sex":"Female","Age":"21.53"},{"index":918,"Continent":"Americas","Location":"Belize","Period":2019,"Sex":"Both sexes","Age":"21.53"},{"index":919,"Continent":"Eastern Mediterranean","Location":"Tunisia","Period":2019,"Sex":"Both sexes","Age":"21.54"},{"index":920,"Continent":"Europe","Location":"Bosnia and Herzegovina","Period":2019,"Sex":"Female","Age":"21.56"},{"index":921,"Continent":"Eastern Mediterranean","Location":"Jordan","Period":2019,"Sex":"Male","Age":"21.56"},{"index":922,"Continent":"Americas","Location":"Cuba","Period":2019,"Sex":"Both sexes","Age":"21.59"},{"index":923,"Continent":"Americas","Location":"Saint Vincent and the Grenadines","Period":2019,"Sex":"Female","Age":"21.63"},{"index":924,"Continent":"Europe","Location":"Kyrgyzstan","Period":2019,"Sex":"Female","Age":"21.67"},{"index":925,"Continent":"Americas","Location":"Uruguay","Period":2019,"Sex":"Both sexes","Age":"21.67"},{"index":926,"Continent":"Eastern Mediterranean","Location":"United Arab Emirates","Period":2019,"Sex":"Female","Age":"21.69"},{"index":927,"Continent":"Americas","Location":"Venezuela (Bolivarian Republic of)","Period":2019,"Sex":"Both sexes","Age":"21.69"},{"index":928,"Continent":"Europe","Location":"Ukraine","Period":2019,"Sex":"Female","Age":"21.73"},{"index":929,"Continent":"Europe","Location":"Croatia","Period":2019,"Sex":"Both sexes","Age":"21.76"},{"index":930,"Continent":"Africa","Location":"Cabo Verde","Period":2019,"Sex":"Female","Age":"21.77"},{"index":931,"Continent":"Americas","Location":"Paraguay","Period":2019,"Sex":"Both sexes","Age":"21.78"},{"index":932,"Continent":"Americas","Location":"United States of America","Period":2019,"Sex":"Male","Age":"21.78"},{"index":933,"Continent":"Americas","Location":"Barbados","Period":2019,"Sex":"Female","Age":"21.79"},{"index":934,"Continent":"Eastern Mediterranean","Location":"Jordan","Period":2019,"Sex":"Both sexes","Age":"21.81"},{"index":935,"Continent":"Europe","Location":"Slovakia","Period":2019,"Sex":"Both sexes","Age":"21.81"},{"index":936,"Continent":"Eastern Mediterranean","Location":"Iran (Islamic Republic of)","Period":2019,"Sex":"Both sexes","Age":"21.82"},{"index":937,"Continent":"Americas","Location":"Mexico","Period":2019,"Sex":"Both sexes","Age":"21.84"},{"index":938,"Continent":"Europe","Location":"Slovenia","Period":2019,"Sex":"Male","Age":"21.84"},{"index":939,"Continent":"Europe","Location":"Germany","Period":2019,"Sex":"Male","Age":"21.87"},{"index":940,"Continent":"Americas","Location":"Nicaragua","Period":2019,"Sex":"Female","Age":"21.87"},{"index":941,"Continent":"Eastern Mediterranean","Location":"Libya","Period":2019,"Sex":"Female","Age":"21.89"},{"index":942,"Continent":"Americas","Location":"Brazil","Period":2019,"Sex":"Both sexes","Age":"21.9"},{"index":943,"Continent":"Europe","Location":"Albania","Period":2019,"Sex":"Female","Age":"21.94"},{"index":944,"Continent":"Europe","Location":"Bulgaria","Period":2019,"Sex":"Female","Age":"21.97"},{"index":945,"Continent":"Africa","Location":"Mauritius","Period":2019,"Sex":"Female","Age":"21.97"},{"index":946,"Continent":"Europe","Location":"Türkiye","Period":2019,"Sex":"Both sexes","Age":"22.03"},{"index":947,"Continent":"Western Pacific","Location":"Viet Nam","Period":2019,"Sex":"Female","Age":"22.03"},{"index":948,"Continent":"Africa","Location":"Algeria","Period":2019,"Sex":"Both sexes","Age":"22.04"},{"index":949,"Continent":"Americas","Location":"Ecuador","Period":2019,"Sex":"Male","Age":"22.04"},{"index":950,"Continent":"Europe","Location":"Czechia","Period":2019,"Sex":"Both sexes","Age":"22.07"},{"index":951,"Continent":"Europe","Location":"Greece","Period":2019,"Sex":"Male","Age":"22.07"},{"index":952,"Continent":"Eastern Mediterranean","Location":"Jordan","Period":2019,"Sex":"Female","Age":"22.07"},{"index":953,"Continent":"Americas","Location":"El Salvador","Period":2019,"Sex":"Both sexes","Age":"22.12"},{"index":954,"Continent":"Europe","Location":"Portugal","Period":2019,"Sex":"Male","Age":"22.12"},{"index":955,"Continent":"South-East Asia","Location":"Thailand","Period":2019,"Sex":"Male","Age":"22.12"},{"index":956,"Continent":"Europe","Location":"Poland","Period":2019,"Sex":"Both sexes","Age":"22.13"},{"index":957,"Continent":"Europe","Location":"Armenia","Period":2019,"Sex":"Female","Age":"22.15"},{"index":958,"Continent":"South-East Asia","Location":"Maldives","Period":2019,"Sex":"Both sexes","Age":"22.15"},{"index":959,"Continent":"Europe","Location":"Russian Federation","Period":2019,"Sex":"Female","Age":"22.19"},{"index":960,"Continent":"Europe","Location":"Denmark","Period":2019,"Sex":"Male","Age":"22.26"},{"index":961,"Continent":"Europe","Location":"Hungary","Period":2019,"Sex":"Female","Age":"22.27"},{"index":962,"Continent":"Europe","Location":"Belgium","Period":2019,"Sex":"Male","Age":"22.33"},{"index":963,"Continent":"Americas","Location":"Dominican Republic","Period":2019,"Sex":"Female","Age":"22.36"},{"index":964,"Continent":"Europe","Location":"Finland","Period":2019,"Sex":"Male","Age":"22.36"},{"index":965,"Continent":"Americas","Location":"Bahamas","Period":2019,"Sex":"Female","Age":"22.39"},{"index":966,"Continent":"Europe","Location":"Romania","Period":2019,"Sex":"Female","Age":"22.39"},{"index":967,"Continent":"Eastern Mediterranean","Location":"Lebanon","Period":2019,"Sex":"Female","Age":"22.4"},{"index":968,"Continent":"Americas","Location":"Chile","Period":2019,"Sex":"Male","Age":"22.41"},{"index":969,"Continent":"Europe","Location":"Austria","Period":2019,"Sex":"Male","Age":"22.43"},{"index":970,"Continent":"Europe","Location":"Belarus","Period":2019,"Sex":"Female","Age":"22.48"},{"index":971,"Continent":"Americas","Location":"Colombia","Period":2019,"Sex":"Male","Age":"22.48"},{"index":972,"Continent":"Eastern Mediterranean","Location":"Iran (Islamic Republic of)","Period":2019,"Sex":"Female","Age":"22.48"},{"index":973,"Continent":"Europe","Location":"Estonia","Period":2019,"Sex":"Both sexes","Age":"22.53"},{"index":974,"Continent":"Americas","Location":"Panama","Period":2019,"Sex":"Male","Age":"22.55"},{"index":975,"Continent":"Africa","Location":"Algeria","Period":2019,"Sex":"Female","Age":"22.62"},{"index":976,"Continent":"Americas","Location":"Jamaica","Period":2019,"Sex":"Female","Age":"22.63"},{"index":977,"Continent":"South-East Asia","Location":"Sri Lanka","Period":2019,"Sex":"Female","Age":"22.63"},{"index":978,"Continent":"Americas","Location":"Trinidad and Tobago","Period":2019,"Sex":"Both sexes","Age":"22.72"},{"index":979,"Continent":"Eastern Mediterranean","Location":"Kuwait","Period":2019,"Sex":"Male","Age":"22.82"},{"index":980,"Continent":"Eastern Mediterranean","Location":"Tunisia","Period":2019,"Sex":"Female","Age":"22.82"},{"index":981,"Continent":"Europe","Location":"Luxembourg","Period":2019,"Sex":"Male","Age":"22.91"},{"index":982,"Continent":"Americas","Location":"Saint Lucia","Period":2019,"Sex":"Female","Age":"22.91"},{"index":983,"Continent":"Americas","Location":"Belize","Period":2019,"Sex":"Female","Age":"22.93"},{"index":984,"Continent":"Europe","Location":"Latvia","Period":2019,"Sex":"Female","Age":"22.95"},{"index":985,"Continent":"Europe","Location":"Netherlands","Period":2019,"Sex":"Male","Age":"22.96"},{"index":986,"Continent":"Europe","Location":"United Kingdom of Great Britain and Northern Ireland","Period":2019,"Sex":"Male","Age":"22.96"},{"index":987,"Continent":"Europe","Location":"Malta","Period":2019,"Sex":"Male","Age":"22.99"},{"index":988,"Continent":"Europe","Location":"Ireland","Period":2019,"Sex":"Male","Age":"23.01"},{"index":989,"Continent":"South-East Asia","Location":"Maldives","Period":2019,"Sex":"Female","Age":"23.05"},{"index":990,"Continent":"Americas","Location":"Mexico","Period":2019,"Sex":"Female","Age":"23.06"},{"index":991,"Continent":"Americas","Location":"Argentina","Period":2019,"Sex":"Female","Age":"23.08"},{"index":992,"Continent":"Western Pacific","Location":"China","Period":2019,"Sex":"Female","Age":"23.08"},{"index":993,"Continent":"Americas","Location":"United States of America","Period":2019,"Sex":"Both sexes","Age":"23.13"},{"index":994,"Continent":"Americas","Location":"Cuba","Period":2019,"Sex":"Female","Age":"23.18"},{"index":995,"Continent":"Americas","Location":"Ecuador","Period":2019,"Sex":"Both sexes","Age":"23.2"},{"index":996,"Continent":"Europe","Location":"Türkiye","Period":2019,"Sex":"Female","Age":"23.24"},{"index":997,"Continent":"Europe","Location":"France","Period":2019,"Sex":"Male","Age":"23.27"},{"index":998,"Continent":"Europe","Location":"Spain","Period":2019,"Sex":"Male","Age":"23.28"},{"index":999,"Continent":"Europe","Location":"Cyprus","Period":2019,"Sex":"Male","Age":"23.31"},{"index":1000,"Continent":"Europe","Location":"Sweden","Period":2019,"Sex":"Male","Age":"23.34"},{"index":1001,"Continent":"Europe","Location":"Italy","Period":2019,"Sex":"Male","Age":"23.36"},{"index":1002,"Continent":"Western Pacific","Location":"Republic of Korea","Period":2019,"Sex":"Male","Age":"23.37"},{"index":1003,"Continent":"Europe","Location":"Lithuania","Period":2019,"Sex":"Female","Age":"23.46"},{"index":1004,"Continent":"Europe","Location":"Norway","Period":2019,"Sex":"Male","Age":"23.47"},{"index":1005,"Continent":"Americas","Location":"Paraguay","Period":2019,"Sex":"Female","Age":"23.5"},{"index":1006,"Continent":"Americas","Location":"Brazil","Period":2019,"Sex":"Female","Age":"23.51"},{"index":1007,"Continent":"Americas","Location":"El Salvador","Period":2019,"Sex":"Female","Age":"23.57"},{"index":1008,"Continent":"South-East Asia","Location":"Thailand","Period":2019,"Sex":"Both sexes","Age":"23.57"},{"index":1009,"Continent":"Americas","Location":"Costa Rica","Period":2019,"Sex":"Male","Age":"23.58"},{"index":1010,"Continent":"Europe","Location":"Denmark","Period":2019,"Sex":"Both sexes","Age":"23.59"},{"index":1011,"Continent":"Americas","Location":"Venezuela (Bolivarian Republic of)","Period":2019,"Sex":"Female","Age":"23.6"},{"index":1012,"Continent":"Europe","Location":"Israel","Period":2019,"Sex":"Male","Age":"23.62"},{"index":1013,"Continent":"Americas","Location":"Peru","Period":2019,"Sex":"Male","Age":"23.66"},{"index":1014,"Continent":"Europe","Location":"Iceland","Period":2019,"Sex":"Male","Age":"23.71"},{"index":1015,"Continent":"Europe","Location":"Croatia","Period":2019,"Sex":"Female","Age":"23.75"},{"index":1016,"Continent":"Western Pacific","Location":"New Zealand","Period":2019,"Sex":"Male","Age":"23.75"},{"index":1017,"Continent":"Western Pacific","Location":"Singapore","Period":2019,"Sex":"Male","Age":"23.78"},{"index":1018,"Continent":"Europe","Location":"Slovenia","Period":2019,"Sex":"Both sexes","Age":"23.82"},{"index":1019,"Continent":"Americas","Location":"Canada","Period":2019,"Sex":"Male","Age":"23.84"},{"index":1020,"Continent":"Europe","Location":"Greece","Period":2019,"Sex":"Both sexes","Age":"23.84"},{"index":1021,"Continent":"Europe","Location":"Slovakia","Period":2019,"Sex":"Female","Age":"23.93"},{"index":1022,"Continent":"Western Pacific","Location":"Japan","Period":2019,"Sex":"Male","Age":"23.95"},{"index":1023,"Continent":"Americas","Location":"Colombia","Period":2019,"Sex":"Both sexes","Age":"23.96"},{"index":1024,"Continent":"Eastern Mediterranean","Location":"Kuwait","Period":2019,"Sex":"Both sexes","Age":"23.96"},{"index":1025,"Continent":"Americas","Location":"Uruguay","Period":2019,"Sex":"Female","Age":"23.96"},{"index":1026,"Continent":"Europe","Location":"Czechia","Period":2019,"Sex":"Female","Age":"24.0"},{"index":1027,"Continent":"Europe","Location":"Belgium","Period":2019,"Sex":"Both sexes","Age":"24.02"},{"index":1028,"Continent":"Europe","Location":"Netherlands","Period":2019,"Sex":"Both sexes","Age":"24.08"},{"index":1029,"Continent":"Europe","Location":"Austria","Period":2019,"Sex":"Both sexes","Age":"24.09"},{"index":1030,"Continent":"Europe","Location":"Switzerland","Period":2019,"Sex":"Male","Age":"24.09"},{"index":1031,"Continent":"Europe","Location":"United Kingdom of Great Britain and Northern Ireland","Period":2019,"Sex":"Both sexes","Age":"24.13"},{"index":1032,"Continent":"Europe","Location":"Finland","Period":2019,"Sex":"Both sexes","Age":"24.16"},{"index":1033,"Continent":"Europe","Location":"Ireland","Period":2019,"Sex":"Both sexes","Age":"24.19"},{"index":1034,"Continent":"Americas","Location":"Panama","Period":2019,"Sex":"Both sexes","Age":"24.26"},{"index":1035,"Continent":"Americas","Location":"Chile","Period":2019,"Sex":"Both sexes","Age":"24.27"},{"index":1036,"Continent":"Americas","Location":"Ecuador","Period":2019,"Sex":"Female","Age":"24.31"},{"index":1037,"Continent":"Europe","Location":"Poland","Period":2019,"Sex":"Female","Age":"24.33"},{"index":1038,"Continent":"Europe","Location":"Portugal","Period":2019,"Sex":"Both sexes","Age":"24.34"},{"index":1039,"Continent":"Western Pacific","Location":"Australia","Period":2019,"Sex":"Male","Age":"24.37"},{"index":1040,"Continent":"Americas","Location":"Peru","Period":2019,"Sex":"Both sexes","Age":"24.38"},{"index":1041,"Continent":"Americas","Location":"United States of America","Period":2019,"Sex":"Female","Age":"24.38"},{"index":1042,"Continent":"Europe","Location":"Luxembourg","Period":2019,"Sex":"Both sexes","Age":"24.4"},{"index":1043,"Continent":"Europe","Location":"Germany","Period":2019,"Sex":"Both sexes","Age":"24.41"},{"index":1044,"Continent":"Europe","Location":"Malta","Period":2019,"Sex":"Both sexes","Age":"24.49"},{"index":1045,"Continent":"Europe","Location":"Sweden","Period":2019,"Sex":"Both sexes","Age":"24.5"},{"index":1046,"Continent":"Europe","Location":"Iceland","Period":2019,"Sex":"Both sexes","Age":"24.64"},{"index":1047,"Continent":"Europe","Location":"Norway","Period":2019,"Sex":"Both sexes","Age":"24.66"},{"index":1048,"Continent":"Western Pacific","Location":"New Zealand","Period":2019,"Sex":"Both sexes","Age":"24.83"},{"index":1049,"Continent":"South-East Asia","Location":"Thailand","Period":2019,"Sex":"Female","Age":"24.84"},{"index":1050,"Continent":"Europe","Location":"Denmark","Period":2019,"Sex":"Female","Age":"24.85"},{"index":1051,"Continent":"Europe","Location":"Israel","Period":2019,"Sex":"Both sexes","Age":"24.9"},{"index":1052,"Continent":"Europe","Location":"Cyprus","Period":2019,"Sex":"Both sexes","Age":"24.92"},{"index":1053,"Continent":"Europe","Location":"Estonia","Period":2019,"Sex":"Female","Age":"24.99"},{"index":1054,"Continent":"Americas","Location":"Trinidad and Tobago","Period":2019,"Sex":"Female","Age":"25.01"},{"index":1055,"Continent":"Americas","Location":"Costa Rica","Period":2019,"Sex":"Both sexes","Age":"25.03"},{"index":1056,"Continent":"Europe","Location":"Italy","Period":2019,"Sex":"Both sexes","Age":"25.04"},{"index":1057,"Continent":"Americas","Location":"Peru","Period":2019,"Sex":"Female","Age":"25.05"},{"index":1058,"Continent":"Europe","Location":"Netherlands","Period":2019,"Sex":"Female","Age":"25.13"},{"index":1059,"Continent":"Americas","Location":"Canada","Period":2019,"Sex":"Both sexes","Age":"25.15"},{"index":1060,"Continent":"Europe","Location":"United Kingdom of Great Britain and Northern Ireland","Period":2019,"Sex":"Female","Age":"25.23"},{"index":1061,"Continent":"Americas","Location":"Colombia","Period":2019,"Sex":"Female","Age":"25.27"},{"index":1062,"Continent":"Europe","Location":"Ireland","Period":2019,"Sex":"Female","Age":"25.33"},{"index":1063,"Continent":"Europe","Location":"France","Period":2019,"Sex":"Both sexes","Age":"25.34"},{"index":1064,"Continent":"Europe","Location":"Spain","Period":2019,"Sex":"Both sexes","Age":"25.39"},{"index":1065,"Continent":"Europe","Location":"Switzerland","Period":2019,"Sex":"Both sexes","Age":"25.43"},{"index":1066,"Continent":"Europe","Location":"Greece","Period":2019,"Sex":"Female","Age":"25.52"},{"index":1067,"Continent":"Europe","Location":"Iceland","Period":2019,"Sex":"Female","Age":"25.54"},{"index":1068,"Continent":"Western Pacific","Location":"Singapore","Period":2019,"Sex":"Both sexes","Age":"25.54"},{"index":1069,"Continent":"Europe","Location":"Belgium","Period":2019,"Sex":"Female","Age":"25.58"},{"index":1070,"Continent":"Europe","Location":"Sweden","Period":2019,"Sex":"Female","Age":"25.59"},{"index":1071,"Continent":"Europe","Location":"Austria","Period":2019,"Sex":"Female","Age":"25.6"},{"index":1072,"Continent":"Western Pacific","Location":"Australia","Period":2019,"Sex":"Both sexes","Age":"25.62"},{"index":1073,"Continent":"Europe","Location":"Slovenia","Period":2019,"Sex":"Female","Age":"25.64"},{"index":1074,"Continent":"Europe","Location":"Norway","Period":2019,"Sex":"Female","Age":"25.76"},{"index":1075,"Continent":"Western Pacific","Location":"Republic of Korea","Period":2019,"Sex":"Both sexes","Age":"25.8"},{"index":1076,"Continent":"Europe","Location":"Finland","Period":2019,"Sex":"Female","Age":"25.81"},{"index":1077,"Continent":"Europe","Location":"Luxembourg","Period":2019,"Sex":"Female","Age":"25.81"},{"index":1078,"Continent":"Western Pacific","Location":"New Zealand","Period":2019,"Sex":"Female","Age":"25.84"},{"index":1079,"Continent":"Europe","Location":"Malta","Period":2019,"Sex":"Female","Age":"25.86"},{"index":1080,"Continent":"Americas","Location":"Chile","Period":2019,"Sex":"Female","Age":"25.88"},{"index":1081,"Continent":"Eastern Mediterranean","Location":"Kuwait","Period":2019,"Sex":"Female","Age":"25.9"},{"index":1082,"Continent":"Americas","Location":"Panama","Period":2019,"Sex":"Female","Age":"25.95"},{"index":1083,"Continent":"Europe","Location":"Israel","Period":2019,"Sex":"Female","Age":"26.03"},{"index":1084,"Continent":"Europe","Location":"Portugal","Period":2019,"Sex":"Female","Age":"26.29"},{"index":1085,"Continent":"Western Pacific","Location":"Japan","Period":2019,"Sex":"Both sexes","Age":"26.35"},{"index":1086,"Continent":"Americas","Location":"Canada","Period":2019,"Sex":"Female","Age":"26.38"},{"index":1087,"Continent":"Americas","Location":"Costa Rica","Period":2019,"Sex":"Female","Age":"26.4"},{"index":1088,"Continent":"Europe","Location":"Cyprus","Period":2019,"Sex":"Female","Age":"26.43"},{"index":1089,"Continent":"Europe","Location":"Italy","Period":2019,"Sex":"Female","Age":"26.53"},{"index":1090,"Continent":"Europe","Location":"Switzerland","Period":2019,"Sex":"Female","Age":"26.65"},{"index":1091,"Continent":"Western Pacific","Location":"Australia","Period":2019,"Sex":"Female","Age":"26.83"},{"index":1092,"Continent":"Europe","Location":"Germany","Period":2019,"Sex":"Female","Age":"26.87"},{"index":1093,"Continent":"Europe","Location":"France","Period":2019,"Sex":"Female","Age":"27.21"},{"index":1094,"Continent":"Western Pacific","Location":"Singapore","Period":2019,"Sex":"Female","Age":"27.22"},{"index":1095,"Continent":"Europe","Location":"Spain","Period":2019,"Sex":"Female","Age":"27.34"},{"index":1096,"Continent":"Western Pacific","Location":"Republic of Korea","Period":2019,"Sex":"Female","Age":"27.87"},{"index":1097,"Continent":"Western Pacific","Location":"Japan","Period":2019,"Sex":"Female","Age":"28.56"}]
+index,Continent,Location,Period,Sex,Age
+0,Africa,Lesotho,2019,Male,47.66
+1,Africa,Central African Republic,2019,Male,50.21
+2,Africa,Lesotho,2019,Both sexes,50.75
+3,Africa,Central African Republic,2019,Both sexes,53.1
+4,Africa,Eswatini,2019,Male,53.36
+5,Eastern Mediterranean,Somalia,2019,Male,54.01
+6,Africa,Lesotho,2019,Female,54.24
+7,Africa,Mozambique,2019,Male,54.46
+8,Western Pacific,Kiribati,2019,Male,56.14
+9,Africa,Central African Republic,2019,Female,56.26
+10,Eastern Mediterranean,Somalia,2019,Both sexes,56.47
+11,Africa,Guinea-Bissau,2019,Male,57.36
+12,Africa,Zimbabwe,2019,Male,57.51
+13,Africa,Eswatini,2019,Both sexes,57.73
+14,Africa,Chad,2019,Male,57.95
+15,Africa,Mozambique,2019,Both sexes,58.14
+16,Africa,Botswana,2019,Male,58.95
+17,Eastern Mediterranean,Somalia,2019,Female,59.22
+18,Western Pacific,Kiribati,2019,Both sexes,59.42
+19,Africa,Guinea,2019,Male,59.48
+20,Africa,Zambia,2019,Male,59.54
+21,Africa,Sierra Leone,2019,Male,59.6
+22,Africa,Chad,2019,Both sexes,59.63
+23,Africa,Democratic Republic of the Congo,2019,Male,60.0
+24,Africa,Burkina Faso,2019,Male,60.06
+25,Africa,Guinea-Bissau,2019,Both sexes,60.22
+26,Africa,Cameroon,2019,Male,60.29
+27,Western Pacific,Micronesia (Federated States of),2019,Male,60.35
+28,Africa,Côte d’Ivoire,2019,Male,60.53
+29,Africa,Namibia,2019,Male,60.58
+30,Africa,Zimbabwe,2019,Both sexes,60.68
+31,Africa,Angola,2019,Male,60.7
+32,Africa,Sierra Leone,2019,Both sexes,60.77
+33,Africa,South Sudan,2019,Male,60.83
+34,Africa,Equatorial Guinea,2019,Male,60.87
+35,Africa,Guinea,2019,Both sexes,61.01
+36,Africa,Benin,2019,Male,61.19
+37,Africa,Nigeria,2019,Male,61.2
+38,Africa,Eritrea,2019,Male,61.3
+39,Africa,Chad,2019,Female,61.34
+40,Africa,Togo,2019,Male,61.52
+41,Africa,Burundi,2019,Male,61.55
+42,Africa,Mozambique,2019,Female,61.73
+43,Africa,Sierra Leone,2019,Female,61.9
+44,Africa,Niger,2019,Male,62.06
+45,Africa,Equatorial Guinea,2019,Both sexes,62.19
+46,Africa,Mali,2019,Male,62.2
+47,Africa,South Africa,2019,Male,62.2
+48,Africa,Botswana,2019,Both sexes,62.25
+49,Africa,Guinea,2019,Female,62.25
+50,Africa,Malawi,2019,Male,62.31
+51,Africa,Democratic Republic of the Congo,2019,Both sexes,62.35
+52,Africa,Cameroon,2019,Both sexes,62.36
+53,Americas,Guyana,2019,Male,62.45
+54,Africa,Zambia,2019,Both sexes,62.45
+55,Africa,Nigeria,2019,Both sexes,62.62
+56,Western Pacific,Vanuatu,2019,Male,62.66
+57,Africa,Burkina Faso,2019,Both sexes,62.7
+58,Africa,South Sudan,2019,Both sexes,62.79
+59,Western Pacific,Kiribati,2019,Female,62.8
+60,Africa,Mali,2019,Both sexes,62.8
+61,Western Pacific,Solomon Islands,2019,Male,62.87
+62,Africa,Côte d’Ivoire,2019,Both sexes,62.92
+63,Africa,Guinea-Bissau,2019,Female,62.98
+64,Western Pacific,Micronesia (Federated States of),2019,Both sexes,63.03
+65,Africa,Angola,2019,Both sexes,63.06
+66,Africa,Liberia,2019,Male,63.15
+67,Eastern Mediterranean,Afghanistan,2019,Female,63.16
+68,Africa,Eswatini,2019,Female,63.18
+69,Eastern Mediterranean,Afghanistan,2019,Both sexes,63.21
+70,Africa,Uganda,2019,Male,63.24
+71,Eastern Mediterranean,Afghanistan,2019,Male,63.29
+72,Africa,Niger,2019,Both sexes,63.29
+73,Americas,Haiti,2019,Male,63.34
+74,Africa,Mali,2019,Female,63.4
+75,Western Pacific,Papua New Guinea,2019,Male,63.4
+76,Africa,Gambia,2019,Male,63.42
+77,Africa,Benin,2019,Both sexes,63.43
+78,Africa,Equatorial Guinea,2019,Female,63.58
+79,Africa,Gabon,2019,Male,63.59
+80,Africa,Zimbabwe,2019,Female,63.61
+81,Africa,Ghana,2019,Male,63.66
+82,Africa,Kenya,2019,Male,63.7
+83,Africa,Congo,2019,Male,63.81
+84,Western Pacific,Mongolia,2019,Male,63.82
+85,Africa,Burundi,2019,Both sexes,63.84
+86,Americas,Haiti,2019,Both sexes,64.05
+87,Africa,Eritrea,2019,Both sexes,64.08
+88,Africa,Liberia,2019,Both sexes,64.08
+89,Eastern Mediterranean,Djibouti,2019,Male,64.1
+90,Africa,Madagascar,2019,Male,64.1
+91,Africa,Nigeria,2019,Female,64.1
+92,Africa,Togo,2019,Both sexes,64.27
+93,Eastern Mediterranean,Yemen,2019,Male,64.41
+94,Africa,Cameroon,2019,Female,64.5
+95,Africa,Niger,2019,Female,64.56
+96,Africa,Namibia,2019,Both sexes,64.58
+97,Eastern Mediterranean,Pakistan,2019,Male,64.59
+98,Africa,Congo,2019,Both sexes,64.74
+99,Americas,Haiti,2019,Female,64.76
+100,Africa,Democratic Republic of the Congo,2019,Female,64.82
+101,Africa,South Sudan,2019,Female,64.84
+102,Africa,Liberia,2019,Female,65.0
+103,Africa,Burkina Faso,2019,Female,65.23
+104,Western Pacific,Solomon Islands,2019,Both sexes,65.25
+105,Africa,South Africa,2019,Both sexes,65.25
+106,Western Pacific,Papua New Guinea,2019,Both sexes,65.3
+107,Western Pacific,Vanuatu,2019,Both sexes,65.31
+108,Africa,Madagascar,2019,Both sexes,65.35
+109,Africa,United Republic of Tanzania,2019,Male,65.37
+110,Africa,Zambia,2019,Female,65.37
+111,Africa,Botswana,2019,Female,65.46
+112,Africa,Gambia,2019,Both sexes,65.47
+113,Africa,Angola,2019,Female,65.52
+114,Africa,Congo,2019,Female,65.61
+115,Eastern Mediterranean,Pakistan,2019,Both sexes,65.61
+116,Africa,Malawi,2019,Both sexes,65.62
+117,Africa,Benin,2019,Female,65.66
+118,Americas,Guyana,2019,Both sexes,65.69
+119,Africa,Côte d’Ivoire,2019,Female,65.81
+120,Eastern Mediterranean,Djibouti,2019,Both sexes,65.81
+121,South-East Asia,Myanmar,2019,Male,65.91
+122,Africa,Comoros,2019,Male,65.92
+123,Western Pacific,Fiji,2019,Male,65.93
+124,Western Pacific,Micronesia (Federated States of),2019,Female,66.05
+125,Africa,Kenya,2019,Both sexes,66.09
+126,Africa,Burundi,2019,Female,66.14
+127,Western Pacific,Lao People's Democratic Republic,2019,Male,66.19
+128,Africa,Ghana,2019,Both sexes,66.28
+129,Africa,Gabon,2019,Both sexes,66.47
+130,Europe,Turkmenistan,2019,Male,66.48
+131,Africa,Madagascar,2019,Female,66.6
+132,Eastern Mediterranean,Yemen,2019,Both sexes,66.63
+133,Africa,Uganda,2019,Both sexes,66.69
+134,Eastern Mediterranean,Pakistan,2019,Female,66.72
+135,Africa,Senegal,2019,Male,66.82
+136,Africa,Rwanda,2019,Male,66.88
+137,Africa,Ethiopia,2019,Male,66.9
+138,Africa,Eritrea,2019,Female,67.07
+139,Western Pacific,Cambodia,2019,Male,67.23
+140,Africa,Togo,2019,Female,67.23
+141,Africa,United Republic of Tanzania,2019,Both sexes,67.34
+142,Western Pacific,Papua New Guinea,2019,Female,67.36
+143,Africa,Comoros,2019,Both sexes,67.39
+144,Western Pacific,Philippines,2019,Male,67.4
+145,Eastern Mediterranean,Sudan,2019,Male,67.55
+146,Europe,Tajikistan,2019,Male,67.58
+147,Africa,Gambia,2019,Female,67.65
+148,Eastern Mediterranean,Djibouti,2019,Female,67.78
+149,Western Pacific,Solomon Islands,2019,Female,67.87
+150,South-East Asia,Timor-Leste,2019,Male,67.93
+151,Europe,Ukraine,2019,Male,68.0
+152,Western Pacific,Fiji,2019,Both sexes,68.01
+153,Africa,Mauritania,2019,Male,68.08
+154,Western Pacific,Mongolia,2019,Both sexes,68.1
+155,Europe,Russian Federation,2019,Male,68.18
+156,Africa,South Africa,2019,Female,68.29
+157,Western Pacific,Vanuatu,2019,Female,68.32
+158,Africa,Mauritania,2019,Both sexes,68.38
+159,Africa,Kenya,2019,Female,68.44
+160,Africa,Namibia,2019,Female,68.45
+161,Americas,Suriname,2019,Male,68.5
+162,Western Pacific,Lao People's Democratic Republic,2019,Both sexes,68.51
+163,Africa,Senegal,2019,Both sexes,68.58
+164,Africa,Ethiopia,2019,Both sexes,68.7
+165,Africa,Mauritania,2019,Female,68.73
+166,Europe,Azerbaijan,2019,Male,68.78
+167,Europe,Georgia,2019,Male,68.79
+168,Africa,Sao Tome and Principe,2019,Male,68.79
+169,Africa,Comoros,2019,Female,68.88
+170,South-East Asia,Nepal,2019,Male,68.88
+171,Eastern Mediterranean,Yemen,2019,Female,68.92
+172,Africa,Malawi,2019,Female,68.93
+173,Americas,Guatemala,2019,Male,68.95
+174,Africa,Rwanda,2019,Both sexes,69.1
+175,South-East Asia,Myanmar,2019,Both sexes,69.13
+176,Eastern Mediterranean,Sudan,2019,Both sexes,69.15
+177,Africa,Ghana,2019,Female,69.16
+178,Western Pacific,Samoa,2019,Male,69.16
+179,Europe,Republic of Moldova,2019,Male,69.26
+180,Africa,United Republic of Tanzania,2019,Female,69.26
+181,South-East Asia,Democratic People's Republic of Korea,2019,Male,69.29
+182,Americas,Guyana,2019,Female,69.39
+183,South-East Asia,Indonesia,2019,Male,69.4
+184,Europe,Tajikistan,2019,Both sexes,69.5
+185,South-East Asia,India,2019,Male,69.52
+186,Western Pacific,Viet Nam,2019,Male,69.56
+187,Eastern Mediterranean,Egypt,2019,Male,69.59
+188,South-East Asia,Timor-Leste,2019,Both sexes,69.62
+189,Europe,Belarus,2019,Male,69.65
+190,Africa,Gabon,2019,Female,69.73
+191,Europe,Turkmenistan,2019,Both sexes,69.75
+192,Americas,Dominican Republic,2019,Male,69.76
+193,Western Pacific,Tonga,2019,Male,69.81
+194,Americas,Bahamas,2019,Male,69.85
+195,Africa,Cabo Verde,2019,Male,69.9
+196,Americas,Venezuela (Bolivarian Republic of),2019,Male,69.91
+197,Eastern Mediterranean,Iraq,2019,Male,69.93
+198,Europe,Kazakhstan,2019,Male,69.98
+199,Africa,Seychelles,2019,Male,69.98
+200,Africa,Uganda,2019,Female,70.1
+201,Western Pacific,Cambodia,2019,Both sexes,70.12
+202,Africa,Senegal,2019,Female,70.14
+203,Western Pacific,Fiji,2019,Female,70.28
+204,Africa,Sao Tome and Principe,2019,Both sexes,70.42
+205,Western Pacific,Philippines,2019,Both sexes,70.43
+206,Western Pacific,Samoa,2019,Both sexes,70.45
+207,Africa,Ethiopia,2019,Female,70.52
+208,Americas,El Salvador,2019,Male,70.58
+209,Europe,Latvia,2019,Male,70.58
+210,Americas,Grenada,2019,Male,70.63
+211,Americas,Honduras,2019,Male,70.67
+212,Europe,Kyrgyzstan,2019,Male,70.75
+213,Eastern Mediterranean,Sudan,2019,Female,70.76
+214,Europe,Uzbekistan,2019,Male,70.76
+215,South-East Asia,India,2019,Both sexes,70.79
+216,South-East Asia,Nepal,2019,Both sexes,70.88
+217,Western Pacific,Lao People's Democratic Republic,2019,Female,70.95
+218,Africa,Mauritius,2019,Male,70.95
+219,Americas,Bolivia (Plurinational State of),2019,Male,71.15
+220,Eastern Mediterranean,Syrian Arab Republic,2019,Male,71.18
+221,Europe,Lithuania,2019,Male,71.23
+222,Africa,Rwanda,2019,Female,71.24
+223,Americas,Saint Lucia,2019,Male,71.3
+224,South-East Asia,Indonesia,2019,Both sexes,71.31
+225,Americas,Saint Vincent and the Grenadines,2019,Male,71.32
+226,Americas,Belize,2019,Male,71.36
+227,South-East Asia,Timor-Leste,2019,Female,71.41
+228,Europe,Azerbaijan,2019,Both sexes,71.43
+229,Americas,Suriname,2019,Both sexes,71.48
+230,Europe,Tajikistan,2019,Female,71.55
+231,Europe,Bulgaria,2019,Male,71.65
+232,Eastern Mediterranean,Morocco,2019,Male,71.68
+233,Eastern Mediterranean,Egypt,2019,Both sexes,71.82
+234,Western Pacific,Samoa,2019,Female,71.85
+235,Americas,Honduras,2019,Both sexes,71.94
+236,Europe,Romania,2019,Male,71.95
+237,Africa,Sao Tome and Principe,2019,Female,71.99
+238,Americas,Guatemala,2019,Both sexes,72.02
+239,South-East Asia,Bhutan,2019,Male,72.03
+240,Americas,Nicaragua,2019,Male,72.07
+241,Americas,Bolivia (Plurinational State of),2019,Both sexes,72.14
+242,South-East Asia,India,2019,Female,72.17
+243,South-East Asia,Myanmar,2019,Female,72.2
+244,Eastern Mediterranean,Iraq,2019,Both sexes,72.42
+245,Americas,Brazil,2019,Male,72.45
+246,Europe,Armenia,2019,Male,72.49
+247,Americas,Trinidad and Tobago,2019,Male,72.54
+248,Western Pacific,Tonga,2019,Both sexes,72.57
+249,Western Pacific,Malaysia,2019,Male,72.61
+250,South-East Asia,Democratic People's Republic of Korea,2019,Both sexes,72.63
+251,Eastern Mediterranean,Syrian Arab Republic,2019,Both sexes,72.67
+252,Western Pacific,Cambodia,2019,Female,72.75
+253,South-East Asia,Nepal,2019,Female,72.75
+254,Western Pacific,Mongolia,2019,Female,72.76
+255,Americas,Dominican Republic,2019,Both sexes,72.84
+256,Europe,The former Yugoslav Republic of Macedonia,2019,Male,72.84
+257,Americas,Grenada,2019,Both sexes,72.88
+258,Eastern Mediterranean,Oman,2019,Male,72.97
+259,Europe,Turkmenistan,2019,Female,72.97
+260,South-East Asia,Bangladesh,2019,Male,72.99
+261,Eastern Mediterranean,Morocco,2019,Both sexes,72.99
+262,Europe,Uzbekistan,2019,Both sexes,73.01
+263,Europe,Ukraine,2019,Both sexes,73.02
+264,Americas,Paraguay,2019,Male,73.08
+265,Europe,Hungary,2019,Male,73.09
+266,South-East Asia,Bhutan,2019,Both sexes,73.11
+267,Eastern Mediterranean,Saudi Arabia,2019,Male,73.11
+268,Americas,Bolivia (Plurinational State of),2019,Female,73.13
+269,Americas,Mexico,2019,Male,73.13
+270,Europe,Montenegro,2019,Male,73.15
+271,Americas,Honduras,2019,Female,73.16
+272,Americas,Bahamas,2019,Both sexes,73.21
+273,Americas,Saint Vincent and the Grenadines,2019,Both sexes,73.22
+274,Europe,Russian Federation,2019,Both sexes,73.23
+275,Europe,Republic of Moldova,2019,Both sexes,73.26
+276,Europe,Georgia,2019,Both sexes,73.28
+277,South-East Asia,Indonesia,2019,Female,73.3
+278,Africa,Seychelles,2019,Both sexes,73.34
+279,Western Pacific,Brunei Darussalam,2019,Male,73.39
+280,Europe,Serbia,2019,Male,73.46
+281,Americas,Uruguay,2019,Male,73.48
+282,Americas,Argentina,2019,Male,73.51
+283,Western Pacific,Philippines,2019,Female,73.6
+284,Western Pacific,Viet Nam,2019,Both sexes,73.74
+285,South-East Asia,Sri Lanka,2019,Male,73.8
+286,Eastern Mediterranean,Oman,2019,Both sexes,73.9
+287,Europe,Kazakhstan,2019,Both sexes,73.95
+288,Americas,Venezuela (Bolivarian Republic of),2019,Both sexes,73.95
+289,Africa,Cabo Verde,2019,Both sexes,74.03
+290,Eastern Mediterranean,Lebanon,2019,Male,74.03
+291,Africa,Mauritius,2019,Both sexes,74.07
+292,Europe,Azerbaijan,2019,Female,74.09
+293,Eastern Mediterranean,Egypt,2019,Female,74.14
+294,Europe,Kyrgyzstan,2019,Both sexes,74.18
+295,Eastern Mediterranean,Libya,2019,Male,74.21
+296,South-East Asia,Bangladesh,2019,Both sexes,74.25
+297,Eastern Mediterranean,Syrian Arab Republic,2019,Female,74.26
+298,Eastern Mediterranean,Morocco,2019,Female,74.31
+299,Eastern Mediterranean,Saudi Arabia,2019,Both sexes,74.31
+300,Americas,Barbados,2019,Male,74.32
+301,Western Pacific,Brunei Darussalam,2019,Both sexes,74.32
+302,Americas,Saint Lucia,2019,Both sexes,74.33
+303,Americas,Jamaica,2019,Male,74.36
+304,South-East Asia,Thailand,2019,Male,74.36
+305,Europe,Bosnia and Herzegovina,2019,Male,74.38
+306,South-East Asia,Bhutan,2019,Female,74.39
+307,Americas,Belize,2019,Both sexes,74.41
+308,Europe,Poland,2019,Male,74.53
+309,Americas,Suriname,2019,Female,74.63
+310,Europe,Estonia,2019,Male,74.7
+311,Western Pacific,Malaysia,2019,Both sexes,74.72
+312,Western Pacific,China,2019,Male,74.73
+313,Europe,Belarus,2019,Both sexes,74.81
+314,Europe,The former Yugoslav Republic of Macedonia,2019,Both sexes,74.82
+315,Europe,Slovakia,2019,Male,74.84
+316,Americas,Antigua and Barbuda,2019,Male,74.88
+317,Eastern Mediterranean,Tunisia,2019,Male,74.88
+318,Eastern Mediterranean,Iraq,2019,Female,74.97
+319,Americas,El Salvador,2019,Both sexes,75.03
+320,Eastern Mediterranean,Bahrain,2019,Male,75.04
+321,Americas,Guatemala,2019,Female,75.04
+322,Americas,Nicaragua,2019,Both sexes,75.04
+323,Europe,Bulgaria,2019,Both sexes,75.07
+324,Eastern Mediterranean,United Arab Emirates,2019,Male,75.1
+325,Europe,Uzbekistan,2019,Female,75.21
+326,Eastern Mediterranean,Oman,2019,Female,75.26
+327,Americas,Saint Vincent and the Grenadines,2019,Female,75.32
+328,Americas,Grenada,2019,Female,75.33
+329,Western Pacific,Brunei Darussalam,2019,Female,75.36
+330,Americas,Cuba,2019,Male,75.37
+331,Europe,Latvia,2019,Both sexes,75.38
+332,Europe,Croatia,2019,Male,75.54
+333,Europe,Romania,2019,Both sexes,75.57
+334,Western Pacific,Tonga,2019,Female,75.61
+335,South-East Asia,Bangladesh,2019,Female,75.64
+336,South-East Asia,Democratic People's Republic of Korea,2019,Female,75.69
+337,Eastern Mediterranean,Iran (Islamic Republic of),2019,Male,75.69
+338,Eastern Mediterranean,Libya,2019,Both sexes,75.78
+339,Eastern Mediterranean,Bahrain,2019,Both sexes,75.81
+340,Americas,Paraguay,2019,Both sexes,75.81
+341,Europe,Serbia,2019,Both sexes,75.87
+342,Europe,Montenegro,2019,Both sexes,75.88
+343,Americas,Brazil,2019,Both sexes,75.9
+344,Americas,Jamaica,2019,Both sexes,75.98
+345,Europe,Lithuania,2019,Both sexes,75.99
+346,Americas,Mexico,2019,Both sexes,76.01
+347,Europe,Armenia,2019,Both sexes,76.03
+348,Americas,Barbados,2019,Both sexes,76.03
+349,Eastern Mediterranean,United Arab Emirates,2019,Both sexes,76.08
+350,Americas,Trinidad and Tobago,2019,Both sexes,76.13
+351,Eastern Mediterranean,Saudi Arabia,2019,Female,76.15
+352,Americas,Dominican Republic,2019,Female,76.19
+353,Africa,Algeria,2019,Male,76.23
+354,Europe,Albania,2019,Male,76.25
+355,Americas,United States of America,2019,Male,76.28
+356,Europe,Czechia,2019,Male,76.3
+357,Americas,Ecuador,2019,Male,76.41
+358,Europe,Hungary,2019,Both sexes,76.44
+359,Eastern Mediterranean,Lebanon,2019,Both sexes,76.44
+360,Europe,Türkiye,2019,Male,76.44
+361,Americas,Antigua and Barbuda,2019,Both sexes,76.45
+362,Americas,Argentina,2019,Both sexes,76.58
+363,Americas,Bahamas,2019,Female,76.59
+364,Eastern Mediterranean,Qatar,2019,Female,76.63
+365,Americas,Panama,2019,Male,76.65
+366,Americas,Colombia,2019,Male,76.69
+367,Europe,Bosnia and Herzegovina,2019,Both sexes,76.75
+368,Europe,The former Yugoslav Republic of Macedonia,2019,Female,76.87
+369,South-East Asia,Sri Lanka,2019,Both sexes,76.87
+370,Eastern Mediterranean,Bahrain,2019,Female,77.02
+371,Eastern Mediterranean,Jordan,2019,Male,77.02
+372,Eastern Mediterranean,Tunisia,2019,Both sexes,77.04
+373,Western Pacific,Malaysia,2019,Female,77.08
+374,Americas,Uruguay,2019,Both sexes,77.1
+375,Europe,Republic of Moldova,2019,Female,77.12
+376,Africa,Algeria,2019,Both sexes,77.13
+377,Africa,Seychelles,2019,Female,77.15
+378,Eastern Mediterranean,Qatar,2019,Both sexes,77.17
+379,Europe,Kyrgyzstan,2019,Female,77.31
+380,Africa,Mauritius,2019,Female,77.32
+381,Eastern Mediterranean,Libya,2019,Female,77.34
+382,Eastern Mediterranean,Iran (Islamic Republic of),2019,Both sexes,77.35
+383,Western Pacific,China,2019,Both sexes,77.43
+384,Europe,Kazakhstan,2019,Female,77.61
+385,Americas,Barbados,2019,Female,77.66
+386,Americas,Jamaica,2019,Female,77.68
+387,South-East Asia,Thailand,2019,Both sexes,77.7
+388,Americas,Saint Lucia,2019,Female,77.71
+389,Americas,Cuba,2019,Both sexes,77.76
+390,Europe,Georgia,2019,Female,77.76
+391,Americas,Belize,2019,Female,77.77
+392,Europe,Ukraine,2019,Female,77.81
+393,Eastern Mediterranean,Jordan,2019,Both sexes,77.87
+394,Americas,Nicaragua,2019,Female,77.93
+395,Africa,Cabo Verde,2019,Female,77.94
+396,Americas,Antigua and Barbuda,2019,Female,77.96
+397,Europe,Albania,2019,Both sexes,78.0
+398,Europe,Russian Federation,2019,Female,78.0
+399,Eastern Mediterranean,Qatar,2019,Male,78.03
+400,Americas,Chile,2019,Male,78.09
+401,Western Pacific,Viet Nam,2019,Female,78.11
+402,Africa,Algeria,2019,Female,78.12
+403,Americas,Venezuela (Bolivarian Republic of),2019,Female,78.17
+404,Europe,Slovakia,2019,Both sexes,78.23
+405,Europe,Poland,2019,Both sexes,78.27
+406,Europe,Serbia,2019,Female,78.28
+407,Americas,Costa Rica,2019,Male,78.31
+408,Eastern Mediterranean,United Arab Emirates,2019,Female,78.42
+409,Americas,Ecuador,2019,Both sexes,78.45
+410,Americas,Peru,2019,Male,78.46
+411,Americas,United States of America,2019,Both sexes,78.5
+412,Europe,Portugal,2019,Male,78.56
+413,Europe,Slovenia,2019,Male,78.59
+414,Europe,Bulgaria,2019,Female,78.6
+415,Europe,Türkiye,2019,Both sexes,78.62
+416,South-East Asia,Maldives,2019,Male,78.63
+417,Europe,Croatia,2019,Both sexes,78.64
+418,Europe,Greece,2019,Male,78.64
+419,Europe,Montenegro,2019,Female,78.65
+420,Europe,Germany,2019,Male,78.72
+421,Eastern Mediterranean,Jordan,2019,Female,78.78
+422,Americas,Paraguay,2019,Female,78.85
+423,Americas,Mexico,2019,Female,78.86
+424,Europe,Estonia,2019,Both sexes,78.88
+425,Europe,Bosnia and Herzegovina,2019,Female,79.09
+426,Eastern Mediterranean,Iran (Islamic Republic of),2019,Female,79.09
+427,Europe,Czechia,2019,Both sexes,79.13
+428,Americas,El Salvador,2019,Female,79.13
+429,Eastern Mediterranean,Lebanon,2019,Female,79.15
+430,Europe,Armenia,2019,Female,79.16
+431,Europe,Finland,2019,Male,79.16
+432,Eastern Mediterranean,Tunisia,2019,Female,79.19
+433,Eastern Mediterranean,Kuwait,2019,Male,79.25
+434,Europe,Romania,2019,Female,79.26
+435,Europe,Belgium,2019,Male,79.29
+436,Americas,Panama,2019,Both sexes,79.29
+437,Americas,Colombia,2019,Both sexes,79.31
+438,Americas,Brazil,2019,Female,79.39
+439,Europe,Austria,2019,Male,79.44
+440,Americas,Argentina,2019,Female,79.5
+441,Europe,Denmark,2019,Male,79.59
+442,Europe,Hungary,2019,Female,79.59
+443,South-East Asia,Maldives,2019,Both sexes,79.59
+444,Europe,Belarus,2019,Female,79.62
+445,Europe,France,2019,Male,79.76
+446,Europe,United Kingdom of Great Britain and Northern Ireland,2019,Male,79.79
+447,South-East Asia,Sri Lanka,2019,Female,79.81
+448,Europe,Latvia,2019,Female,79.84
+449,Americas,Peru,2019,Both sexes,79.9
+450,Europe,Albania,2019,Female,79.91
+451,Americas,Trinidad and Tobago,2019,Female,79.92
+452,Europe,Malta,2019,Male,79.94
+453,Europe,Ireland,2019,Male,80.2
+454,Americas,Cuba,2019,Female,80.25
+455,Western Pacific,Republic of Korea,2019,Male,80.32
+456,Western Pacific,New Zealand,2019,Male,80.36
+457,Americas,Canada,2019,Male,80.4
+458,Europe,Netherlands,2019,Male,80.4
+459,Europe,Lithuania,2019,Female,80.43
+460,Western Pacific,China,2019,Female,80.49
+461,Americas,Ecuador,2019,Female,80.5
+462,Americas,Uruguay,2019,Female,80.56
+463,Europe,Luxembourg,2019,Male,80.62
+464,Europe,Türkiye,2019,Female,80.67
+465,Europe,Spain,2019,Male,80.68
+466,Americas,United States of America,2019,Female,80.73
+467,Americas,Chile,2019,Both sexes,80.74
+468,South-East Asia,Maldives,2019,Female,80.76
+469,Europe,Israel,2019,Male,80.79
+470,Europe,Iceland,2019,Male,80.81
+471,Europe,Sweden,2019,Male,80.83
+472,Americas,Costa Rica,2019,Both sexes,80.85
+473,Europe,Italy,2019,Male,80.91
+474,Eastern Mediterranean,Kuwait,2019,Both sexes,80.97
+475,South-East Asia,Thailand,2019,Female,81.04
+476,Western Pacific,Singapore,2019,Male,81.05
+477,Europe,Norway,2019,Male,81.08
+478,Europe,Greece,2019,Both sexes,81.1
+479,Europe,Cyprus,2019,Male,81.12
+480,Western Pacific,Australia,2019,Male,81.25
+481,Europe,Slovenia,2019,Both sexes,81.31
+482,Europe,Denmark,2019,Both sexes,81.32
+483,Americas,Peru,2019,Female,81.34
+484,Europe,United Kingdom of Great Britain and Northern Ireland,2019,Both sexes,81.4
+485,Europe,Belgium,2019,Both sexes,81.42
+486,Europe,Slovakia,2019,Female,81.44
+487,Western Pacific,Japan,2019,Male,81.49
+488,Europe,Portugal,2019,Both sexes,81.57
+489,Europe,Croatia,2019,Female,81.6
+490,Europe,Finland,2019,Both sexes,81.61
+491,Europe,Austria,2019,Both sexes,81.65
+492,Europe,Germany,2019,Both sexes,81.72
+493,Europe,Switzerland,2019,Male,81.75
+494,Europe,Netherlands,2019,Both sexes,81.79
+495,Europe,Ireland,2019,Both sexes,81.84
+496,Americas,Colombia,2019,Female,81.87
+497,Europe,Malta,2019,Both sexes,81.89
+498,Europe,Czechia,2019,Female,81.93
+499,Europe,Poland,2019,Female,81.93
+500,Western Pacific,New Zealand,2019,Both sexes,81.96
+501,Americas,Panama,2019,Female,82.06
+502,Americas,Canada,2019,Both sexes,82.24
+503,Europe,Iceland,2019,Both sexes,82.33
+504,Europe,Sweden,2019,Both sexes,82.4
+505,Europe,Luxembourg,2019,Both sexes,82.41
+506,Europe,France,2019,Both sexes,82.48
+507,Europe,Estonia,2019,Female,82.6
+508,Europe,Israel,2019,Both sexes,82.62
+509,Europe,Norway,2019,Both sexes,82.62
+510,Europe,Italy,2019,Both sexes,82.97
+511,Europe,United Kingdom of Great Britain and Northern Ireland,2019,Female,82.99
+512,Europe,Denmark,2019,Female,83.02
+513,Western Pacific,Australia,2019,Both sexes,83.04
+514,Europe,Cyprus,2019,Both sexes,83.14
+515,Europe,Netherlands,2019,Female,83.15
+516,Western Pacific,Singapore,2019,Both sexes,83.22
+517,Europe,Spain,2019,Both sexes,83.22
+518,Americas,Chile,2019,Female,83.25
+519,Western Pacific,Republic of Korea,2019,Both sexes,83.3
+520,Americas,Costa Rica,2019,Female,83.44
+521,Europe,Switzerland,2019,Both sexes,83.45
+522,Europe,Ireland,2019,Female,83.48
+523,Europe,Belgium,2019,Female,83.51
+524,Western Pacific,New Zealand,2019,Female,83.52
+525,Europe,Greece,2019,Female,83.57
+526,Europe,Austria,2019,Female,83.78
+527,Europe,Malta,2019,Female,83.8
+528,Europe,Iceland,2019,Female,83.87
+529,Eastern Mediterranean,Kuwait,2019,Female,83.95
+530,Europe,Sweden,2019,Female,83.97
+531,Europe,Finland,2019,Female,84.04
+532,Americas,Canada,2019,Female,84.05
+533,Europe,Slovenia,2019,Female,84.06
+534,Europe,Norway,2019,Female,84.13
+535,Europe,Luxembourg,2019,Female,84.2
+536,Western Pacific,Japan,2019,Both sexes,84.26
+537,Europe,Israel,2019,Female,84.36
+538,Europe,Portugal,2019,Female,84.4
+539,Europe,Germany,2019,Female,84.77
+540,Western Pacific,Australia,2019,Female,84.84
+541,Europe,Italy,2019,Female,84.9
+542,Europe,Switzerland,2019,Female,85.08
+543,Europe,France,2019,Female,85.09
+544,Europe,Cyprus,2019,Female,85.12
+545,Western Pacific,Singapore,2019,Female,85.45
+546,Europe,Spain,2019,Female,85.68
+547,Western Pacific,Republic of Korea,2019,Female,86.09
+548,Western Pacific,Japan,2019,Female,86.94
+549,Africa,Lesotho,2019,Male,11.22
+550,Africa,Central African Republic,2019,Male,11.31
+551,Africa,Eswatini,2019,Male,12.41
+552,Western Pacific,Kiribati,2019,Male,12.5
+553,Africa,Central African Republic,2019,Both sexes,13.17
+554,Eastern Mediterranean,Somalia,2019,Male,13.22
+555,Africa,Mozambique,2019,Male,13.34
+556,Africa,Lesotho,2019,Both sexes,13.43
+557,Africa,Zimbabwe,2019,Male,13.59
+558,Western Pacific,Kiribati,2019,Both sexes,13.69
+559,Western Pacific,Micronesia (Federated States of),2019,Male,13.82
+560,Africa,Guinea-Bissau,2019,Male,13.92
+561,Africa,Eritrea,2019,Male,14.13
+562,Africa,Botswana,2019,Male,14.16
+563,Western Pacific,Mongolia,2019,Male,14.16
+564,Eastern Mediterranean,Somalia,2019,Both sexes,14.54
+565,Western Pacific,Kiribati,2019,Female,14.64
+566,Africa,Namibia,2019,Male,14.68
+567,Africa,Zambia,2019,Male,14.68
+568,Western Pacific,Micronesia (Federated States of),2019,Both sexes,14.7
+569,Western Pacific,Solomon Islands,2019,Male,14.71
+570,Western Pacific,Vanuatu,2019,Male,14.83
+571,Africa,Central African Republic,2019,Female,14.85
+572,Western Pacific,Fiji,2019,Male,14.88
+573,Eastern Mediterranean,Afghanistan,2019,Female,15.06
+574,Africa,Eswatini,2019,Both sexes,15.1
+575,Americas,Guyana,2019,Male,15.1
+576,Europe,Tajikistan,2019,Male,15.1
+577,Africa,Malawi,2019,Male,15.13
+578,Africa,Gabon,2019,Male,15.15
+579,Eastern Mediterranean,Afghanistan,2019,Both sexes,15.21
+580,Africa,Burundi,2019,Male,15.22
+581,Africa,Burkina Faso,2019,Male,15.23
+582,Africa,Lesotho,2019,Female,15.24
+583,Africa,Democratic Republic of the Congo,2019,Male,15.35
+584,Western Pacific,Papua New Guinea,2019,Male,15.37
+585,Africa,Angola,2019,Male,15.38
+586,Eastern Mediterranean,Afghanistan,2019,Male,15.39
+587,Africa,Togo,2019,Male,15.44
+588,Western Pacific,Solomon Islands,2019,Both sexes,15.47
+589,Africa,Eritrea,2019,Both sexes,15.5
+590,Africa,Guinea-Bissau,2019,Both sexes,15.5
+591,Africa,Zimbabwe,2019,Both sexes,15.55
+592,Western Pacific,Micronesia (Federated States of),2019,Female,15.58
+593,Africa,Guinea,2019,Male,15.62
+594,Europe,Azerbaijan,2019,Male,15.65
+595,Africa,Ghana,2019,Male,15.66
+596,Africa,Uganda,2019,Male,15.67
+597,Africa,Chad,2019,Male,15.68
+598,Western Pacific,Vanuatu,2019,Both sexes,15.68
+599,Africa,Congo,2019,Male,15.71
+600,Africa,Cameroon,2019,Male,15.77
+601,Africa,Gambia,2019,Male,15.77
+602,Africa,Mozambique,2019,Both sexes,15.8
+603,Africa,Côte d’Ivoire,2019,Male,15.84
+604,Western Pacific,Philippines,2019,Male,15.84
+605,Western Pacific,Cambodia,2019,Male,15.93
+606,Africa,Kenya,2019,Male,15.99
+607,Eastern Mediterranean,Somalia,2019,Female,16.01
+608,Europe,Belarus,2019,Male,16.04
+609,Europe,Georgia,2019,Male,16.05
+610,Europe,Tajikistan,2019,Both sexes,16.12
+611,Africa,Benin,2019,Male,16.13
+612,Africa,Madagascar,2019,Male,16.15
+613,South-East Asia,Myanmar,2019,Male,16.17
+614,Western Pacific,Fiji,2019,Both sexes,16.18
+615,Africa,Botswana,2019,Both sexes,16.25
+616,Western Pacific,Solomon Islands,2019,Female,16.28
+617,Western Pacific,Lao People's Democratic Republic,2019,Male,16.35
+618,Americas,Suriname,2019,Male,16.37
+619,Western Pacific,Mongolia,2019,Both sexes,16.41
+620,Africa,Sierra Leone,2019,Male,16.43
+621,Europe,Ukraine,2019,Male,16.43
+622,Africa,Congo,2019,Both sexes,16.45
+623,Africa,Burundi,2019,Both sexes,16.47
+624,Western Pacific,Papua New Guinea,2019,Both sexes,16.48
+625,Eastern Mediterranean,Egypt,2019,Male,16.49
+626,Americas,Haiti,2019,Male,16.5
+627,Africa,Zambia,2019,Both sexes,16.53
+628,Africa,Chad,2019,Both sexes,16.54
+629,Africa,Equatorial Guinea,2019,Male,16.54
+630,Africa,Guinea,2019,Both sexes,16.54
+631,Americas,Guyana,2019,Both sexes,16.55
+632,Africa,Niger,2019,Male,16.59
+633,Africa,South Sudan,2019,Male,16.61
+634,Africa,Democratic Republic of the Congo,2019,Both sexes,16.63
+635,Eastern Mediterranean,Djibouti,2019,Male,16.63
+636,Europe,Republic of Moldova,2019,Male,16.63
+637,Africa,Rwanda,2019,Male,16.65
+638,Western Pacific,Vanuatu,2019,Female,16.67
+639,Africa,Guinea-Bissau,2019,Female,16.72
+640,Africa,Sao Tome and Principe,2019,Male,16.72
+641,South-East Asia,Indonesia,2019,Male,16.73
+642,Africa,Madagascar,2019,Both sexes,16.76
+643,Americas,Haiti,2019,Both sexes,16.77
+644,Eastern Mediterranean,Yemen,2019,Male,16.77
+645,South-East Asia,Democratic People's Republic of Korea,2019,Male,16.8
+646,South-East Asia,Nepal,2019,Male,16.8
+647,Eastern Mediterranean,Pakistan,2019,Male,16.8
+648,Europe,Russian Federation,2019,Male,16.8
+649,Africa,Burkina Faso,2019,Both sexes,16.82
+650,Africa,Cabo Verde,2019,Male,16.82
+651,Africa,Eritrea,2019,Female,16.82
+652,Europe,Kazakhstan,2019,Male,16.84
+653,Africa,Gambia,2019,Both sexes,16.85
+654,Western Pacific,Viet Nam,2019,Male,16.88
+655,South-East Asia,Timor-Leste,2019,Male,16.92
+656,Europe,The former Yugoslav Republic of Macedonia,2019,Male,16.97
+657,Africa,Angola,2019,Both sexes,16.98
+658,Africa,Sierra Leone,2019,Both sexes,16.99
+659,Africa,Zimbabwe,2019,Female,16.99
+660,Americas,Haiti,2019,Female,17.01
+661,Africa,Togo,2019,Both sexes,17.03
+662,Western Pacific,Tonga,2019,Male,17.04
+663,Europe,Azerbaijan,2019,Both sexes,17.06
+664,Africa,United Republic of Tanzania,2019,Male,17.06
+665,Africa,Congo,2019,Female,17.07
+666,Europe,Turkmenistan,2019,Male,17.07
+667,Africa,Côte d’Ivoire,2019,Both sexes,17.08
+668,Africa,Cameroon,2019,Both sexes,17.09
+669,Americas,Grenada,2019,Male,17.16
+670,Africa,Guinea,2019,Female,17.16
+671,Africa,Gabon,2019,Both sexes,17.17
+672,Africa,Senegal,2019,Male,17.18
+673,Africa,Niger,2019,Both sexes,17.19
+674,Europe,Tajikistan,2019,Female,17.19
+675,Eastern Mediterranean,Oman,2019,Male,17.23
+676,Africa,Malawi,2019,Both sexes,17.24
+677,Africa,Namibia,2019,Both sexes,17.24
+678,Africa,Ghana,2019,Both sexes,17.25
+679,Europe,Latvia,2019,Male,17.25
+680,Eastern Mediterranean,Pakistan,2019,Both sexes,17.26
+681,Africa,Madagascar,2019,Female,17.33
+682,Europe,Uzbekistan,2019,Male,17.33
+683,Africa,Chad,2019,Female,17.34
+684,Africa,South Africa,2019,Male,17.34
+685,Africa,Mali,2019,Male,17.35
+686,Western Pacific,Samoa,2019,Male,17.35
+687,Africa,Benin,2019,Both sexes,17.4
+688,Europe,Bulgaria,2019,Male,17.41
+689,Africa,Liberia,2019,Male,17.43
+690,Africa,Comoros,2019,Male,17.44
+691,Africa,Ethiopia,2019,Male,17.44
+692,Europe,Montenegro,2019,Male,17.44
+693,Africa,Sierra Leone,2019,Female,17.44
+694,Africa,Mali,2019,Both sexes,17.46
+695,Africa,Seychelles,2019,Male,17.47
+696,Western Pacific,Fiji,2019,Female,17.49
+697,Americas,Honduras,2019,Male,17.54
+698,Africa,Mali,2019,Female,17.56
+699,Europe,Lithuania,2019,Male,17.58
+700,Africa,Nigeria,2019,Male,17.59
+701,Western Pacific,Papua New Guinea,2019,Female,17.59
+702,Eastern Mediterranean,Iraq,2019,Male,17.62
+703,Africa,Burundi,2019,Female,17.63
+704,Africa,Equatorial Guinea,2019,Both sexes,17.64
+705,Africa,Kenya,2019,Both sexes,17.64
+706,Western Pacific,Lao People's Democratic Republic,2019,Both sexes,17.65
+707,Africa,Uganda,2019,Both sexes,17.7
+708,Africa,Eswatini,2019,Female,17.71
+709,Europe,Hungary,2019,Male,17.72
+710,Africa,Sao Tome and Principe,2019,Both sexes,17.73
+711,Western Pacific,Cambodia,2019,Both sexes,17.74
+712,Eastern Mediterranean,Morocco,2019,Male,17.74
+713,Africa,Liberia,2019,Both sexes,17.75
+714,Eastern Mediterranean,Djibouti,2019,Both sexes,17.76
+715,Eastern Mediterranean,Pakistan,2019,Female,17.76
+716,Western Pacific,Philippines,2019,Both sexes,17.77
+717,Eastern Mediterranean,Yemen,2019,Both sexes,17.77
+718,Europe,Kyrgyzstan,2019,Male,17.78
+719,Africa,Niger,2019,Female,17.79
+720,Africa,South Sudan,2019,Both sexes,17.79
+721,Eastern Mediterranean,Oman,2019,Both sexes,17.8
+722,Europe,Romania,2019,Male,17.81
+723,Eastern Mediterranean,Egypt,2019,Both sexes,17.83
+724,Africa,Mozambique,2019,Female,17.83
+725,Eastern Mediterranean,Sudan,2019,Male,17.83
+726,Western Pacific,Samoa,2019,Both sexes,17.86
+727,Africa,Democratic Republic of the Congo,2019,Female,17.88
+728,South-East Asia,Timor-Leste,2019,Both sexes,17.9
+729,Europe,Serbia,2019,Male,17.93
+730,South-East Asia,Indonesia,2019,Both sexes,17.94
+731,Africa,Botswana,2019,Female,17.97
+732,South-East Asia,Nepal,2019,Both sexes,18.01
+733,Africa,Liberia,2019,Female,18.02
+734,Africa,Rwanda,2019,Both sexes,18.02
+735,Americas,Bolivia (Plurinational State of),2019,Male,18.04
+736,Africa,Gambia,2019,Female,18.04
+737,Americas,Nicaragua,2019,Male,18.04
+738,Africa,Zambia,2019,Female,18.05
+739,Africa,Burkina Faso,2019,Female,18.06
+740,South-East Asia,Myanmar,2019,Both sexes,18.06
+741,Americas,Guyana,2019,Female,18.1
+742,South-East Asia,India,2019,Male,18.11
+743,Africa,Comoros,2019,Both sexes,18.13
+744,Africa,Senegal,2019,Both sexes,18.15
+745,Africa,United Republic of Tanzania,2019,Both sexes,18.16
+746,Eastern Mediterranean,Syrian Arab Republic,2019,Male,18.22
+747,Europe,Armenia,2019,Male,18.24
+748,Africa,Nigeria,2019,Both sexes,18.24
+749,Europe,Azerbaijan,2019,Female,18.32
+750,Western Pacific,Samoa,2019,Female,18.32
+751,Europe,The former Yugoslav Republic of Macedonia,2019,Both sexes,18.33
+752,Africa,Cameroon,2019,Female,18.35
+753,Americas,Honduras,2019,Both sexes,18.35
+754,Eastern Mediterranean,Qatar,2019,Female,18.38
+755,Africa,Ethiopia,2019,Both sexes,18.45
+756,Africa,Mauritius,2019,Male,18.45
+757,Americas,Suriname,2019,Both sexes,18.46
+758,Eastern Mediterranean,Oman,2019,Female,18.48
+759,Western Pacific,Malaysia,2019,Male,18.49
+760,Western Pacific,Mongolia,2019,Female,18.51
+761,Africa,Benin,2019,Female,18.52
+762,Africa,Angola,2019,Female,18.55
+763,Americas,Bolivia (Plurinational State of),2019,Both sexes,18.56
+764,Europe,Bosnia and Herzegovina,2019,Male,18.59
+765,Africa,Sao Tome and Principe,2019,Female,18.63
+766,South-East Asia,Sri Lanka,2019,Male,18.64
+767,Eastern Mediterranean,Sudan,2019,Both sexes,18.64
+768,Europe,Uzbekistan,2019,Both sexes,18.64
+769,Africa,Togo,2019,Female,18.65
+770,Eastern Mediterranean,Morocco,2019,Both sexes,18.67
+771,Africa,Côte d’Ivoire,2019,Female,18.69
+772,Eastern Mediterranean,Yemen,2019,Female,18.71
+773,Eastern Mediterranean,Bahrain,2019,Male,18.72
+774,Eastern Mediterranean,Syrian Arab Republic,2019,Both sexes,18.72
+775,Americas,Grenada,2019,Both sexes,18.73
+776,Europe,Turkmenistan,2019,Both sexes,18.74
+777,Africa,Comoros,2019,Female,18.75
+778,Europe,Georgia,2019,Both sexes,18.76
+779,Eastern Mediterranean,Lebanon,2019,Male,18.76
+780,Africa,Equatorial Guinea,2019,Female,18.81
+781,South-East Asia,India,2019,Both sexes,18.82
+782,Americas,Argentina,2019,Male,18.84
+783,Africa,Nigeria,2019,Female,18.86
+784,Africa,Mauritania,2019,Female,18.87
+785,South-East Asia,Timor-Leste,2019,Female,18.87
+786,South-East Asia,Bhutan,2019,Male,18.89
+787,Africa,Ghana,2019,Female,18.89
+788,Western Pacific,Lao People's Democratic Republic,2019,Female,18.89
+789,Africa,Senegal,2019,Female,18.92
+790,Africa,South Sudan,2019,Female,18.93
+791,Eastern Mediterranean,Djibouti,2019,Female,18.96
+792,Western Pacific,Brunei Darussalam,2019,Male,18.97
+793,Africa,Mauritania,2019,Both sexes,18.98
+794,Americas,Uruguay,2019,Male,18.98
+795,Americas,Dominican Republic,2019,Male,18.99
+796,Eastern Mediterranean,Bahrain,2019,Both sexes,19.01
+797,Europe,Republic of Moldova,2019,Both sexes,19.02
+798,Africa,Malawi,2019,Female,19.03
+799,Western Pacific,Tonga,2019,Both sexes,19.03
+800,Americas,Bolivia (Plurinational State of),2019,Female,19.06
+801,Africa,United Republic of Tanzania,2019,Female,19.06
+802,Americas,Honduras,2019,Female,19.08
+803,Africa,Kenya,2019,Female,19.09
+804,South-East Asia,Democratic People's Republic of Korea,2019,Both sexes,19.1
+805,Western Pacific,Cambodia,2019,Female,19.11
+806,Eastern Mediterranean,Egypt,2019,Female,19.11
+807,Americas,Bahamas,2019,Male,19.12
+808,Africa,Mauritania,2019,Male,19.12
+809,Africa,South Africa,2019,Both sexes,19.12
+810,South-East Asia,Indonesia,2019,Female,19.13
+811,South-East Asia,Nepal,2019,Female,19.15
+812,Africa,Rwanda,2019,Female,19.16
+813,Americas,Saint Lucia,2019,Male,19.16
+814,Western Pacific,Brunei Darussalam,2019,Both sexes,19.17
+815,Eastern Mediterranean,Iraq,2019,Both sexes,19.18
+816,Eastern Mediterranean,United Arab Emirates,2019,Male,19.18
+817,Western Pacific,China,2019,Male,19.19
+818,Africa,Gabon,2019,Female,19.25
+819,Africa,Namibia,2019,Female,19.25
+820,Eastern Mediterranean,Saudi Arabia,2019,Male,19.25
+821,Europe,Estonia,2019,Male,19.26
+822,Europe,Slovakia,2019,Male,19.27
+823,Eastern Mediterranean,Syrian Arab Republic,2019,Female,19.28
+824,Eastern Mediterranean,Bahrain,2019,Female,19.36
+825,South-East Asia,Bhutan,2019,Both sexes,19.36
+826,Western Pacific,Brunei Darussalam,2019,Female,19.38
+827,Africa,Uganda,2019,Female,19.38
+828,Africa,Ethiopia,2019,Female,19.4
+829,Americas,Guatemala,2019,Male,19.4
+830,Eastern Mediterranean,Sudan,2019,Female,19.41
+831,Europe,Croatia,2019,Male,19.44
+832,Europe,Montenegro,2019,Both sexes,19.44
+833,Europe,Kazakhstan,2019,Both sexes,19.46
+834,Europe,Ukraine,2019,Both sexes,19.49
+835,Western Pacific,Malaysia,2019,Both sexes,19.5
+836,Eastern Mediterranean,Qatar,2019,Both sexes,19.5
+837,Africa,Seychelles,2019,Both sexes,19.5
+838,Europe,Poland,2019,Male,19.52
+839,South-East Asia,India,2019,Female,19.54
+840,Western Pacific,Philippines,2019,Female,19.57
+841,Europe,Serbia,2019,Both sexes,19.58
+842,Eastern Mediterranean,Morocco,2019,Female,19.59
+843,Western Pacific,Viet Nam,2019,Both sexes,19.6
+844,South-East Asia,Myanmar,2019,Female,19.62
+845,Europe,The former Yugoslav Republic of Macedonia,2019,Female,19.64
+846,Africa,Cabo Verde,2019,Both sexes,19.66
+847,Americas,Venezuela (Bolivarian Republic of),2019,Male,19.67
+848,Europe,Belarus,2019,Both sexes,19.72
+849,Americas,Antigua and Barbuda,2019,Male,19.81
+850,Europe,Uzbekistan,2019,Female,19.81
+851,Europe,Bulgaria,2019,Both sexes,19.82
+852,Eastern Mediterranean,Saudi Arabia,2019,Both sexes,19.9
+853,Eastern Mediterranean,United Arab Emirates,2019,Both sexes,19.92
+854,Europe,Czechia,2019,Male,19.93
+855,Europe,Russian Federation,2019,Both sexes,19.93
+856,Americas,Barbados,2019,Male,19.94
+857,South-East Asia,Bhutan,2019,Female,19.95
+858,Americas,Cuba,2019,Male,19.98
+859,Europe,Kyrgyzstan,2019,Both sexes,20.01
+860,Americas,Nicaragua,2019,Both sexes,20.03
+861,Americas,Jamaica,2019,Male,20.07
+862,Americas,Brazil,2019,Male,20.09
+863,Europe,Turkmenistan,2019,Female,20.11
+864,Americas,Paraguay,2019,Male,20.15
+865,Europe,Bosnia and Herzegovina,2019,Both sexes,20.16
+866,Americas,Saint Vincent and the Grenadines,2019,Male,20.16
+867,Eastern Mediterranean,Tunisia,2019,Male,20.16
+868,Europe,Albania,2019,Male,20.22
+869,Europe,Hungary,2019,Both sexes,20.22
+870,Europe,Romania,2019,Both sexes,20.25
+871,South-East Asia,Bangladesh,2019,Male,20.26
+872,Africa,Mauritius,2019,Both sexes,20.29
+873,Americas,Belize,2019,Male,20.32
+874,Americas,Grenada,2019,Female,20.34
+875,Europe,Armenia,2019,Both sexes,20.41
+876,Americas,Trinidad and Tobago,2019,Male,20.41
+877,Americas,El Salvador,2019,Male,20.42
+878,Americas,Suriname,2019,Female,20.45
+879,Americas,Guatemala,2019,Both sexes,20.47
+880,Americas,Mexico,2019,Male,20.5
+881,Africa,South Africa,2019,Female,20.52
+882,Europe,Latvia,2019,Both sexes,20.53
+883,Eastern Mediterranean,Lebanon,2019,Both sexes,20.53
+884,Eastern Mediterranean,Libya,2019,Male,20.55
+885,Western Pacific,Malaysia,2019,Female,20.56
+886,Americas,Antigua and Barbuda,2019,Both sexes,20.59
+887,Europe,Türkiye,2019,Male,20.61
+888,Eastern Mediterranean,Qatar,2019,Male,20.64
+889,Americas,Dominican Republic,2019,Both sexes,20.65
+890,Eastern Mediterranean,Iraq,2019,Female,20.66
+891,South-East Asia,Sri Lanka,2019,Both sexes,20.76
+892,South-East Asia,Democratic People's Republic of Korea,2019,Female,20.77
+893,Eastern Mediterranean,Saudi Arabia,2019,Female,20.77
+894,Americas,Bahamas,2019,Both sexes,20.84
+895,South-East Asia,Bangladesh,2019,Both sexes,20.86
+896,Americas,Saint Vincent and the Grenadines,2019,Both sexes,20.87
+897,Americas,Saint Lucia,2019,Both sexes,20.91
+898,Americas,Barbados,2019,Both sexes,20.92
+899,Europe,Republic of Moldova,2019,Female,20.92
+900,Europe,Lithuania,2019,Both sexes,20.93
+901,Europe,Georgia,2019,Female,21.02
+902,Europe,Albania,2019,Both sexes,21.03
+903,Western Pacific,China,2019,Both sexes,21.06
+904,Europe,Serbia,2019,Female,21.1
+905,Americas,Argentina,2019,Both sexes,21.11
+906,Western Pacific,Tonga,2019,Female,21.16
+907,Eastern Mediterranean,Iran (Islamic Republic of),2019,Male,21.18
+908,Eastern Mediterranean,Libya,2019,Both sexes,21.26
+909,Americas,Antigua and Barbuda,2019,Female,21.31
+910,Americas,Jamaica,2019,Both sexes,21.32
+911,Europe,Montenegro,2019,Female,21.32
+912,South-East Asia,Maldives,2019,Male,21.39
+913,Americas,Guatemala,2019,Female,21.43
+914,Europe,Kazakhstan,2019,Female,21.44
+915,Africa,Seychelles,2019,Female,21.51
+916,Africa,Algeria,2019,Male,21.53
+917,South-East Asia,Bangladesh,2019,Female,21.53
+918,Americas,Belize,2019,Both sexes,21.53
+919,Eastern Mediterranean,Tunisia,2019,Both sexes,21.54
+920,Europe,Bosnia and Herzegovina,2019,Female,21.56
+921,Eastern Mediterranean,Jordan,2019,Male,21.56
+922,Americas,Cuba,2019,Both sexes,21.59
+923,Americas,Saint Vincent and the Grenadines,2019,Female,21.63
+924,Europe,Kyrgyzstan,2019,Female,21.67
+925,Americas,Uruguay,2019,Both sexes,21.67
+926,Eastern Mediterranean,United Arab Emirates,2019,Female,21.69
+927,Americas,Venezuela (Bolivarian Republic of),2019,Both sexes,21.69
+928,Europe,Ukraine,2019,Female,21.73
+929,Europe,Croatia,2019,Both sexes,21.76
+930,Africa,Cabo Verde,2019,Female,21.77
+931,Americas,Paraguay,2019,Both sexes,21.78
+932,Americas,United States of America,2019,Male,21.78
+933,Americas,Barbados,2019,Female,21.79
+934,Eastern Mediterranean,Jordan,2019,Both sexes,21.81
+935,Europe,Slovakia,2019,Both sexes,21.81
+936,Eastern Mediterranean,Iran (Islamic Republic of),2019,Both sexes,21.82
+937,Americas,Mexico,2019,Both sexes,21.84
+938,Europe,Slovenia,2019,Male,21.84
+939,Europe,Germany,2019,Male,21.87
+940,Americas,Nicaragua,2019,Female,21.87
+941,Eastern Mediterranean,Libya,2019,Female,21.89
+942,Americas,Brazil,2019,Both sexes,21.9
+943,Europe,Albania,2019,Female,21.94
+944,Europe,Bulgaria,2019,Female,21.97
+945,Africa,Mauritius,2019,Female,21.97
+946,Europe,Türkiye,2019,Both sexes,22.03
+947,Western Pacific,Viet Nam,2019,Female,22.03
+948,Africa,Algeria,2019,Both sexes,22.04
+949,Americas,Ecuador,2019,Male,22.04
+950,Europe,Czechia,2019,Both sexes,22.07
+951,Europe,Greece,2019,Male,22.07
+952,Eastern Mediterranean,Jordan,2019,Female,22.07
+953,Americas,El Salvador,2019,Both sexes,22.12
+954,Europe,Portugal,2019,Male,22.12
+955,South-East Asia,Thailand,2019,Male,22.12
+956,Europe,Poland,2019,Both sexes,22.13
+957,Europe,Armenia,2019,Female,22.15
+958,South-East Asia,Maldives,2019,Both sexes,22.15
+959,Europe,Russian Federation,2019,Female,22.19
+960,Europe,Denmark,2019,Male,22.26
+961,Europe,Hungary,2019,Female,22.27
+962,Europe,Belgium,2019,Male,22.33
+963,Americas,Dominican Republic,2019,Female,22.36
+964,Europe,Finland,2019,Male,22.36
+965,Americas,Bahamas,2019,Female,22.39
+966,Europe,Romania,2019,Female,22.39
+967,Eastern Mediterranean,Lebanon,2019,Female,22.4
+968,Americas,Chile,2019,Male,22.41
+969,Europe,Austria,2019,Male,22.43
+970,Europe,Belarus,2019,Female,22.48
+971,Americas,Colombia,2019,Male,22.48
+972,Eastern Mediterranean,Iran (Islamic Republic of),2019,Female,22.48
+973,Europe,Estonia,2019,Both sexes,22.53
+974,Americas,Panama,2019,Male,22.55
+975,Africa,Algeria,2019,Female,22.62
+976,Americas,Jamaica,2019,Female,22.63
+977,South-East Asia,Sri Lanka,2019,Female,22.63
+978,Americas,Trinidad and Tobago,2019,Both sexes,22.72
+979,Eastern Mediterranean,Kuwait,2019,Male,22.82
+980,Eastern Mediterranean,Tunisia,2019,Female,22.82
+981,Europe,Luxembourg,2019,Male,22.91
+982,Americas,Saint Lucia,2019,Female,22.91
+983,Americas,Belize,2019,Female,22.93
+984,Europe,Latvia,2019,Female,22.95
+985,Europe,Netherlands,2019,Male,22.96
+986,Europe,United Kingdom of Great Britain and Northern Ireland,2019,Male,22.96
+987,Europe,Malta,2019,Male,22.99
+988,Europe,Ireland,2019,Male,23.01
+989,South-East Asia,Maldives,2019,Female,23.05
+990,Americas,Mexico,2019,Female,23.06
+991,Americas,Argentina,2019,Female,23.08
+992,Western Pacific,China,2019,Female,23.08
+993,Americas,United States of America,2019,Both sexes,23.13
+994,Americas,Cuba,2019,Female,23.18
+995,Americas,Ecuador,2019,Both sexes,23.2
+996,Europe,Türkiye,2019,Female,23.24
+997,Europe,France,2019,Male,23.27
+998,Europe,Spain,2019,Male,23.28
+999,Europe,Cyprus,2019,Male,23.31
+1000,Europe,Sweden,2019,Male,23.34
+1001,Europe,Italy,2019,Male,23.36
+1002,Western Pacific,Republic of Korea,2019,Male,23.37
+1003,Europe,Lithuania,2019,Female,23.46
+1004,Europe,Norway,2019,Male,23.47
+1005,Americas,Paraguay,2019,Female,23.5
+1006,Americas,Brazil,2019,Female,23.51
+1007,Americas,El Salvador,2019,Female,23.57
+1008,South-East Asia,Thailand,2019,Both sexes,23.57
+1009,Americas,Costa Rica,2019,Male,23.58
+1010,Europe,Denmark,2019,Both sexes,23.59
+1011,Americas,Venezuela (Bolivarian Republic of),2019,Female,23.6
+1012,Europe,Israel,2019,Male,23.62
+1013,Americas,Peru,2019,Male,23.66
+1014,Europe,Iceland,2019,Male,23.71
+1015,Europe,Croatia,2019,Female,23.75
+1016,Western Pacific,New Zealand,2019,Male,23.75
+1017,Western Pacific,Singapore,2019,Male,23.78
+1018,Europe,Slovenia,2019,Both sexes,23.82
+1019,Americas,Canada,2019,Male,23.84
+1020,Europe,Greece,2019,Both sexes,23.84
+1021,Europe,Slovakia,2019,Female,23.93
+1022,Western Pacific,Japan,2019,Male,23.95
+1023,Americas,Colombia,2019,Both sexes,23.96
+1024,Eastern Mediterranean,Kuwait,2019,Both sexes,23.96
+1025,Americas,Uruguay,2019,Female,23.96
+1026,Europe,Czechia,2019,Female,24.0
+1027,Europe,Belgium,2019,Both sexes,24.02
+1028,Europe,Netherlands,2019,Both sexes,24.08
+1029,Europe,Austria,2019,Both sexes,24.09
+1030,Europe,Switzerland,2019,Male,24.09
+1031,Europe,United Kingdom of Great Britain and Northern Ireland,2019,Both sexes,24.13
+1032,Europe,Finland,2019,Both sexes,24.16
+1033,Europe,Ireland,2019,Both sexes,24.19
+1034,Americas,Panama,2019,Both sexes,24.26
+1035,Americas,Chile,2019,Both sexes,24.27
+1036,Americas,Ecuador,2019,Female,24.31
+1037,Europe,Poland,2019,Female,24.33
+1038,Europe,Portugal,2019,Both sexes,24.34
+1039,Western Pacific,Australia,2019,Male,24.37
+1040,Americas,Peru,2019,Both sexes,24.38
+1041,Americas,United States of America,2019,Female,24.38
+1042,Europe,Luxembourg,2019,Both sexes,24.4
+1043,Europe,Germany,2019,Both sexes,24.41
+1044,Europe,Malta,2019,Both sexes,24.49
+1045,Europe,Sweden,2019,Both sexes,24.5
+1046,Europe,Iceland,2019,Both sexes,24.64
+1047,Europe,Norway,2019,Both sexes,24.66
+1048,Western Pacific,New Zealand,2019,Both sexes,24.83
+1049,South-East Asia,Thailand,2019,Female,24.84
+1050,Europe,Denmark,2019,Female,24.85
+1051,Europe,Israel,2019,Both sexes,24.9
+1052,Europe,Cyprus,2019,Both sexes,24.92
+1053,Europe,Estonia,2019,Female,24.99
+1054,Americas,Trinidad and Tobago,2019,Female,25.01
+1055,Americas,Costa Rica,2019,Both sexes,25.03
+1056,Europe,Italy,2019,Both sexes,25.04
+1057,Americas,Peru,2019,Female,25.05
+1058,Europe,Netherlands,2019,Female,25.13
+1059,Americas,Canada,2019,Both sexes,25.15
+1060,Europe,United Kingdom of Great Britain and Northern Ireland,2019,Female,25.23
+1061,Americas,Colombia,2019,Female,25.27
+1062,Europe,Ireland,2019,Female,25.33
+1063,Europe,France,2019,Both sexes,25.34
+1064,Europe,Spain,2019,Both sexes,25.39
+1065,Europe,Switzerland,2019,Both sexes,25.43
+1066,Europe,Greece,2019,Female,25.52
+1067,Europe,Iceland,2019,Female,25.54
+1068,Western Pacific,Singapore,2019,Both sexes,25.54
+1069,Europe,Belgium,2019,Female,25.58
+1070,Europe,Sweden,2019,Female,25.59
+1071,Europe,Austria,2019,Female,25.6
+1072,Western Pacific,Australia,2019,Both sexes,25.62
+1073,Europe,Slovenia,2019,Female,25.64
+1074,Europe,Norway,2019,Female,25.76
+1075,Western Pacific,Republic of Korea,2019,Both sexes,25.8
+1076,Europe,Finland,2019,Female,25.81
+1077,Europe,Luxembourg,2019,Female,25.81
+1078,Western Pacific,New Zealand,2019,Female,25.84
+1079,Europe,Malta,2019,Female,25.86
+1080,Americas,Chile,2019,Female,25.88
+1081,Eastern Mediterranean,Kuwait,2019,Female,25.9
+1082,Americas,Panama,2019,Female,25.95
+1083,Europe,Israel,2019,Female,26.03
+1084,Europe,Portugal,2019,Female,26.29
+1085,Western Pacific,Japan,2019,Both sexes,26.35
+1086,Americas,Canada,2019,Female,26.38
+1087,Americas,Costa Rica,2019,Female,26.4
+1088,Europe,Cyprus,2019,Female,26.43
+1089,Europe,Italy,2019,Female,26.53
+1090,Europe,Switzerland,2019,Female,26.65
+1091,Western Pacific,Australia,2019,Female,26.83
+1092,Europe,Germany,2019,Female,26.87
+1093,Europe,France,2019,Female,27.21
+1094,Western Pacific,Singapore,2019,Female,27.22
+1095,Europe,Spain,2019,Female,27.34
+1096,Western Pacific,Republic of Korea,2019,Female,27.87
+1097,Western Pacific,Japan,2019,Female,28.56
