@@ -1,0 +1,195 @@
+LocationCode,Location,CountryCode,Country,Period,FactValueNumeric,Value
+EUR,Europe,SMR,San Marino,2015-2019,25.69,26
+AFR,Africa,COM,Comoros,2015-2019,29.86,30
+AFR,Africa,GNQ,Equatorial Guinea,2015-2019,29.86,30
+EUR,Europe,AND,Andorra,2015-2019,31.25,31
+WPR,Western Pacific,NIU,Niue,2015-2019,31.25,31
+WPR,Western Pacific,FSM,Micronesia (Federated States of),2015-2019,34.03,34
+EUR,Europe,MCO,Monaco,2015-2019,34.03,34
+EUR,Europe,BIH,Bosnia and Herzegovina,2015-2019,36.81,37
+EMR,Eastern Mediterranean,KWT,Kuwait,2015-2019,36.81,37
+AMR,Americas,KNA,Saint Kitts and Nevis,2015-2019,36.81,37
+AMR,Americas,VCT,Saint Vincent and the Grenadines,2015-2019,36.81,37
+WPR,Western Pacific,VUT,Vanuatu,2015-2019,36.81,37
+AMR,Americas,BRB,Barbados,2015-2019,40.28,40
+AMR,Americas,DMA,Dominica,2015-2019,40.28,40
+EMR,Eastern Mediterranean,DJI,Djibouti,2015-2019,41.67,42
+AFR,Africa,GAB,Gabon,2015-2019,41.67,42
+EMR,Eastern Mediterranean,LBY,Libya,2015-2019,42.36,42
+AFR,Africa,NAM,Namibia,2015-2019,42.36,42
+WPR,Western Pacific,NRU,Nauru,2015-2019,42.36,42
+AMR,Americas,ATG,Antigua and Barbuda,2015-2019,43.06,43
+AMR,Americas,GRD,Grenada,2015-2019,43.06,43
+AFR,Africa,ERI,Eritrea,2015-2019,43.75,44
+EMR,Eastern Mediterranean,QAT,Qatar,2015-2019,45.14,45
+AMR,Americas,LCA,Saint Lucia,2015-2019,45.14,45
+WPR,Western Pacific,TUV,Tuvalu,2015-2019,45.14,45
+AFR,Africa,SYC,Seychelles,2015-2019,45.83,46
+EMR,Eastern Mediterranean,BHR,Bahrain,2015-2019,47.92,48
+AFR,Africa,SWZ,Eswatini,2015-2019,47.92,48
+AFR,Africa,SSD,South Sudan,2015-2019,48.61,49
+WPR,Western Pacific,COK,Cook Islands,2015-2019,50.69,51
+AMR,Americas,NIC,Nicaragua,2015-2019,51.39,51
+WPR,Western Pacific,PLW,Palau,2015-2019,50.69,51
+EMR,Eastern Mediterranean,YEM,Yemen,2015-2019,50.69,51
+AMR,Americas,BHS,Bahamas,2015-2019,53.47,53
+WPR,Western Pacific,KHM,Cambodia,2015-2019,53.47,53
+AMR,Americas,DOM,Dominican Republic,2015-2019,53.47,53
+WPR,Western Pacific,FJI,Fiji,2015-2019,53.47,53
+AMR,Americas,HND,Honduras,2015-2019,53.47,53
+EUR,Europe,SVK,Slovakia,2015-2019,53.47,53
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,2015-2019,53.47,53
+AMR,Americas,TTO,Trinidad and Tobago,2015-2019,54.17,54
+WPR,Western Pacific,WSM,Samoa,2015-2019,54.86,55
+EUR,Europe,AUT,Austria,2015-2019,56.25,56
+EUR,Europe,BGR,Bulgaria,2015-2019,56.25,56
+EUR,Europe,CYP,Cyprus,2015-2019,56.25,56
+EUR,Europe,CZE,Czechia,2015-2019,56.25,56
+EUR,Europe,HUN,Hungary,2015-2019,56.25,56
+EUR,Europe,LVA,Latvia,2015-2019,56.25,56
+EUR,Europe,LTU,Lithuania,2015-2019,56.25,56
+EUR,Europe,SVN,Slovenia,2015-2019,56.25,56
+WPR,Western Pacific,MHL,Marshall Islands,2015-2019,56.94,57
+EMR,Eastern Mediterranean,SDN,Sudan,2015-2019,57.64,58
+AFR,Africa,MUS,Mauritius,2015-2019,59.03,59
+AFR,Africa,BFA,Burkina Faso,2015-2019,60.42,60
+EUR,Europe,KGZ,Kyrgyzstan,2015-2019,60.42,60
+EUR,Europe,MKD,The former Yugoslav Republic of Macedonia,2015-2019,60.42,60
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2015-2019,59.72,60
+AFR,Africa,CIV,Côte d’Ivoire,2015-2019,61.11,61
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2015-2019,61.11,61
+AFR,Africa,BWA,Botswana,2015-2019,61.81,62
+AMR,Americas,JAM,Jamaica,2015-2019,61.81,62
+WPR,Western Pacific,BRN,Brunei Darussalam,2015-2019,62.5,63
+WPR,Western Pacific,JPN,Japan,2015-2019,62.5,63
+WPR,Western Pacific,KOR,Republic of Korea,2015-2019,62.5,63
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2015-2019,62.5,63
+WPR,Western Pacific,TON,Tonga,2015-2019,63.19,63
+AFR,Africa,LBR,Liberia,2015-2019,63.89,64
+EUR,Europe,AZE,Azerbaijan,2015-2019,64.58,65
+EUR,Europe,DEU,Germany,2015-2019,64.58,65
+AMR,Americas,GUY,Guyana,2015-2019,65.28,65
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2015-2019,64.58,65
+EUR,Europe,IRL,Ireland,2015-2019,64.58,65
+EUR,Europe,ISR,Israel,2015-2019,64.58,65
+EUR,Europe,LUX,Luxembourg,2015-2019,64.58,65
+EUR,Europe,MLT,Malta,2015-2019,64.58,65
+EUR,Europe,NLD,Netherlands,2015-2019,64.58,65
+EUR,Europe,NOR,Norway,2015-2019,64.58,65
+EUR,Europe,MDA,Republic of Moldova,2015-2019,64.58,65
+EUR,Europe,UKR,Ukraine,2015-2019,64.58,65
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2015-2019,64.58,65
+AFR,Africa,COD,Democratic Republic of the Congo,2015-2019,66.67,67
+AMR,Americas,ECU,Ecuador,2015-2019,67.36,67
+AFR,Africa,LSO,Lesotho,2015-2019,66.67,67
+EUR,Europe,UZB,Uzbekistan,2015-2019,67.36,67
+SEAR,South-East Asia,BTN,Bhutan,2015-2019,68.06,68
+WPR,Western Pacific,CHN,China,2015-2019,68.06,68
+AFR,Africa,AGO,Angola,2015-2019,69.44,69
+AFR,Africa,CAF,Central African Republic,2015-2019,69.44,69
+AFR,Africa,COG,Congo,2015-2019,69.44,69
+AFR,Africa,MDG,Madagascar,2015-2019,69.44,69
+SEAR,South-East Asia,MDV,Maldives,2015-2019,68.75,69
+AMR,Americas,PAN,Panama,2015-2019,68.75,69
+AFR,Africa,STP,Sao Tome and Principe,2015-2019,68.75,69
+EMR,Eastern Mediterranean,SOM,Somalia,2015-2019,68.75,69
+EUR,Europe,BEL,Belgium,2015-2019,70.83,71
+EUR,Europe,EST,Estonia,2015-2019,70.83,71
+EUR,Europe,FIN,Finland,2015-2019,70.83,71
+EUR,Europe,FRA,France,2015-2019,70.83,71
+EUR,Europe,ISL,Iceland,2015-2019,70.83,71
+EMR,Eastern Mediterranean,LBN,Lebanon,2015-2019,70.83,71
+WPR,Western Pacific,NZL,New Zealand,2015-2019,70.83,71
+EMR,Eastern Mediterranean,OMN,Oman,2015-2019,70.83,71
+EUR,Europe,POL,Poland,2015-2019,70.83,71
+EUR,Europe,RUS,Russian Federation,2015-2019,70.83,71
+WPR,Western Pacific,SGP,Singapore,2015-2019,70.83,71
+EUR,Europe,SWE,Sweden,2015-2019,70.83,71
+EUR,Europe,CHE,Switzerland,2015-2019,70.83,71
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2015-2019,70.83,71
+AFR,Africa,BDI,Burundi,2015-2019,72.22,72
+AFR,Africa,GIN,Guinea,2015-2019,72.22,72
+AFR,Africa,GNB,Guinea-Bissau,2015-2019,72.22,72
+AMR,Americas,PRY,Paraguay,2015-2019,72.22,72
+AFR,Africa,SLE,Sierra Leone,2015-2019,72.22,72
+WPR,Western Pacific,SLB,Solomon Islands,2015-2019,72.22,72
+EUR,Europe,TKM,Turkmenistan,2015-2019,71.53,72
+AFR,Africa,UGA,Uganda,2015-2019,72.22,72
+AMR,Americas,ARG,Argentina,2015-2019,72.92,73
+AMR,Americas,CAN,Canada,2015-2019,72.92,73
+EUR,Europe,DNK,Denmark,2015-2019,72.92,73
+EMR,Eastern Mediterranean,EGY,Egypt,2015-2019,72.92,73
+EUR,Europe,GRC,Greece,2015-2019,72.92,73
+EUR,Europe,PRT,Portugal,2015-2019,72.92,73
+EUR,Europe,ROU,Romania,2015-2019,72.92,73
+AMR,Americas,SLV,El Salvador,2015-2019,73.61,74
+AFR,Africa,MRT,Mauritania,2015-2019,75,75
+SEAR,South-East Asia,MMR,Myanmar,2015-2019,75,75
+AFR,Africa,NER,Niger,2015-2019,75,75
+SEAR,South-East Asia,TLS,Timor-Leste,2015-2019,75,75
+AFR,Africa,ZWE,Zimbabwe,2015-2019,75,75
+WPR,Western Pacific,VNM,Viet Nam,2015-2019,76.39,76
+WPR,Western Pacific,AUS,Australia,2015-2019,77.08,77
+AFR,Africa,CPV,Cabo Verde,2015-2019,77.08,77
+WPR,Western Pacific,MYS,Malaysia,2015-2019,77.08,77
+EUR,Europe,MNE,Montenegro,2015-2019,77.08,77
+EUR,Europe,SRB,Serbia,2015-2019,77.08,77
+SEAR,South-East Asia,LKA,Sri Lanka,2015-2019,77.08,77
+EUR,Europe,TUR,Türkiye,2015-2019,77.08,77
+AMR,Americas,USA,United States of America,2015-2019,77.08,77
+AFR,Africa,CMR,Cameroon,2015-2019,77.78,78
+AFR,Africa,MWI,Malawi,2015-2019,77.78,78
+EMR,Eastern Mediterranean,PAK,Pakistan,2015-2019,77.78,78
+AMR,Americas,BRA,Brazil,2015-2019,79.17,79
+AMR,Americas,CHL,Chile,2015-2019,79.17,79
+EUR,Europe,HRV,Croatia,2015-2019,79.17,79
+EUR,Europe,ITA,Italy,2015-2019,79.17,79
+EUR,Europe,ESP,Spain,2015-2019,79.17,79
+EUR,Europe,ALB,Albania,2015-2019,79.86,80
+AMR,Americas,BLZ,Belize,2015-2019,80.56,81
+AMR,Americas,CUB,Cuba,2015-2019,80.56,81
+AFR,Africa,GMB,Gambia,2015-2019,80.56,81
+AFR,Africa,GHA,Ghana,2015-2019,80.56,81
+WPR,Western Pacific,KIR,Kiribati,2015-2019,80.56,81
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2015-2019,80.56,81
+AFR,Africa,ZAF,South Africa,2015-2019,80.56,81
+AFR,Africa,ZMB,Zambia,2015-2019,80.56,81
+SEAR,South-East Asia,BGD,Bangladesh,2015-2019,83.33,83
+AMR,Americas,BOL,Bolivia (Plurinational State of),2015-2019,83.33,83
+AFR,Africa,TCD,Chad,2015-2019,83.33,83
+AMR,Americas,CRI,Costa Rica,2015-2019,83.33,83
+EMR,Eastern Mediterranean,IRQ,Iraq,2015-2019,83.33,83
+AFR,Africa,MLI,Mali,2015-2019,83.33,83
+AFR,Africa,MOZ,Mozambique,2015-2019,83.33,83
+AFR,Africa,NGA,Nigeria,2015-2019,83.33,83
+WPR,Western Pacific,PNG,Papua New Guinea,2015-2019,83.33,83
+AFR,Africa,RWA,Rwanda,2015-2019,83.33,83
+AFR,Africa,SEN,Senegal,2015-2019,83.33,83
+AMR,Americas,SUR,Suriname,2015-2019,83.33,83
+EUR,Europe,TJK,Tajikistan,2015-2019,83.33,83
+SEAR,South-East Asia,THA,Thailand,2015-2019,83.33,83
+AFR,Africa,TGO,Togo,2015-2019,83.33,83
+AMR,Americas,URY,Uruguay,2015-2019,82.64,83
+AFR,Africa,DZA,Algeria,2015-2019,85.42,85
+EUR,Europe,BLR,Belarus,2015-2019,85.42,85
+AMR,Americas,COL,Colombia,2015-2019,85.42,85
+EUR,Europe,GEO,Georgia,2015-2019,85.42,85
+EUR,Europe,KAZ,Kazakhstan,2015-2019,85.42,85
+AFR,Africa,KEN,Kenya,2015-2019,85.42,85
+EMR,Eastern Mediterranean,MAR,Morocco,2015-2019,85.42,85
+AFR,Africa,ETH,Ethiopia,2015-2019,86.11,86
+AMR,Americas,GTM,Guatemala,2015-2019,86.11,86
+SEAR,South-East Asia,IND,India,2015-2019,86.11,86
+AFR,Africa,TZA,United Republic of Tanzania,2015-2019,86.11,86
+EMR,Eastern Mediterranean,AFG,Afghanistan,2015-2019,88.89,89
+AMR,Americas,HTI,Haiti,2015-2019,88.89,89
+EMR,Eastern Mediterranean,JOR,Jordan,2015-2019,88.89,89
+WPR,Western Pacific,MNG,Mongolia,2015-2019,88.89,89
+AMR,Americas,PER,Peru,2015-2019,88.89,89
+EUR,Europe,ARM,Armenia,2015-2019,91.67,92
+AFR,Africa,BEN,Benin,2015-2019,91.67,92
+SEAR,South-East Asia,IDN,Indonesia,2015-2019,91.67,92
+AMR,Americas,MEX,Mexico,2015-2019,91.67,92
+SEAR,South-East Asia,NPL,Nepal,2015-2019,91.67,92
+WPR,Western Pacific,PHL,Philippines,2015-2019,91.67,92
+EMR,Eastern Mediterranean,TUN,Tunisia,2015-2019,91.67,92
