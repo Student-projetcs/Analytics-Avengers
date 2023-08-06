@@ -7,3 +7,10 @@ The study of global health and mortality is crucial for fostering a healthier an
 The study of global trends and challenges on a global scale also enables policymaker and healthcare professionals to make informed decision to device and implement effective interventions that will ultimately improve health on a global scale and importantly, save lives.
 
 ## Authors
+
+Jessica Benkaroun
+Sara Bhatti
+Moyinoluwa E
+Jean Qintong Li
+Corina P
+Payal P
